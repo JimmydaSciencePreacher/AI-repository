@@ -19,12 +19,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0011](RECORD-0011-GENESIS-1-11.md) | Genesis 1:11 (KJV) | Records God's command for the earth to bring forth grass, herb yielding seed, and fruit tree yielding fruit after his kind; preserves the seed clause's grammatical scope and distinguishes command from the report in verse 12. |
 | [0012](RECORD-0012-GENESIS-1-12.md) | Genesis 1:12 (KJV) | Records the earth bringing forth the vegetation described, including the herb and tree after his kind, and God's assessment that it was good; distinguishes the reported result from the command in verse 11. |
 | [0013](RECORD-0013-GENESIS-1-13.md) | Genesis 1:13 (KJV) | Records the evening and morning as the third day; distinguishes the day designation from the commands, results, and assessments in verses 9–12. |
+| [0014](RECORD-0014-GENESIS-1-14.md) | Genesis 1:14 (KJV) | Records God's command for lights in the firmament to divide day from night and serve for signs, seasons, days, and years; distinguishes verse 14's assigned purposes from details in verses 15–18. |
 
 ## Current position
 
-The study has examined Genesis 1:1–13 (KJV).
+The study has examined Genesis 1:1–14 (KJV).
 
-The next question arising from Record 0013 is: **What does Genesis 1:14 (KJV) establish when God commands lights in the firmament of the heaven to divide the day from the night, and assigns them for signs, seasons, days, and years?**
+The next question arising from Record 0014 is: **What does Genesis 1:15 (KJV) add when God says that the lights are to be in the firmament of the heaven to give light upon the earth, and the text records, “and it was so”? How does this added purpose relate to the command in verse 14?**
 
 ## Study controls
 
