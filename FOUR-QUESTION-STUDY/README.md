@@ -104,6 +104,6 @@ Not every record will require scientific analysis. When science is not materiall
 - Preserve uncertainty honestly.
 - Write the study as it develops and maintain its own index and records.
 
-## Initial study state
+## Current study state
 
-The study method and admissibility rules are established above. No opening Scripture passage or first subject has been specified in this charter. The first examination begins when the study's opening subject is identified; it must not be selected by silently importing a sequence from another study.
+The study has begun with Genesis 1:1 (KJV). See [INDEX.md](INDEX.md) for the sequence and [RECORD-0001-GENESIS-1-1.md](RECORD-0001-GENESIS-1-1.md) for the first completed examination. The next question arises from Genesis 1:2.
