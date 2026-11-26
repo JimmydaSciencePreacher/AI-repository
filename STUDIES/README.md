@@ -58,6 +58,7 @@ This index follows the numbered study sequence already established in the reposi
 37. [Study 0037 — The Holy Ghost: The Promise of the Father, the Gift of Christ, and the Power of Witness](0037-THE-HOLY-GHOST-THE-PROMISE-OF-THE-FATHER-AND-POWER-OF-WITNESS.md)
 38. [Study 0038 — Freely Ye Have Received, Freely Give: The Gift, the Name of Jesus Christ, and the Witness Who Gives](0038-FREELY-YE-HAVE-RECEIVED-FREELY-GIVE-THE-GIFT-THE-NAME-OF-JESUS-CHRIST-AND-THE-WITNESS-WHO-GIVES.md)
 39. [Study 0039 — The Name Above Every Name: Authority, Power, Faith, and the Works of Jesus Christ](0039-THE-NAME-ABOVE-EVERY-NAME-AUTHORITY-POWER-FAITH-AND-THE-WORKS-OF-JESUS-CHRIST.md)
+40. [Study 0040 — The Works of Jesus: Faith, Compassion, Authority, and the Will of the Father](0040-THE-WORKS-OF-JESUS-FAITH-COMPASSION-AUTHORITY-AND-THE-WILL-OF-THE-FATHER.md)
 
 ---
 
