@@ -107,7 +107,16 @@ The construction is parallel:
 6. **Study 0026**, especially its analysis of Romans 5:15–19 and its limitations concerning Adamic consequence and the mechanism by which the one man's act affects the many.  
    https://github.com/JimmydaSciencePreacher/AI-repository/blob/main/STUDIES/0026-ROMANS-5-12-ADAM-DEATH-AND-ALL-HAVE-SINNED.md
 
-7. **Study 0023**, especially its comparison of Romans 5, Ephesians 2, and the Bible's distinct uses of death and life.  
+7. **Study 0023**, especially its comparison of Romans 5, Ephesians 2, and the Bible's distinct uses of death and life.
+
+8. **Expositor's Greek Testament, Romans 5:19.** This commentary notes that *kathistēmi* has an ambiguity comparable to the English “constitute,” and warns that the verb alone does not decide whether the many are constituted sinners immediately or mediately through their own sin. This is useful as a counter-reading, not as a final resolution.  
+   https://lemma.gebible.app/v/romans/5/19
+
+9. **International Critical Commentary, Romans 5:19.** The commentary likewise translates the forms as “were constituted” and “shall be constituted,” while noting that the sense must be read in light of Romans 5:12–14 and the parallel with justification in Romans 5:1–2.  
+   https://lemma.gebible.app/v/romans/5/19
+
+10. **OpenBible Greek text and morphology, Romans 5:19.** Used to cross-check the Greek text and the parsing of both forms of *kathistēmi*.  
+   https://openbible.com/text/romans/5-19.htm  
    https://github.com/JimmydaSciencePreacher/AI-repository/blob/main/STUDIES/0023-DEATH-AND-LIFE-IN-SCRIPTURE-DEAD-IN-TRESPASSES.md
 
 ### 4.3 Method
@@ -453,6 +462,7 @@ No scientific mechanism is proposed. Scientific coherence is not used to prove o
 - The immediate context includes legal language, but it also includes reign, life, and grace. A purely forensic or purely transformative reading is too narrow.
 - The future tense in the Christ clause requires further study in relation to Paul's present language of justification and the future hope of resurrection.
 - The scope of “many” in verse 19 and “all men” in verse 18 requires a separate investigation.
+- The Expositor's Greek Testament raises the possibility that the many are constituted sinners mediately through their own sin, which is traced back to Adam; this alternative deserves further contextual evaluation and must not be omitted.
 - The relation between Adamic consequence and each person's actual sins remains connected to the unresolved questions from Study 0026.
 - No scientific evidence is relevant to deciding the lexical meaning of this Greek verb; the scientific constraint is therefore not a claim of scientific confirmation but a safeguard against importing unsupported mechanisms.
 
