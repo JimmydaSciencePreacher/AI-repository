@@ -103,6 +103,8 @@ AI records the evidence and flags unresolved questions. It does not claim that s
 
 ## Starting point and reset
 
+The earlier reset removed the old numbered placement-study records from this directory. Historical session handoffs with Scripture Placement names remain in `HANDOFFS/` as provenance; they were not deleted. Their passage chains and next-action instructions are superseded and are not placement authority under this reset protocol. See [Repository Reconciliation — 2026-11-26](REPOSITORY-RECONCILIATION-2026-11-26.md) and [Handoffs README](../HANDOFFS/README.md). The historical opening handoff's canonical-order direction and the later handoffs' reference-following directions must not be resumed.
+
 The new study starts with **Genesis 1:1 (KJV)** as the first Scripture. All previous Scripture Placement records 0001–0006 have been removed from this series and are not to be used as placement authority. The series begins again under this protocol.
 
 No next Scripture may be selected until AI has completed the fresh full-current GUA-W review and answered the four questions for the current position.
