@@ -39,12 +39,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0031](RECORD-0031-GENESIS-1-31.md) | Genesis 1:31 (KJV) | Records God's collective assessment of everything He made as very good and the designation of the sixth day; distinguishes assessment from the completion and rest statements in Genesis 2:1–2. |
 | [0032](RECORD-0032-GENESIS-2-1.md) | Genesis 2:1 (KJV) | Records the heavens, earth, and all their host as finished; distinguishes this declaration from God's ending of His work, rest, and blessing of the seventh day in verses 2–3. |
 | [0033](RECORD-0033-GENESIS-2-2.md) | Genesis 2:2 (KJV) | Records God ending His work and resting on the seventh day; preserves the KJV timing, distinguishes rest from fatigue, and leaves the precise relation to verse 1 open for linguistic examination. |
+| [0034](RECORD-0034-GENESIS-2-3.md) | Genesis 2:3 (KJV) | Records God blessing and sanctifying the seventh day because He rested from all His created and made work; distinguishes this act from completion, rest, and the later Sabbath command. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:2 (KJV).
+The study has examined Genesis 1:1–2:3 (KJV).
 
-The next question arising from Record 0033 is: **What does Genesis 2:3 establish when God blesses and sanctifies the seventh day, and why does the verse give as its reason that God rested from all His work which He created and made?**
+The next question arising from Record 0034 is: **What does Genesis 2:4 establish when it begins, “These are the generations of the heavens and of the earth when they were created”? Does the verse close the first account, introduce a new section, or connect the account of the heavens and earth with what follows? What does “in the day that the LORD God made the earth and the heavens” mean in its immediate context?**
 
 ## Study controls
 
