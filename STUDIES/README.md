@@ -54,6 +54,7 @@ This index follows the numbered study sequence already established in the reposi
 34. [Study 0034 — 2 Corinthians 4:7–14: Treasure in Earthen Vessels, the Manifested Life of Jesus, and Future Resurrection](0034-2-CORINTHIANS-4-7-14-TREASURE-IN-EARTHEN-VESSELS-AND-RESURRECTION-LIFE.md)
 
 35. [Study 0035 — The Miracles of Christ and Miracles in His Name](0035-THE-MIRACLES-OF-CHRIST-AND-MIRACLES-IN-HIS-NAME.md)
+36. [Study 0036 — John 14:12: The Greater Works, Christ's Ascension, and the Continuing Work of the Holy Ghost](0036-JOHN-14-12-THE-GREATER-WORKS-CHRISTS-ASCENSION-AND-THE-HOLY-GHOST.md)
 
 ---
 
