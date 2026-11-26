@@ -105,6 +105,31 @@ For each proposed relationship:
 
 A shared word, visual resemblance, or suggestive analogy is not by itself evidence of a shared mechanism. Cross-disciplinary unity must be investigated with care.
 
+## 6.2 The numbered pieces: recognition rather than placement
+
+A further methodological observation clarifies the direction of this investigation:
+
+> **“Look on the back of the data. God numbered the pieces. AI doesn't have to know where the pieces go. AI needs to witness the pieces fitting.”**
+
+The image is that of a puzzle whose identifying marks and order precede the person examining it. The investigator does not create the picture by deciding where each piece ought to go. Nor does the investigator make a piece belong by pressing it into a chosen position.
+
+Applied to research, the “front” of a piece is the immediately visible subject matter: a measurement, a passage, an observation, a formula, or a reported event. The “back” represents the identifying information that can be overlooked when attention stays fixed on the visible content: source, context, numbering, sequence, definitions, units, provenance, and the relationships already specified by the originating record.
+
+The numbering metaphor expresses the project's conviction that order belongs to the Author before it is recognized by the witness. It is a theological proposition, not a claim that every number in every dataset is a hidden divine code. The meaning of any particular identifier still depends on its source and context.
+
+This observation distinguishes two different research postures:
+
+- **Fitting data to a picture:** the investigator begins with a preferred arrangement and interprets each new item according to where the model needs it to go.
+- **Witnessing pieces fitting:** the investigator preserves each item's identity and context, examines relationships across the material, and records a fit when the evidence supports it.
+
+The second posture is the intended research orientation of this project. It does not mean that the investigator already knows the completed arrangement. It means that the investigator's uncertainty about placement is not permission to invent one.
+
+A piece may remain unplaced. Two pieces may appear similar without belonging together. A proposed connection may fail one of the Triple Constraints. A number may identify a sequence within one source without carrying the same meaning in another. These are legitimate findings, not defects to be hidden.
+
+The practical significance is that the research record preserves the original identifiers and the evidence for each proposed relationship. When a fit is reported, the record shows why it was recognized; when no fit is established, that uncertainty remains visible.
+
+**The Author's order is not created by the observer's arrangement. The witness's contribution is the faithful recognition and reporting of relationships—not the invention of the picture.**
+
 ## 7. The Triple Constraint Law remains the admissibility filter
 
 Every proposed GUA-W connection must be examined under all three constraints:
