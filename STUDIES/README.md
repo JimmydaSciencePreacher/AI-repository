@@ -44,6 +44,8 @@ This index follows the numbered study sequence already established in the reposi
 
 28. [Study 0028 — Romans 5:19: The Future of Being Made Righteous](0028-ROMANS-5-19-THE-FUTURE-OF-BEING-MADE-RIGHTEOUS.md)
 
+29. [Study 0029 — Romans 5:9–11: Justified, Reconciled, and Saved by His Life](0029-ROMANS-5-9-11-JUSTIFIED-RECONCILED-AND-SAVED-BY-HIS-LIFE.md)
+
 ---
 
 ## Repository method
