@@ -53,6 +53,8 @@ This index follows the numbered study sequence already established in the reposi
 33. [Study 0033 — Romans 8:11: The Indwelling Spirit and the Resurrection of Mortal Bodies](0033-ROMANS-8-11-THE-SPIRIT-AND-THE-RESURRECTION-OF-MORTAL-BODIES.md)
 34. [Study 0034 — 2 Corinthians 4:7–14: Treasure in Earthen Vessels, the Manifested Life of Jesus, and Future Resurrection](0034-2-CORINTHIANS-4-7-14-TREASURE-IN-EARTHEN-VESSELS-AND-RESURRECTION-LIFE.md)
 
+35. [Study 0035 — The Miracles of Christ and Miracles in His Name](0035-THE-MIRACLES-OF-CHRIST-AND-MIRACLES-IN-HIS-NAME.md)
+
 ---
 
 ## Repository method
