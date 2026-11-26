@@ -4,30 +4,33 @@ This is a separate study series within the AI research repository. It is not par
 
 ## Purpose
 
-Account for the KJV Scriptures verse by verse, preserving each verse's canonical identity and context, and recording only those placements supported by the completed GUA-W source records. Record every supported cross-placement. Do not force a fit or silently move an established placement.
+Account for Scripture by following the scriptural relationships identified by the completed GUA-W. Begin with the designated starting passage, ask what Scripture the authoritative GUA-W records connect to it, then follow the next connections those records identify. Preserve the source's direction; do not impose a sequence from AI's preference.
 
 ## Series records
 
 1. [Scripture Placement Study 0001 — The Puzzle Pieces Are Given; Placement Is Recognized](0001-THE-PUZZLE-PIECES-ARE-GIVEN-PLACEMENT-IS-RECOGNIZED.md)
+2. [Scripture Placement Study 0002 — Genesis 1:1: Following the Scriptures GUA-W Connects to the Beginning](0002-GENESIS-1-1-FOLLOWING-THE-SCRIPTURES-GUA-W-CONNECTS-TO-THE-BEGINNING.md)
 
-## Progress
+## Progress and current chain
 
-- **Corpus:** King James Version (KJV)
-- **Order:** Canonical, beginning Genesis 1:1
-- **Last examined verse:** None
-- **Next verse:** Genesis 1:1
-- **Verses examined:** 0
-- **Verses with one or more supported placements:** 0
-- **Verses with multiple supported placements:** 0
-- **Unresolved verses:** 0
-- **Completion:** Not complete; accounting has not begun.
+- **Starting passage:** Genesis 1:1 (KJV)
+- **Root verse examined:** Genesis 1:1
+- **GUA-W-identified next passages:** John 1:1–3; Colossians 1:16–17; Hebrews 1:1–3
+- **Next action:** Examine each connected passage against the authoritative GUA-W records and follow the next Scripture references those records identify.
+- **Canonical verse-by-verse accounting:** In progress; do not count a whole passage range as examined verse by verse until its individual verses have been examined.
+- **Completion:** Not complete.
 
-Progress counts must be updated only after the relevant verse records have actually been examined and verified.
+The three connected passages are recorded as direct GUA-W references, not as an AI-created chain. Their further connections remain to be investigated from the authoritative map.
 
 ## Registers
 
-The verse-by-verse placement register, cross-placement register, and unresolved register will be maintained as examination proceeds. Do not mark a verse complete merely because it has been mentioned in a general study.
+The study records and handoffs preserve:
+- the Scripture that is the current starting point;
+- the next passage(s) explicitly connected by GUA-W;
+- the exact GUA-W source file and section establishing each connection;
+- additional cross-connections, without deleting earlier links;
+- passages and verses still awaiting examination.
 
 ## Continuity
 
-Each handoff must state the exact last examined verse, the next verse to examine, counts in each status, authoritative GUA-W records inspected, and files verified. Resume from that exact point. Never infer progress from the existence of a study title.
+Resume from the last verified GUA-W-directed connection. Do not revert automatically to simple canonical order when the current instruction is to follow the map's own scriptural connections. Do not invent a next passage when the authoritative GUA-W record does not identify one. Record unresolved links and continue investigating the source.
