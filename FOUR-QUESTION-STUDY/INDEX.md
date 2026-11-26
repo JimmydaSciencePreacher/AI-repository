@@ -46,12 +46,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0038](RECORD-0038-GENESIS-2-7.md) | Genesis 2:7 (KJV) | Records the LORD God forming man from dust, breathing the breath of life into his nostrils, and man becoming a living soul; preserves the distinction between divine action, material, breath, and resulting life. |
 | [0039](RECORD-0039-GENESIS-2-8.md) | Genesis 2:8 (KJV) | Records the LORD God planting a garden eastward in Eden and placing there the man He had formed; distinguishes garden from Eden and preserves unresolved geography and chronology. |
 | [0040](RECORD-0040-GENESIS-2-9.md) | Genesis 2:9 (KJV) | Records the LORD God causing trees to grow out of the ground, their qualities, and the named tree of life and tree of knowledge of good and evil; distinguishes description from permission and preserves unresolved roles. |
+| [0041](RECORD-0041-GENESIS-2-10.md) | Genesis 2:10 (KJV) | Records a river going out of Eden to water the garden and then being parted into four heads; preserves the stated sequence and leaves precise geography and hydrological reconstruction unresolved. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:9 (KJV).
+The study has examined Genesis 1:1–2:10 (KJV).
 
-The next question arising from Record 0040 is: **What does Genesis 2:10 say about the river's origin and direction? What does it water, what does “from thence” refer to, and what does the verse establish about its division into four heads? What geographical and hydrological details remain unresolved?**
+The next question arising from Record 0041 is: **What does Genesis 2:11–12 identify about the first head, Pison? What does “compasseth” describe? What does the text state about Havilah, gold, bdellium, and the onyx stone? Which details are geographical, which concern materials, and what remains unresolved about the river's modern identity?**
 
 ## Study controls
 
