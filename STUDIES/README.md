@@ -69,6 +69,8 @@ This index follows the numbered study sequence already established in the reposi
 48. [Study 0048 — Hebrews 1:1–3: God Speaks Through the Son, Creation, and the Sustaining Word](0048-HEBREWS-1-1-3-GOD-SPEAKS-THROUGH-THE-SON-CREATION-AND-SUSTAINING.md)
 49. [Study 0049 — John 1:1–3, Colossians 1:15–20, and Hebrews 1:1–3: The Son and Creation](0049-JOHN-1-1-3-COLOSSIANS-1-15-20-HEBREWS-1-1-3-THE-SON-AND-CREATION.md)
 
+50. [Study 0050 — Recognizing the Word's Place in the Completed GUA-W: John, Colossians, and Hebrews](0050-RECOGNIZING-THE-WORDS-PLACE-IN-THE-COMPLETED-GUA-W.md)
+
 ---
 
 ## Repository method
