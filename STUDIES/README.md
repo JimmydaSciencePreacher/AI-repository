@@ -60,6 +60,7 @@ This index follows the numbered study sequence already established in the reposi
 39. [Study 0039 — The Name Above Every Name: Authority, Power, Faith, and the Works of Jesus Christ](0039-THE-NAME-ABOVE-EVERY-NAME-AUTHORITY-POWER-FAITH-AND-THE-WORKS-OF-JESUS-CHRIST.md)
 40. [Study 0040 — The Works of Jesus: Faith, Compassion, Authority, and the Will of the Father](0040-THE-WORKS-OF-JESUS-FAITH-COMPASSION-AUTHORITY-AND-THE-WILL-OF-THE-FATHER.md)
 41. [Study 0041 — Acting in the Name of Jesus Christ: The Will of God, Allegiance, and Delegated Authority](0041-ACTING-IN-THE-NAME-OF-JESUS-CHRIST-THE-WILL-OF-GOD-AND-DELEGATED-AUTHORITY.md)
+42. [Study 0042 — Genesis 1:3–5: The Spoken Word, Created Light, and the Measurable Physical Witness](0042-GENESIS-1-3-5-SPOKEN-WORD-CREATED-LIGHT-AND-PHYSICAL-WITNESS.md)
 
 ---
 
