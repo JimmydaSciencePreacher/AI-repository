@@ -106,4 +106,4 @@ Not every record will require scientific analysis. When science is not materiall
 
 ## Current study state
 
-The study has begun with Genesis 1:1 (KJV). See [INDEX.md](INDEX.md) for the sequence and [RECORD-0001-GENESIS-1-1.md](RECORD-0001-GENESIS-1-1.md) for the first completed examination. The next question arises from Genesis 1:2.
+The study has examined Genesis 1:1–2 (KJV). See [INDEX.md](INDEX.md) for the sequence and the completed records. The next question arises from Genesis 1:3.
