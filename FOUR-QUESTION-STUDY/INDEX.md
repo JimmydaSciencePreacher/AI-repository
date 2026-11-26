@@ -62,11 +62,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 
 | [0054](RECORD-0054-GENESIS-2-24.md) | Genesis 2:24 (KJV) | Examines *ʿal-kēn* (“therefore”), *ʿāzab* (“leave”), *dābaq* (“cleave”), and “one flesh”; traces the move from the first couple's origin to a general marital pattern while preserving personal distinction and the unmarked speaker boundary. |
 
+| [0055](RECORD-0055-GENESIS-2-25.md) | Genesis 2:25 (KJV) | Records both the man and his wife naked and unashamed; distinguishes physical nakedness from shame, compares the changed response in Genesis 3:7–10, and avoids claiming prior bodily unawareness or treating nakedness itself as evil. |
+
 ## Current position
 
-The study has examined Genesis 1:1–2:24 (KJV).
+The study has examined Genesis 1:1–2:25 (KJV).
 
-The next question arising from Record 0054 is: **Who are “they”? What does “both” emphasize? What does the Hebrew word translated “naked” mean? What does “not ashamed” state in this context? How does verse 25 relate to the one-flesh statement in verse 24? What does the verse say about the condition of the man and his wife before Genesis 3, and what must not be imported from the later account of the Fall?**
+The next question arising from Record 0055 is: **What does “serpent” identify in the text? What does *ʿārûm* (“subtil”) mean? What is the force of “more than any beast of the field”? What does the text say about the serpent's relation to the creatures God made? Who speaks first in the dialogue, and what exact question is asked? How does the wordplay with *ʿărummîm* in Genesis 2:25 function? What does the serpent's question quote accurately, alter, omit, or reframe when compared with God's command in Genesis 2:16–17?**
 
 ## Study controls
 
