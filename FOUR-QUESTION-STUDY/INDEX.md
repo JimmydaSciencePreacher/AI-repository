@@ -32,12 +32,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0024](RECORD-0024-GENESIS-1-24.md) | Genesis 1:24 (KJV) | Records God's command for the earth to bring forth land creatures; distinguishes the Author, addressed domain, command, and “it was so,” while preserving the following making statement in verse 25. |
 | [0025](RECORD-0025-GENESIS-1-25.md) | Genesis 1:25 (KJV) | Records God making the beast, cattle, and creeping things after their kinds and assessing the result as good; distinguishes the command addressed to earth in verse 24 from God's making and assessment. |
 | [0026](RECORD-0026-GENESIS-1-26.md) | Genesis 1:26 (KJV) | Records God's statement concerning man made in His image and likeness and the appointment of dominion; distinguishes God's originating authority from man's received authority within Creation. |
+| [0027](RECORD-0027-GENESIS-1-27.md) | Genesis 1:27 (KJV) | Records God creating man in His image, repeating the image statement, and identifying male and female; preserves humanity's image-bearing identity while distinguishing Creator from created. |
 
 ## Current position
 
-The study has examined Genesis 1:1–26 (KJV).
+The study has examined Genesis 1:1–27 (KJV).
 
-The next question arising from Record 0025 is: **What does Genesis 1:27 establish when it says, “So God created man in his own image,” and why does the verse repeat the image statement before identifying “male and female”?**
+The next question arising from Record 0026 is: **What does Genesis 1:28 establish when God blesses male and female and commands them to be fruitful, multiply, replenish the earth, subdue it, and have dominion? What is the relationship between blessing, fruitfulness, multiplication, and delegated dominion?**
 
 ## Study controls
 
