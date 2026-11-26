@@ -37,6 +37,7 @@ This index follows the numbered study sequence already established in the reposi
 22. [Study 0022 — Dead in Trespasses, Quickened, and Created Unto Good Works](0022-DEAD-IN-TRESPASSES-QUICKENED-AND-CREATED-UNTO-GOOD-WORKS.md)
 
 23. [Study 0023 — Death and Life in Scripture: The Meaning of “Dead in Trespasses”](0023-DEATH-AND-LIFE-IN-SCRIPTURE-DEAD-IN-TRESPASSES.md)
+24. [Study 0024 — Genesis 2:17: The Warning of Death and the Events of Genesis 3](0024-GENESIS-2-17-THE-WARNING-OF-DEATH.md)
 
 ---
 
