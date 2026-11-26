@@ -11,10 +11,11 @@ This index belongs only to the separate Scripture Placement study. See README.md
 | 0003 | John 1:14 (KJV) | Examines the Word made flesh in the context of John 1:1–18, including the distinction between the Word and the witnesses who testify concerning Him. |
 | 0004 | John 14:6 (KJV) | Examines Jesus' declaration that He is the Way, the Truth, and the Life in the context of John 14:1–11. |
 | 0005 | 1 Corinthians 15:45–49 (KJV) | Examines Christ as the last Adam and second man within Paul's resurrection argument in 1 Corinthians 15:12–58; preserves the distinction between the earthy and the heavenly. |
+| 0006 | Romans 5:12–21 (KJV) | Examines Adam's offence and Christ's obedience, and Paul's contrast among sin, death, condemnation, the free gift, justification, righteousness, grace, and eternal life. |
 
 ## Current position
 
-The study began with Genesis 1:1, examined its three companion passages, then examined John 1:14, John 14:6, and 1 Corinthians 15:45–49.
+The study began with Genesis 1:1, examined its three companion passages, then examined John 1:14, John 14:6, 1 Corinthians 15:45–49, and Romans 5:12–21.
 
 The current sequence of completed records is:
 - Genesis 1:1
@@ -24,8 +25,9 @@ The current sequence of completed records is:
 - John 1:14
 - John 14:6
 - 1 Corinthians 15:45–49
+- Romans 5:12–21
 
-The GUA-W sources identify the Word made flesh, Christ as the Way, Truth, and Life, Christ as the last Adam, and the Adam–Christ/resurrection relationship. The sources do not establish one mandatory order among all further related passages. The completed placements record the passages examined, not a universal sequence imposed on Scripture.
+The GUA-W sources identify the Word made flesh, Christ as the Way, Truth, and Life, Christ as the last Adam, and the Adam–Christ relationship concerning sin, death, obedience, grace, and resurrection. The sources do not establish one mandatory order among all further related passages. The completed placements record the passages examined, not a universal sequence imposed on Scripture.
 
 ## Preserved distinctions
 
@@ -36,9 +38,10 @@ The GUA-W sources identify the Word made flesh, Christ as the Way, Truth, and Li
 - John 1:14 identifies the Word made flesh within John's prologue.
 - John 14:6 records Jesus' declaration that He is the Way, the Truth, and the Life.
 - 1 Corinthians 15:45–49 identifies Christ as the last Adam and the second man, the Lord from heaven, within Paul's argument about resurrection.
+- Romans 5:12–21 contrasts Adam's offence and disobedience with the free gift and obedience through Jesus Christ, within Paul's argument about sin, death, justification, righteousness, grace, and eternal life.
 - These passages illuminate one another within the GUA-W synthesis, but they are not interchangeable texts.
 - A thematic or canonical cross-reference is not, by itself, a prescribed sequence.
 
 ## Continuation
 
-Placement 0005 examined 1 Corinthians 15:45–49 in the context of 1 Corinthians 15:12–58. Other source-recorded connections remain in Placement 0002, including Romans 5:12–21, 1 Corinthians 15:20–22, Colossians 1:18, and Revelation 1:5. They remain possible subjects for separate contextual examination; no mandatory order among them is established by the GUA-W sources reviewed in this study.
+Placement 0006 examined Romans 5:12–21 in the context of Romans 5:1–21, following the Adam–Christ relationship explicitly recorded in Placement 0002 and GUA-W's Creation–Redemption–Consummation synthesis. Other source-recorded connections remain in Placement 0002, including 1 Corinthians 15:20–22, Colossians 1:18, and Revelation 1:5. They remain possible subjects for separate contextual examination; no mandatory order among them is established by the GUA-W sources reviewed in this study.
