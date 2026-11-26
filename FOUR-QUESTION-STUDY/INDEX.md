@@ -24,12 +24,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0016](RECORD-0016-GENESIS-1-16.md) | Genesis 1:16 (KJV) | Records God making two great lights, distinguishing the greater and lesser in relation to day and night, and making the stars also; preserves the verse's wording and separates making from setting in verse 17. |
 | [0017](RECORD-0017-GENESIS-1-17.md) | Genesis 1:17 (KJV) | Records God setting the lights in the firmament of heaven to give light upon the earth; distinguishes “set” from “made” in verse 16 and preserves the repeated purpose from verse 15. |
 | [0018](RECORD-0018-GENESIS-1-18.md) | Genesis 1:18 (KJV) | Records the lights' rule over day and night and division of light from darkness, then God's assessment that it was good; distinguishes their stated functions from the Author's assessment. |
+| [0019](RECORD-0019-GENESIS-1-19.md) | Genesis 1:19 (KJV) | Records evening and morning as the fourth day; preserves the recurring day-designation formula and distinguishes the day marker from the actions and functions in verses 14–18. |
 
 ## Current position
 
-The study has examined Genesis 1:1–18 (KJV).
+The study has examined Genesis 1:1–19 (KJV).
 
-The next question arising from Record 0018 is: **What does Genesis 1:19 (KJV) establish when it records, “And the evening and the morning were the fourth day”? How does this day designation relate to the commands, making, setting, functions, and assessment recorded in verses 14–18?**
+The next question arising from Record 0019 is: **What does Genesis 1:20 (KJV) establish when God says, “Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven”? What is commanded, what is the stated source or domain from which life is to come forth, and what distinctions must the Witness preserve?**
 
 ## Study controls
 
