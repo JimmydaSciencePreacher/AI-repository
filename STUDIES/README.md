@@ -49,6 +49,7 @@ This index follows the numbered study sequence already established in the reposi
 30. [Study 0030 — Romans 6: Dying and Rising with Christ, Present New Life and Future Resurrection](0030-ROMANS-6-DYING-AND-RISING-WITH-CHRIST-PRESENT-NEW-LIFE-AND-FUTURE-RESURRECTION.md)
 
 31. [Study 0031 — Hebrews 7:23–28: Eternal Priesthood, Intercession, and Complete Salvation](0031-HEBREWS-7-23-28-ETERNAL-PRIESTHOOD-INTERCESSION-AND-COMPLETE-SALVATION.md)
+32. [Study 0032 — Romans 8:31–39: God's Justifying Verdict, Christ's Intercession, and Inseparable Love](0032-ROMANS-8-31-39-GODS-JUSTIFYING-VERDICT-CHRISTS-INTERCESSION-AND-INSEPARABLE-LOVE.md)
 
 ---
 
