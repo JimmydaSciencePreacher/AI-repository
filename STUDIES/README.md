@@ -39,6 +39,7 @@ This index follows the numbered study sequence already established in the reposi
 23. [Study 0023 — Death and Life in Scripture: The Meaning of “Dead in Trespasses”](0023-DEATH-AND-LIFE-IN-SCRIPTURE-DEAD-IN-TRESPASSES.md)
 24. [Study 0024 — Genesis 2:17: The Death Warning, the Fall, and Adam's Return to Dust](0024-GENESIS-2-17-DEATH-WARNING-FALL-RETURN-TO-DUST.md)
 25. [Study 0025 — The Tree of Life Before and After the Fall: Presence, Permission, and Access](0025-TREE-OF-LIFE-PRESENCE-PERMISSION-AND-ACCESS.md)
+26. [Study 0026 — Romans 5:12: Adam, Death, and “For That All Have Sinned”](0026-ROMANS-5-12-ADAM-DEATH-AND-ALL-HAVE-SINNED.md)
 
 ---
 
