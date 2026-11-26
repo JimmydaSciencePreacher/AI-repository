@@ -51,12 +51,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0043](RECORD-0043-GENESIS-2-13.md) | Genesis 2:13 (KJV) | Names Gihon as the second river and describes it as encompassing Cush (KJV: Ethiopia); examines the repeated “compasseth” wording while leaving modern geography and river identity unresolved. |
 | [0044](RECORD-0044-GENESIS-2-14.md) | Genesis 2:14 (KJV) | Names Hiddekel as the third river and describes its direction relative to Assyria; names Euphrates as the fourth; distinguishes conventional river identifications from unresolved reconstruction of the four-head geography. |
 | [0045](RECORD-0045-GENESIS-2-15.md) | Genesis 2:15 (KJV) | Records the LORD God placing the man in the garden to dress/work it and keep/guard it; examines the received assignment, Hebrew terms, and repeated placement language without inventing tasks or chronology. |
+| [0046](RECORD-0046-GENESIS-2-16.md) | Genesis 2:16 (KJV) | Records the LORD God's command granting the man permission to eat from the garden's trees; examines the emphatic Hebrew construction and distinguishes broad provision and permission from the specific boundary in verse 17. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:15 (KJV).
+The study has examined Genesis 1:1–2:16 (KJV).
 
-The next question arising from Record 0045 is: **What does the LORD God command? What is the scope of “every tree of the garden”? What does the KJV expression “thou mayest freely eat” represent in Hebrew? What does this verse establish about provision and permission? How does the command relate to the man's received responsibility in Genesis 2:15, and what must be left for the following verse, Genesis 2:17?**
+The next question arising from Record 0046 is: **What is the specific prohibition concerning the tree of the knowledge of good and evil? What does “thou shalt surely die” express in Hebrew? What does “in the day” mean in the sentence? What does the verse establish about the boundary attached to the permission in verse 16, and what must remain unresolved until the wording and relevant Scriptural context are examined?**
 
 ## Study controls
 
