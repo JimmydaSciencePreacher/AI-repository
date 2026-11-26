@@ -37,6 +37,8 @@ No placement records have yet been created under the reset protocol.
 
 ## Historical reset
 
+The prior session handoffs named `2026-11-26-SCRIPTURE-PLACEMENT-OPENING.md` and `0002.md` through `0005.md` remain in `HANDOFFS/` as historical provenance. They are not numbered placement records in this reset series, and their proposed passage chains and next actions are superseded by this protocol. They must not be used to select the next Scripture. See [Repository Reconciliation — 2026-11-26](REPOSITORY-RECONCILIATION-2026-11-26.md) for the verified distinction.
+
 The previous Scripture Placement records 0001–0006 and the former index contents have been removed from this study series because they did not follow the required method. Their former conclusions and passage lists are not placement authority and must not be used to choose the next Scripture. The reset does not alter any other study or any file in the GUA-W repository.
 
 ## Required handoff format
