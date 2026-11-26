@@ -17,12 +17,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0009](RECORD-0009-GENESIS-1-9.md) | Genesis 1:9 (KJV) | Records God's command to gather the waters under the heaven unto one place and let dry land appear; distinguishes the command and its stated result from the naming and assessment in verse 10. |
 | [0010](RECORD-0010-GENESIS-1-10.md) | Genesis 1:10 (KJV) | Records God naming the dry land Earth and the gathering together of the waters Seas, then seeing that it was good; distinguishes naming and assessment from the command and result in verse 9. |
 | [0011](RECORD-0011-GENESIS-1-11.md) | Genesis 1:11 (KJV) | Records God's command for the earth to bring forth grass, herb yielding seed, and fruit tree yielding fruit after his kind; preserves the seed clause's grammatical scope and distinguishes command from the report in verse 12. |
+| [0012](RECORD-0012-GENESIS-1-12.md) | Genesis 1:12 (KJV) | Records the earth bringing forth the vegetation described, including the herb and tree after his kind, and God's assessment that it was good; distinguishes the reported result from the command in verse 11. |
 
 ## Current position
 
-The study has examined Genesis 1:1–11 (KJV).
+The study has examined Genesis 1:1–12 (KJV).
 
-The next question arising from Record 0011 is: **What does Genesis 1:12 (KJV) establish when the earth brings forth the vegetation described in verse 11, and God sees that it was good? How does the reported result relate to the command in verse 11?**
+The next question arising from Record 0012 is: **What does Genesis 1:13 (KJV) establish when it states, “And the evening and the morning were the third day,” and how does that day designation close the sequence of Genesis 1:9–12?**
 
 ## Study controls
 
