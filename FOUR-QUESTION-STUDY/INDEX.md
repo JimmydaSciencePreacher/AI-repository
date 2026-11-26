@@ -34,12 +34,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0026](RECORD-0026-GENESIS-1-26.md) | Genesis 1:26 (KJV) | Records God's statement concerning man made in His image and likeness and the appointment of dominion; distinguishes God's originating authority from man's received authority within Creation. |
 | [0027](RECORD-0027-GENESIS-1-27.md) | Genesis 1:27 (KJV) | Records God creating man in His image, repeating the image statement, and identifying male and female; preserves humanity's image-bearing identity while distinguishing Creator from created. |
 | [0028](RECORD-0028-GENESIS-1-28.md) | Genesis 1:28 (KJV) | Records God's blessing and instructions to humanity concerning fruitfulness, multiplication, filling the earth, subduing it, and dominion; distinguishes received appointment from originating authority. |
+| [0029](RECORD-0029-GENESIS-1-29.md) | Genesis 1:29 (KJV) | Records God giving humanity seed-bearing vegetation and fruit-bearing trees for food; distinguishes divine provision, created biological capacity, and theological interpretation of seed. |
 
 ## Current position
 
-The study has examined Genesis 1:1–28 (KJV).
+The study has examined Genesis 1:1–29 (KJV).
 
-The next question arising from Record 0027 is: **What does Genesis 1:29 establish when God gives humanity every herb bearing seed and the fruit of the tree yielding seed? What is the relationship between provision, seed, food, and the appointed life of humanity?**
+The next question arising from Record 0028 is: **What does Genesis 1:30 establish when God gives the green herb for food to the beasts of the earth, the fowl of the air, and every thing that creepeth upon the earth wherein there is life? How does this provision relate to the provision given to humanity in verse 29?**
 
 ## Study controls
 
