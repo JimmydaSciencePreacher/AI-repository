@@ -58,12 +58,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0050](RECORD-0050-GENESIS-2-20.md) | Genesis 2:20 (KJV) | Records Adam naming the cattle, fowl, and beasts, followed by the result that no *ʿēzer kĕnegdô* was found for him; examines the contrast and Hebrew *māṣāʾ* form without inventing a search procedure or assigning an unstated agent. |
 | [0051](RECORD-0051-GENESIS-2-21.md) | Genesis 2:21 (KJV) | Records the LORD God causing a deep sleep to fall upon Adam, taking one of his *ṣēlāʿ* (KJV: “rib”), and closing the flesh; distinguishes God's actions from Adam's experience and preserves the lexical and anatomical limits of the text. |
 | [0052](RECORD-0052-GENESIS-2-22.md) | Genesis 2:22 (KJV) | Records the LORD God making a woman from the *ṣēlāʿ* taken from the man and bringing her to him; examines *bānâ* (“build/make”), the source relation, and the contextual connection to the help announced in verse 18 without inventing a mechanism or architectural layer. |
+| [0053](RECORD-0053-GENESIS-2-23.md) | Genesis 2:23 (KJV) | Records Adam's response: “bone of my bones, and flesh of my flesh,” and the *ʾîš / ʾiššâ* (Man/Woman) wordplay; distinguishes recognition and designation from God's prior making and bringing, and reserves the one-flesh statement for verse 24. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:22 (KJV).
+The study has examined Genesis 1:1–2:23 (KJV).
 
-The next question arising from Record 0052 is: **What does Adam's “This is now” indicate in the statement? What do “bone of my bones” and “flesh of my flesh” express in the immediate context? What is the Hebrew wordplay between *ʾîš* (man) and *ʾiššâ* (woman)? What does Adam's naming declare, and what does it not establish about his role in the woman's making? How does his speech relate to the source statement in verse 22, and what must remain for the joining statement in verse 24?**
+The next question arising from Record 0053 is: **What does “therefore” connect? Is verse 24 still Adam speaking, or is it the narrator's statement? What do “leave” and “cleave” mean in Hebrew? What is the force of the phrase “his wife”? What does “they shall be one flesh” state, and what does it not state? How does the verse relate the first man and woman to the pattern for subsequent human marriage? How should this statement be read alongside Genesis 1:27–28 without importing later doctrines before examining the text?**
 
 ## Study controls
 
