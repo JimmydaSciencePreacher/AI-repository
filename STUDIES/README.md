@@ -36,6 +36,8 @@ This index follows the numbered study sequence already established in the reposi
 21. [Study 0021 — The Spirit, the Will, and the Doing](0021-THE-SPIRIT-THE-WILL-AND-THE-DOING.md)
 22. [Study 0022 — Dead in Trespasses, Quickened, and Created Unto Good Works](0022-DEAD-IN-TRESPASSES-QUICKENED-AND-CREATED-UNTO-GOOD-WORKS.md)
 
+23. [Study 0023 — Death and Life in Scripture: The Meaning of “Dead in Trespasses”](0023-DEATH-AND-LIFE-IN-SCRIPTURE-DEAD-IN-TRESPASSES.md)
+
 ---
 
 ## Repository method
