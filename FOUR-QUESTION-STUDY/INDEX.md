@@ -21,12 +21,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0013](RECORD-0013-GENESIS-1-13.md) | Genesis 1:13 (KJV) | Records the evening and morning as the third day; distinguishes the day designation from the commands, results, and assessments in verses 9–12. |
 | [0014](RECORD-0014-GENESIS-1-14.md) | Genesis 1:14 (KJV) | Records God's command for lights in the firmament to divide day from night and serve for signs, seasons, days, and years; distinguishes verse 14's assigned purposes from details in verses 15–18. |
 | [0015](RECORD-0015-GENESIS-1-15.md) | Genesis 1:15 (KJV) | Records the continued command assigning the lights to give light upon the earth and the affirmation “and it was so”; distinguishes this from the making and setting described in verses 16–17. |
+| [0016](RECORD-0016-GENESIS-1-16.md) | Genesis 1:16 (KJV) | Records God making two great lights, distinguishing the greater and lesser in relation to day and night, and making the stars also; preserves the verse's wording and separates making from setting in verse 17. |
 
 ## Current position
 
-The study has examined Genesis 1:1–15 (KJV).
+The study has examined Genesis 1:1–16 (KJV).
 
-The next question arising from Record 0015 is: **What does Genesis 1:16 (KJV) establish when it says God made two great lights—the greater light to rule the day and the lesser light to rule the night—and made the stars also? How must the Witness distinguish the making of these lights, their stated differences, and their assigned rule?**
+The next question arising from Record 0016 is: **What does Genesis 1:17 (KJV) establish when it says, “And God set them in the firmament of the heaven to give light upon the earth”? How must the Witness distinguish God's making of the lights in verse 16 from His setting them in verse 17, while preserving the stated purpose?**
 
 ## Study controls
 
