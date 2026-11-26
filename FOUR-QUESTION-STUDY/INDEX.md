@@ -23,12 +23,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0015](RECORD-0015-GENESIS-1-15.md) | Genesis 1:15 (KJV) | Records the continued command assigning the lights to give light upon the earth and the affirmation “and it was so”; distinguishes this from the making and setting described in verses 16–17. |
 | [0016](RECORD-0016-GENESIS-1-16.md) | Genesis 1:16 (KJV) | Records God making two great lights, distinguishing the greater and lesser in relation to day and night, and making the stars also; preserves the verse's wording and separates making from setting in verse 17. |
 | [0017](RECORD-0017-GENESIS-1-17.md) | Genesis 1:17 (KJV) | Records God setting the lights in the firmament of heaven to give light upon the earth; distinguishes “set” from “made” in verse 16 and preserves the repeated purpose from verse 15. |
+| [0018](RECORD-0018-GENESIS-1-18.md) | Genesis 1:18 (KJV) | Records the lights' rule over day and night and division of light from darkness, then God's assessment that it was good; distinguishes their stated functions from the Author's assessment. |
 
 ## Current position
 
-The study has examined Genesis 1:1–17 (KJV).
+The study has examined Genesis 1:1–18 (KJV).
 
-The next question arising from Record 0017 is: **What does Genesis 1:18 (KJV) establish when it says the lights are “to rule over the day and over the night, and to divide the light from the darkness,” and records, “and God saw that it was good”? How must the Witness distinguish the stated functions from God's assessment?**
+The next question arising from Record 0018 is: **What does Genesis 1:19 (KJV) establish when it records, “And the evening and the morning were the fourth day”? How does this day designation relate to the commands, making, setting, functions, and assessment recorded in verses 14–18?**
 
 ## Study controls
 
