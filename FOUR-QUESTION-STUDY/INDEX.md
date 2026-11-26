@@ -57,12 +57,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0049](RECORD-0049-GENESIS-2-19.md) | Genesis 2:19 (KJV) | Records the LORD God forming beasts and fowl from the ground, bringing them to Adam, and Adam naming them; distinguishes God's forming and bringing from Adam's naming, and does not infer divine ignorance from “to see what he would call them.” |
 | [0050](RECORD-0050-GENESIS-2-20.md) | Genesis 2:20 (KJV) | Records Adam naming the cattle, fowl, and beasts, followed by the result that no *ʿēzer kĕnegdô* was found for him; examines the contrast and Hebrew *māṣāʾ* form without inventing a search procedure or assigning an unstated agent. |
 | [0051](RECORD-0051-GENESIS-2-21.md) | Genesis 2:21 (KJV) | Records the LORD God causing a deep sleep to fall upon Adam, taking one of his *ṣēlāʿ* (KJV: “rib”), and closing the flesh; distinguishes God's actions from Adam's experience and preserves the lexical and anatomical limits of the text. |
+| [0052](RECORD-0052-GENESIS-2-22.md) | Genesis 2:22 (KJV) | Records the LORD God making a woman from the *ṣēlāʿ* taken from the man and bringing her to him; examines *bānâ* (“build/make”), the source relation, and the contextual connection to the help announced in verse 18 without inventing a mechanism or architectural layer. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:21 (KJV).
+The study has examined Genesis 1:1–2:22 (KJV).
 
-The next question arising from Record 0051 is: **Who makes the woman? What is the relationship between the item taken in verse 21 and the woman made in verse 22? What does the Hebrew verb translated “made” mean? What does “from man” state? What is the significance and grammatical role of “brought her unto the man”? Does the verse identify the woman as the corresponding help announced in verse 18, and what does the immediate context establish? What must be reserved for Adam's speech in verse 23?**
+The next question arising from Record 0052 is: **What does Adam's “This is now” indicate in the statement? What do “bone of my bones” and “flesh of my flesh” express in the immediate context? What is the Hebrew wordplay between *ʾîš* (man) and *ʾiššâ* (woman)? What does Adam's naming declare, and what does it not establish about his role in the woman's making? How does his speech relate to the source statement in verse 22, and what must remain for the joining statement in verse 24?**
 
 ## Study controls
 
