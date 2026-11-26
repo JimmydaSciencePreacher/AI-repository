@@ -27,12 +27,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0019](RECORD-0019-GENESIS-1-19.md) | Genesis 1:19 (KJV) | Records evening and morning as the fourth day; preserves the recurring day-designation formula and distinguishes the day marker from the actions and functions in verses 14–18. |
 | [0020](RECORD-0020-GENESIS-1-20.md) | Genesis 1:20 (KJV) | Records God's command for the waters to bring forth abundantly living moving creatures and fowl; distinguishes the command and addressed domain from the creation, blessing, and multiplication recorded in verses 21–22. |
 | [0021](RECORD-0021-GENESIS-1-21.md) | Genesis 1:21 (KJV) | Records God as Creator of great whales, moving living creatures, and winged fowl; preserves the waters' bringing forth, the kind distinctions, and God's assessment that it was good. |
+| [0022](RECORD-0022-GENESIS-1-22.md) | Genesis 1:22 (KJV) | Records God's blessing of the creatures and instructions concerning fruitfulness, multiplication, and filling; distinguishes blessing and commanded continuation from creation and assessment. |
 
 ## Current position
 
-The study has examined Genesis 1:1–21 (KJV).
+The study has examined Genesis 1:1–22 (KJV).
 
-The next question arising from Record 0020 is: **What does Genesis 1:22 (KJV) establish when it records, “And God blessed them, saying, Be fruitful, and multiply,” and how does the blessing and command concerning multiplication relate to the creation and assessment recorded in Genesis 1:21?**
+The next question arising from Record 0021 is: **What does Genesis 1:23 establish when it records, “And the evening and the morning were the fifth day,” and how does this day designation close the sequence of command, creation, assessment, blessing, and multiplication in Genesis 1:20–22?**
 
 ## Study controls
 
