@@ -31,12 +31,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0023](RECORD-0023-GENESIS-1-23.md) | Genesis 1:23 (KJV) | Records evening and morning as the fifth day; preserves the recurring day-designation formula and distinguishes the day marker from the command, creation, assessment, and blessing in verses 20–22. |
 | [0024](RECORD-0024-GENESIS-1-24.md) | Genesis 1:24 (KJV) | Records God's command for the earth to bring forth land creatures; distinguishes the Author, addressed domain, command, and “it was so,” while preserving the following making statement in verse 25. |
 | [0025](RECORD-0025-GENESIS-1-25.md) | Genesis 1:25 (KJV) | Records God making the beast, cattle, and creeping things after their kinds and assessing the result as good; distinguishes the command addressed to earth in verse 24 from God's making and assessment. |
+| [0026](RECORD-0026-GENESIS-1-26.md) | Genesis 1:26 (KJV) | Records God's statement concerning man made in His image and likeness and the appointment of dominion; distinguishes God's originating authority from man's received authority within Creation. |
 
 ## Current position
 
-The study has examined Genesis 1:1–25 (KJV).
+The study has examined Genesis 1:1–26 (KJV).
 
-The next question arising from Record 0024 is: **What does Genesis 1:26 establish when God says, “Let us make man in our image, after our likeness,” and how does this command differ from the preceding commands concerning vegetation and other living creatures?**
+The next question arising from Record 0025 is: **What does Genesis 1:27 establish when it says, “So God created man in his own image,” and why does the verse repeat the image statement before identifying “male and female”?**
 
 ## Study controls
 
