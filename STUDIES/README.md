@@ -55,6 +55,7 @@ This index follows the numbered study sequence already established in the reposi
 
 35. [Study 0035 — The Miracles of Christ and Miracles in His Name](0035-THE-MIRACLES-OF-CHRIST-AND-MIRACLES-IN-HIS-NAME.md)
 36. [Study 0036 — John 14:12: The Greater Works, Christ's Ascension, and the Continuing Work of the Holy Ghost](0036-JOHN-14-12-THE-GREATER-WORKS-CHRISTS-ASCENSION-AND-THE-HOLY-GHOST.md)
+37. [Study 0037 — The Holy Ghost: The Promise of the Father, the Gift of Christ, and the Power of Witness](0037-THE-HOLY-GHOST-THE-PROMISE-OF-THE-FATHER-AND-POWER-OF-WITNESS.md)
 
 ---
 
