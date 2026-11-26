@@ -33,12 +33,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0025](RECORD-0025-GENESIS-1-25.md) | Genesis 1:25 (KJV) | Records God making the beast, cattle, and creeping things after their kinds and assessing the result as good; distinguishes the command addressed to earth in verse 24 from God's making and assessment. |
 | [0026](RECORD-0026-GENESIS-1-26.md) | Genesis 1:26 (KJV) | Records God's statement concerning man made in His image and likeness and the appointment of dominion; distinguishes God's originating authority from man's received authority within Creation. |
 | [0027](RECORD-0027-GENESIS-1-27.md) | Genesis 1:27 (KJV) | Records God creating man in His image, repeating the image statement, and identifying male and female; preserves humanity's image-bearing identity while distinguishing Creator from created. |
+| [0028](RECORD-0028-GENESIS-1-28.md) | Genesis 1:28 (KJV) | Records God's blessing and instructions to humanity concerning fruitfulness, multiplication, filling the earth, subduing it, and dominion; distinguishes received appointment from originating authority. |
 
 ## Current position
 
-The study has examined Genesis 1:1–27 (KJV).
+The study has examined Genesis 1:1–28 (KJV).
 
-The next question arising from Record 0026 is: **What does Genesis 1:28 establish when God blesses male and female and commands them to be fruitful, multiply, replenish the earth, subdue it, and have dominion? What is the relationship between blessing, fruitfulness, multiplication, and delegated dominion?**
+The next question arising from Record 0027 is: **What does Genesis 1:29 establish when God gives humanity every herb bearing seed and the fruit of the tree yielding seed? What is the relationship between provision, seed, food, and the appointed life of humanity?**
 
 ## Study controls
 
