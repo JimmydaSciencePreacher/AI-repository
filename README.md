@@ -4,11 +4,11 @@
 
 This repository is the working research and documentation space for investigations conducted by the AI in support of the Grand Unified Architecture of Witness (GUA-W).
 
-The repository is distinct from the GUA-W reference repositories. Those repositories are source libraries for consultation; this repository records the AI's own research notes, studies, cross-references, and session handoffs. Material here does not silently amend or replace material in the reference repositories.
+The repository is distinct from the GUA-W reference repositories. Those repositories are source libraries for consultation; this repository records research notes, studies, cross-references, and session handoffs. Material here does not silently amend or replace material in the reference repositories.
 
 ## Foundational context
 
-GUA-W is understood in this project as a map or blueprint of Creation, not as God and not as Jesus. Its governing relationship is:
+GUA-W is understood in this project as a map of God's One Creation, not as God and not as Jesus. Its governing relationship is:
 
 **Author → Word → Creation → Witness**
 
@@ -25,7 +25,7 @@ The following repositories are consulted as reference libraries:
 - [GUA-W-Language-of-Creation](https://github.com/JimmydaSciencePreacher/GUA-W-Language-of-Creation)
 - [GUA-W-Bible-study-Template](https://github.com/JimmydaSciencePreacher/GUA-W-Bible-study-Template)
 
-Research recorded here should identify which reference materials it consulted when that matters to the finding.
+Research records should identify the reference materials actually consulted when that matters to a finding.
 
 ## Research discipline
 
@@ -36,7 +36,7 @@ Investigations may begin with a question, a passage of Scripture, a scientific c
 - evidence that supports, limits, or challenges a proposal;
 - established findings, working hypotheses, and unresolved questions.
 
-When a claim is being considered for placement within GUA-W, the project's Triple Constraint Law is the admissibility filter:
+When a claim is being considered for placement within GUA-W, the Triple Constraint Law is the admissibility filter:
 
 1. Biblical compliance.
 2. Scientific coherence.
@@ -57,14 +57,15 @@ They are questions for examination and reflection, not additional stages in the 
 
 ## Repository map
 
-- `GUIDES/` — explanatory material about the repository, research records, sources, and study format. [Guide 05 — The Author Alignment Principle](GUIDES/05-AUTHOR-ALIGNMENT-PRINCIPLE.md) records the project's theological starting point and cross-disciplinary research method.
-- `STUDIES/` — individual investigations and their findings.
-- `HANDOFFS/` — descriptive records that preserve the state of work between sessions.
+- `GUIDES/` — repository orientation, research method, source/evidence, study format, and Author Alignment Principle.
+- `STUDIES/` — the numbered research investigations. The current index records Studies 0001–0050.
+- `SCRIPTURE-PLACEMENT/` — a separate, reset Scripture-placement series with its own protocol and position register. It begins at Genesis 1:1 (KJV); no placement is complete yet.
+- `HANDOFFS/` — dated historical records preserving session state. A handoff records what happened; it does not override current protocols or authoritative GUA-W sources.
 
 ## Reading research records
 
-A study should make its question and scope clear, identify its sources, distinguish evidence from interpretation, record relevant counter-evidence or limitations, and state what remains unresolved. A handoff records what was examined, what was produced, and where the work stood at that point. It is a historical session record, not a new authority over GUA-W.
+A study should make its question and scope clear, identify its sources, distinguish evidence from interpretation, record relevant counter-evidence or limitations, and state what remains unresolved. A handoff is a historical snapshot, not a new authority over GUA-W. Where a later protocol resets or supersedes an earlier workflow, the earlier handoff is retained for provenance and must be read as historical, not operative instruction.
 
-## Status
+## Status — 2026-11-26
 
-This repository is being established. Its guides and study records will be added as the research workspace develops.
+The repository is active. Studies 0001–0050 are indexed. The separate Scripture Placement series has been reset under `SCRIPTURE-PLACEMENT/README.md`; its starting Scripture is Genesis 1:1 (KJV), and its first placement remains pending a fresh review of the current GUA-W repository. Historical Scripture Placement handoffs remain preserved in `HANDOFFS/` and are explicitly non-authoritative for the reset series. See [the 2026-11-26 repository reconciliation](SCRIPTURE-PLACEMENT/REPOSITORY-RECONCILIATION-2026-11-26.md).
