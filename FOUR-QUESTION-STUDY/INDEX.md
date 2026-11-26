@@ -26,12 +26,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0018](RECORD-0018-GENESIS-1-18.md) | Genesis 1:18 (KJV) | Records the lights' rule over day and night and division of light from darkness, then God's assessment that it was good; distinguishes their stated functions from the Author's assessment. |
 | [0019](RECORD-0019-GENESIS-1-19.md) | Genesis 1:19 (KJV) | Records evening and morning as the fourth day; preserves the recurring day-designation formula and distinguishes the day marker from the actions and functions in verses 14–18. |
 | [0020](RECORD-0020-GENESIS-1-20.md) | Genesis 1:20 (KJV) | Records God's command for the waters to bring forth abundantly living moving creatures and fowl; distinguishes the command and addressed domain from the creation, blessing, and multiplication recorded in verses 21–22. |
+| [0021](RECORD-0021-GENESIS-1-21.md) | Genesis 1:21 (KJV) | Records God as Creator of great whales, moving living creatures, and winged fowl; preserves the waters' bringing forth, the kind distinctions, and God's assessment that it was good. |
 
 ## Current position
 
-The study has examined Genesis 1:1–20 (KJV).
+The study has examined Genesis 1:1–21 (KJV).
 
-The next question arising from Record 0019 is: **What does Genesis 1:21 (KJV) establish when it records, “And God created great whales, and every living creature that moveth,” and how does the verse distinguish God's creative act, the waters' bringing forth, the creatures “after their kind,” and the winged fowl?**
+The next question arising from Record 0020 is: **What does Genesis 1:22 (KJV) establish when it records, “And God blessed them, saying, Be fruitful, and multiply,” and how does the blessing and command concerning multiplication relate to the creation and assessment recorded in Genesis 1:21?**
 
 ## Study controls
 
