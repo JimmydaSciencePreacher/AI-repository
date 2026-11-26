@@ -1131,6 +1131,127 @@ These fruits do not purchase the indwelling Spirit or earn salvation. They are t
 7. How can the distinction between received life and active fruit-bearing clarify the user's statement about no longer needing an independent will as guide?
 8. How do these passages further define the difference between a witness who manifests Christ's work and a person who claims Christ's authority for self-exaltation?
 
+
+## 25. Asking, commanding, and acting: how delegated authority is exercised
+
+The preceding sections establish that acting in Jesus' name is neither a verbal technique nor an exercise of independent power. The next question is how the New Testament describes the believer's response when Christ commissions His servants. The texts include asking in prayer, speaking a command, and carrying out an assigned work. These forms must be distinguished without making them rival sources of authority.
+
+### 25.1 Three forms of response in the examined passages
+
+**Asking — John 14:12–14; John 15:7; 1 John 5:14–15**
+
+Jesus tells His disciples to ask in His name, and says that He will do what is asked so that the Father may be glorified in the Son (John 14:13–14). In John 15:7, asking is connected with abiding in Christ and His words abiding in the disciples. First John 5:14 explicitly qualifies confidence in prayer by asking according to God's will.
+
+Asking is therefore not a way to take control of the outcome. It is dependent petition within the relationship and purpose disclosed by Christ.
+
+**Commanding — Acts 3:6; Acts 16:18**
+
+Peter speaks directly to the lame man: “In the name of Jesus Christ of Nazareth rise up and walk” (Acts 3:6). Paul commands the spirit in Philippi to come out in the name of Jesus Christ (Acts 16:18).
+
+These are commands spoken in particular narrated events. The texts identify the authority invoked and record the outcomes. They do not state that every believer may independently command any desired outcome, nor do they supply a universal formula that guarantees a result whenever the same words are repeated.
+
+**Acting in an assigned commission — Matthew 10:1–8; Luke 9:1–6; Luke 10:1–20**
+
+Matthew records Jesus calling the Twelve and giving them power and authority over unclean spirits and diseases (Matthew 10:1). He then sends them with specific instructions. The immediate mission is expressly directed to “the lost sheep of the house of Israel” (Matthew 10:5–6). The commands to heal, cleanse, raise, and cast out occur within that commission (Matthew 10:7–8).
+
+Luke 9:1–6 similarly records Jesus giving the Twelve power and authority and sending them to preach the kingdom of God and heal the sick. Luke 10:1–20 records a further sending of the Seventy (or Seventy-two, according to the textual reading), with instructions and authority for that mission. Their return includes reports of spiritual subjection; Jesus redirects their rejoicing toward their names being written in heaven (Luke 10:17–20).
+
+These passages establish that Jesus did commission disciples to act and that the commission included authority. They must not be detached from their narrative setting or treated as proof that every detail of those missions applies identically to every believer in every circumstance.
+
+### 25.2 The commission is received, not self-appointed
+
+In Matthew 10:1, Jesus calls the Twelve and gives them authority before sending them. In Luke 10:1, the Lord appoints and sends the Seventy (or Seventy-two). The initiative belongs to Jesus.
+
+The servant does not create the commission by deciding that he has authority. The commission comes from the One who sends.
+
+This is consistent with the representative pattern already examined: the messenger may truly speak and act, but does not become the sender and cannot enlarge the commission into independent ownership.
+
+### 25.3 The authority has a purpose and a boundary
+
+The Gospel accounts join authority with a stated mission:
+- proclaim that the kingdom of heaven is at hand (Matthew 10:7);
+- heal and minister within the instructions Jesus gives (Matthew 10:8–15);
+- preach the kingdom of God and heal the sick (Luke 9:2);
+- announce the kingdom of God and bring peace to the receptive household (Luke 10:5–9).
+
+Luke 10:20 supplies an important correction against self-exaltation. Even when the disciples report that spirits are subject to them, Jesus tells them not to make that the ground of their ultimate rejoicing. Their relationship to God is greater than the display of delegated authority.
+
+**Finding:** Authority is given for Christ's mission; it is not a possession by which the servant may define a new mission or claim unrestricted control.
+
+### 25.4 Acts shows different people serving within different assignments
+
+The book of Acts records several forms of service:
+- Peter and John encounter the lame man and Peter speaks in Jesus' name (Acts 3:1–16).
+- The apostles pray for boldness, and the gathered believers speak the word of God with boldness (Acts 4:23–31).
+- Ananias is directed by the Lord to go to Saul, lays hands on him, and tells him that Jesus sent him (Acts 9:10–18).
+- Paul commands the spirit in Philippi in Jesus Christ's name (Acts 16:16–18).
+
+These accounts should not be flattened into a single job description. Peter's public healing, the church's prayer for boldness, Ananias's specific assignment, and Paul's command in Philippi are distinct events. Together they show that the risen Christ directs, equips, and works through His servants in the mission recorded by Acts.
+
+Acts 4:29–31 is especially instructive: the believers ask God to behold the threats and grant His servants boldness to speak His word; the place is shaken, they are filled with the Holy Ghost, and they speak the word with boldness. Prayer and action appear together. The believers ask; God grants; the believers speak.
+
+### 25.5 Spiritual gifts are distributed by the Spirit, not owned by the vessel
+
+First Corinthians 12:4–11 describes diversities of gifts, administrations, and operations, while maintaining one Spirit, one Lord, and one God working in all. Verse 11 says that the one and the selfsame Spirit divides to every man severally as He will.
+
+This passage prevents two opposite errors:
+1. Treating a spiritual gift as an independently owned power that its recipient controls at will.
+2. Treating the believer as inactive or irrelevant because the Spirit is the giver.
+
+The passage names real gifts and real service, while locating their distribution in the Spirit's will. The gifts are given for the common good (1 Corinthians 12:7), not for personal boasting.
+
+Hebrews 2:3–4 also speaks of God bearing witness with signs, wonders, diverse miracles, and gifts of the Holy Ghost according to His own will. The text attributes the confirming witness to God and the distribution to His will.
+
+### 25.6 What can and cannot be concluded
+
+The examined passages support these conclusions:
+
+- Jesus genuinely commissioned disciples and gave them authority for particular missions.
+- The disciples were expected to obey and act; the commission was not merely an instruction to remain passive.
+- Prayer, command, proclamation, healing, and service all appear in the New Testament, but not as interchangeable techniques.
+- The Holy Ghost distributes gifts according to His will.
+- The servant does not become the source, owner, or unrestricted controller of divine authority.
+- The specific commission and context of each passage must be respected before applying it to another person or time.
+
+The passages do not establish that every believer has the same office, commission, or gift; that every requested healing must occur; or that a spoken command can compel a particular outcome. Nor do these cautions deny the reality of the commissions and works Scripture actually records.
+
+### 25.7 Integrated distinction
+
+| Expression | What the passage shows | What it does not authorize |
+|---|---|---|
+| Asking in Jesus' name | Dependent prayer ordered by Christ's words and the Father's will (John 14:13–14; 15:7; 1 John 5:14). | Using a phrase to control God or guarantee a preferred result. |
+| Commanding in Jesus' name | A servant speaks under Christ's authority in a particular recorded event (Acts 3:6; 16:18). | Assuming a universal power to command every event or outcome. |
+| Acting under commission | Jesus calls, authorizes, instructs, and sends disciples for a defined mission (Matthew 10; Luke 9–10). | Self-appointment or enlargement of a specific commission into unrestricted authority. |
+| Exercising a spiritual gift | The Spirit distributes gifts for the common good as He wills (1 Corinthians 12:4–11). | Ownership of the Spirit or independent control over His gifts. |
+
+A concise synthesis is:
+
+**The disciple asks in dependence, acts in obedience, and speaks under the commission actually given. Christ remains Lord; the Spirit remains the giver; the vessel remains accountable.**
+
+This is a theological synthesis of the cited passages, not a formula for producing miracles.
+
+### 25.8 Triple Constraint assessment — asking, commanding, and commissioned action
+
+| Claim | Biblical assessment | Scientific assessment | GUA-W assessment | Status |
+|---|---|---|---|---|
+| Jesus gave the Twelve authority for the mission recorded in Matthew 10 and Luke 9. | Explicit in Matthew 10:1–15; Luke 9:1–6. | Historical/textual-theological claim; no physical mechanism is asserted. | Preserves source and commissioned derivative action. | Direct textual finding |
+| Jesus appointed and sent the Seventy (or Seventy-two) in Luke 10. | Explicit in Luke 10:1–20; textual variation in the number is noted. | Historical/textual-theological claim. | Preserves initiative in the sender. | Direct textual finding |
+| Prayer in Jesus' name is ordered by abiding and God's will. | John 14:13–14; John 15:7; 1 John 5:14–15. | Theological claim; not a scientific mechanism. | Consistent with dependent reception, not self-origin. | Supported synthesis |
+| Every believer has an identical commission and gift. | Not established by these passages; 1 Corinthians 12 describes diverse gifts. | Not a scientific claim. | Would erase distinctions between assignments and functions. | Not admitted |
+| A verbal command guarantees any desired outcome. | Not established; the narratives record particular acts and commissions. | No reproducible physical mechanism is claimed or demonstrated here. | Would turn delegated authority into autonomous control. | Reject |
+| The Spirit distributes gifts according to His will. | Explicit in 1 Corinthians 12:11; compare Hebrews 2:4. | Theological claim. | Preserves the Spirit as giver and the recipient as derivative. | Direct textual finding |
+
+### 25.9 Unresolved questions added
+
+1. How should the specific commission to the Twelve in Matthew 10 be related to the commission of the Seventy in Luke 10 and the church's later mission?
+2. What continuities and differences exist between the signs in the Gospels and the signs recorded in Acts?
+3. How should Mark 9:38–41 inform the question of who may act in Jesus' name, especially where the Twelve do not control the activity?
+4. How do 1 Corinthians 12–14 distinguish the Spirit's distribution of gifts, the believer's responsibility to use them, and the church's need for order?
+5. How should James 5:13–18 be read alongside the healing accounts in Acts and the New Testament's teaching on suffering?
+6. What criteria does Scripture give for discerning a genuine commission from personal desire, presumption, or misuse of the Name?
+7. How do the apostles' prayers for boldness in Acts 4:23–31 relate to their direct commands in Acts 3 and Acts 16?
+
+
 ## 23. Change record
 
 - 2026-11-26 — Initial study created after the user's question about acting in the Name of Jesus Christ and the testimony concerning God's will as guide.
@@ -1138,3 +1259,4 @@ These fruits do not purchase the indwelling Spirit or earn salvation. They are t
 - 2026-11-26 — No GUA-W architecture change proposed.
 - 2026-11-26 — Added Section 24 on the Potter, earthen vessels, the indwelling Spirit, former sin and divine mercy, weakness, and the exclusion of human boasting. Cross-referenced Study 0034 and distinguished God's redemptive purpose from the claim that God authored sin.
 - 2026-11-26 — Extended Section 24 with John 14:20; John 17:20–23; John 15:1–17; Ephesians 3:14–21; and Colossians 1:24–29. Distinguished received life from active fruit-bearing and rejected both self-deification and passive inactivity.
+- 2026-11-26 — Added Section 25 comparing asking in Jesus' name, commanding in particular Acts events, commissioned action in Matthew 10 and Luke 9–10, and Spirit-distributed gifts in 1 Corinthians 12. Preserved the scope of each commission and rejected verbal-formula guarantees or unrestricted authority claims.
