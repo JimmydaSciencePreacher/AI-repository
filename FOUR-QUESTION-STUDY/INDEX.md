@@ -22,12 +22,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0014](RECORD-0014-GENESIS-1-14.md) | Genesis 1:14 (KJV) | Records God's command for lights in the firmament to divide day from night and serve for signs, seasons, days, and years; distinguishes verse 14's assigned purposes from details in verses 15–18. |
 | [0015](RECORD-0015-GENESIS-1-15.md) | Genesis 1:15 (KJV) | Records the continued command assigning the lights to give light upon the earth and the affirmation “and it was so”; distinguishes this from the making and setting described in verses 16–17. |
 | [0016](RECORD-0016-GENESIS-1-16.md) | Genesis 1:16 (KJV) | Records God making two great lights, distinguishing the greater and lesser in relation to day and night, and making the stars also; preserves the verse's wording and separates making from setting in verse 17. |
+| [0017](RECORD-0017-GENESIS-1-17.md) | Genesis 1:17 (KJV) | Records God setting the lights in the firmament of heaven to give light upon the earth; distinguishes “set” from “made” in verse 16 and preserves the repeated purpose from verse 15. |
 
 ## Current position
 
-The study has examined Genesis 1:1–16 (KJV).
+The study has examined Genesis 1:1–17 (KJV).
 
-The next question arising from Record 0016 is: **What does Genesis 1:17 (KJV) establish when it says, “And God set them in the firmament of the heaven to give light upon the earth”? How must the Witness distinguish God's making of the lights in verse 16 from His setting them in verse 17, while preserving the stated purpose?**
+The next question arising from Record 0017 is: **What does Genesis 1:18 (KJV) establish when it says the lights are “to rule over the day and over the night, and to divide the light from the darkness,” and records, “and God saw that it was good”? How must the Witness distinguish the stated functions from God's assessment?**
 
 ## Study controls
 
