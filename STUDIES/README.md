@@ -46,6 +46,8 @@ This index follows the numbered study sequence already established in the reposi
 
 29. [Study 0029 — Romans 5:9–11: Justified, Reconciled, and Saved by His Life](0029-ROMANS-5-9-11-JUSTIFIED-RECONCILED-AND-SAVED-BY-HIS-LIFE.md)
 
+30. [Study 0030 — Romans 6: Dying and Rising with Christ, Present New Life and Future Resurrection](0030-ROMANS-6-DYING-AND-RISING-WITH-CHRIST-PRESENT-NEW-LIFE-AND-FUTURE-RESURRECTION.md)
+
 ---
 
 ## Repository method
