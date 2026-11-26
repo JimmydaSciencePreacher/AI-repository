@@ -19,21 +19,22 @@ If the current GUA-W does not explicitly identify a next Scripture, stop and rec
 
 ## Numbered placement records
 
-No placement records have yet been created under the reset protocol.
+The first placement record is complete. It records Genesis 1:1 (KJV) and the three companion branches explicitly named by the current GUA-W sources.
 
 | Study number | Starting/current Scripture | GUA-W location | Status |
 |---|---|---|---|
-| 0001 | Genesis 1:1 (KJV) | Pending fresh full-current GUA-W review | Not started |
+| 0001 | Genesis 1:1 (KJV) | Completed architecture §2; Genesis 1 authorial architecture §§1–4; Book Chapter 4, Genesis 1:1 | Recorded; three next branches identified |
 
 ## Current position register
 
-- **Study state:** Reset; protocol established.
-- **Starting Scripture:** Genesis 1:1 (KJV).
-- **Current GUA-W repository version reviewed:** None yet.
-- **Current GUA-W location:** Not yet established by the fresh review.
-- **Pieces placed in this reset series:** None.
-- **Next action:** Before any placement, perform the full-current GUA-W review. Then ask the four questions for Genesis 1:1 and record only the next Scripture GUA-W explicitly identifies.
-- **Unresolved:** The exact GUA-W position and next Scripture must be established from the fresh review; AI must not fill this in from earlier work.
+- **Study state:** Active; reset protocol in force.
+- **Starting Scripture:** Genesis 1:1 (KJV), recorded in 0001.
+- **Current GUA-W repository version reviewed:** `main`, commit `0b536faf3a93a4594907ea41b4953dbff8d18a68`, tree `97a915a04450f6637fc0de1d38220de326a7a16a`.
+- **Current GUA-W location:** Completed architecture §2; Genesis 1 authorial architecture §§1–4; Book Chapter 4, Genesis 1:1.
+- **Pieces examined/recorded in this reset series:** Genesis 1:1 (one starting piece).
+- **Next identified branch set:** John 1:1–3; Colossians 1:16–17; Hebrews 1:1–3. GUA-W names them as canonical witnesses; it does not prescribe an order among them.
+- **Next action:** Before examining any branch passage or making another placement, perform the fresh full-current GUA-W review again. Then ask the four questions for the branch passage(s) and record only further Scripture GUA-W explicitly identifies.
+- **Unresolved:** Branch order is not specified. Do not invent one.
 
 ## Historical reset
 
