@@ -8,7 +8,8 @@ This record reconciles the live AI research repository after the Scripture Place
 
 - Repository: `JimmydaSciencePreacher/AI-repository`
 - Branch inspected: `main`
-- Tree SHA inspected: `8619c48d2b06be7c6a17347224ad66acfb63e740`
+- Pre-maintenance branch commit: `8619c48d2b06be7c6a17347224ad66acfb63e740`
+- Corresponding Git tree SHA: `aa07924a7e98e55c9ae7fd83cb0f91ea41b8a585`
 - The tree contains `SCRIPTURE-PLACEMENT/README.md` and `INDEX.md`, but no numbered placement records in that directory.
 - The tree also contains the historical handoffs `2026-11-26-SCRIPTURE-PLACEMENT-OPENING.md` and `0002.md` through `0005.md`.
 - The same tree contains the separate `STUDIES/0001` through `0050` series. These are not Scripture Placement records and must not be renumbered or confused with that separate series.
@@ -36,11 +37,12 @@ The four mandatory questions in `README.md` remain the placement gate. If GUA-W 
 
 - Repository: `JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness`
 - Branch inspected: `main`
-- Tree SHA: `0b536faf3a93a4594907ea41b4953dbff8d18a68`
+- Branch commit SHA: `0b536faf3a93a4594907ea41b4953dbff8d18a68`
+- Git tree SHA: `97a915a04450f6637fc0de1d38220de326a7a16a`
 - Tree entries: 183
 - GitHub tree response reported `truncated=false`.
 
-This identifies the snapshot to be reviewed. It does **not** claim that the full GUA-W content review has been completed. The first Scripture placement remains blocked until the fresh review receipt is completed against this source repository state.
+This identifies the exact snapshot being reviewed. The initial recursive-tree request by branch name returned the commit identifier; the commit's tree was separately resolved and the recursive tree fetched by its actual tree SHA. The tree contains 183 entries and GitHub reported `truncated=false`. This does **not** claim that the full GUA-W content review has been completed. The first Scripture placement remains blocked until the fresh review receipt is completed against this source repository state.
 
 ## Files reconciled by this maintenance update
 
