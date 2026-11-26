@@ -45,12 +45,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0037](RECORD-0037-GENESIS-2-6.md) | Genesis 2:6 (KJV) | Records a mist going up from the earth and watering the whole face of the ground; examines the rare Hebrew term and preserves the unresolved identity and mechanism of the phenomenon. |
 | [0038](RECORD-0038-GENESIS-2-7.md) | Genesis 2:7 (KJV) | Records the LORD God forming man from dust, breathing the breath of life into his nostrils, and man becoming a living soul; preserves the distinction between divine action, material, breath, and resulting life. |
 | [0039](RECORD-0039-GENESIS-2-8.md) | Genesis 2:8 (KJV) | Records the LORD God planting a garden eastward in Eden and placing there the man He had formed; distinguishes garden from Eden and preserves unresolved geography and chronology. |
+| [0040](RECORD-0040-GENESIS-2-9.md) | Genesis 2:9 (KJV) | Records the LORD God causing trees to grow out of the ground, their qualities, and the named tree of life and tree of knowledge of good and evil; distinguishes description from permission and preserves unresolved roles. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:8 (KJV).
+The study has examined Genesis 1:1–2:9 (KJV).
 
-The next question arising from Record 0039 is: **What does Genesis 2:9 say God made to grow out of the ground? What distinctions does it make about the trees, including the tree of life and the tree of knowledge of good and evil, and what remains to be learned about their roles?**
+The next question arising from Record 0040 is: **What does Genesis 2:10 say about the river's origin and direction? What does it water, what does “from thence” refer to, and what does the verse establish about its division into four heads? What geographical and hydrological details remain unresolved?**
 
 ## Study controls
 
