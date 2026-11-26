@@ -43,12 +43,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0035](RECORD-0035-GENESIS-2-4.md) | Genesis 2:4 (KJV) | Introduces the generations of the heavens and earth, identifies them as created by the LORD God, and connects the Creation account with what follows; preserves unresolved questions about “in the day”, the verb pair, and the reversed order. |
 | [0036](RECORD-0036-GENESIS-2-5.md) | Genesis 2:5 (KJV) | Records field vegetation in relation to the absence of rain and a man to till the ground; distinguishes rain from the mist in verse 6 and preserves the unresolved relationship with Genesis 1:11–12. |
 | [0037](RECORD-0037-GENESIS-2-6.md) | Genesis 2:6 (KJV) | Records a mist going up from the earth and watering the whole face of the ground; examines the rare Hebrew term and preserves the unresolved identity and mechanism of the phenomenon. |
+| [0038](RECORD-0038-GENESIS-2-7.md) | Genesis 2:7 (KJV) | Records the LORD God forming man from dust, breathing the breath of life into his nostrils, and man becoming a living soul; preserves the distinction between divine action, material, breath, and resulting life. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:6 (KJV).
+The study has examined Genesis 1:1–2:7 (KJV).
 
-The next question arising from Record 0037 is: **What does Genesis 2:7 distinguish between the LORD God forming man from the dust of the ground and breathing into his nostrils the breath of life? What does the text identify as the result, and what must not be added beyond its wording?**
+The next question arising from Record 0038 is: **What does Genesis 2:8 distinguish between the LORD God planting a garden and placing the man there? What does “eastward in Eden” establish, and what remains to be learned about the garden and its placement?**
 
 ## Study controls
 
