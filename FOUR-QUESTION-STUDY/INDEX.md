@@ -52,12 +52,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0044](RECORD-0044-GENESIS-2-14.md) | Genesis 2:14 (KJV) | Names Hiddekel as the third river and describes its direction relative to Assyria; names Euphrates as the fourth; distinguishes conventional river identifications from unresolved reconstruction of the four-head geography. |
 | [0045](RECORD-0045-GENESIS-2-15.md) | Genesis 2:15 (KJV) | Records the LORD God placing the man in the garden to dress/work it and keep/guard it; examines the received assignment, Hebrew terms, and repeated placement language without inventing tasks or chronology. |
 | [0046](RECORD-0046-GENESIS-2-16.md) | Genesis 2:16 (KJV) | Records the LORD God's command granting the man permission to eat from the garden's trees; examines the emphatic Hebrew construction and distinguishes broad provision and permission from the specific boundary in verse 17. |
+| [0047](RECORD-0047-GENESIS-2-17.md) | Genesis 2:17 (KJV) | Records the prohibition against eating from the tree of the knowledge of good and evil and the emphatic death declaration; examines the Hebrew command, “in the day,” and “thou shalt surely die” while preserving unresolved questions about the scope and timing of death. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:16 (KJV).
+The study has examined Genesis 1:1–2:17 (KJV).
 
-The next question arising from Record 0046 is: **What is the specific prohibition concerning the tree of the knowledge of good and evil? What does “thou shalt surely die” express in Hebrew? What does “in the day” mean in the sentence? What does the verse establish about the boundary attached to the permission in verse 16, and what must remain unresolved until the wording and relevant Scriptural context are examined?**
+The next question arising from Record 0047 is: **What does the LORD God declare “not good”? What does “alone” describe in this immediate context? What does the LORD God purpose to make? What does the KJV expression “an help meet for him” represent in Hebrew? What is the relationship between the man, the proposed counterpart, and God's stated purpose? What does the verse establish, and what must be left to the following account of the animals and the formation of the woman?**
 
 ## Study controls
 
