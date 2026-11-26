@@ -29,12 +29,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0021](RECORD-0021-GENESIS-1-21.md) | Genesis 1:21 (KJV) | Records God as Creator of great whales, moving living creatures, and winged fowl; preserves the waters' bringing forth, the kind distinctions, and God's assessment that it was good. |
 | [0022](RECORD-0022-GENESIS-1-22.md) | Genesis 1:22 (KJV) | Records God's blessing of the creatures and instructions concerning fruitfulness, multiplication, and filling; distinguishes blessing and commanded continuation from creation and assessment. |
 | [0023](RECORD-0023-GENESIS-1-23.md) | Genesis 1:23 (KJV) | Records evening and morning as the fifth day; preserves the recurring day-designation formula and distinguishes the day marker from the command, creation, assessment, and blessing in verses 20–22. |
+| [0024](RECORD-0024-GENESIS-1-24.md) | Genesis 1:24 (KJV) | Records God's command for the earth to bring forth land creatures; distinguishes the Author, addressed domain, command, and “it was so,” while preserving the following making statement in verse 25. |
 
 ## Current position
 
-The study has examined Genesis 1:1–23 (KJV).
+The study has examined Genesis 1:1–24 (KJV).
 
-The next question arising from Record 0022 is: **What does Genesis 1:24 establish when God says, “Let the earth bring forth the living creature after his kind,” and how does this command relate to the earlier commands for the earth to bring forth vegetation and the waters to bring forth living creatures?**
+The next question arising from Record 0023 is: **What does Genesis 1:25 establish when it says, “And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind,” and how does this execution statement relate to the command in Genesis 1:24?**
 
 ## Study controls
 
