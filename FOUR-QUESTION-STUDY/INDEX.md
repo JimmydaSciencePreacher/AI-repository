@@ -54,12 +54,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0046](RECORD-0046-GENESIS-2-16.md) | Genesis 2:16 (KJV) | Records the LORD God's command granting the man permission to eat from the garden's trees; examines the emphatic Hebrew construction and distinguishes broad provision and permission from the specific boundary in verse 17. |
 | [0047](RECORD-0047-GENESIS-2-17.md) | Genesis 2:17 (KJV) | Records the prohibition against eating from the tree of the knowledge of good and evil and the emphatic death declaration; examines the Hebrew command, “in the day,” and “thou shalt surely die” while preserving unresolved questions about the scope and timing of death. |
 | [0048](RECORD-0048-GENESIS-2-18.md) | Genesis 2:18 (KJV) | Records God's declaration that the man's being alone is not good and His purpose to make an *ʿēzer kĕnegdô*—a help corresponding to him; examines the Hebrew expression and preserves the distinction between announced purpose and the following narrative realization. |
+| [0049](RECORD-0049-GENESIS-2-19.md) | Genesis 2:19 (KJV) | Records the LORD God forming beasts and fowl from the ground, bringing them to Adam, and Adam naming them; distinguishes God's forming and bringing from Adam's naming, and does not infer divine ignorance from “to see what he would call them.” |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:18 (KJV).
+The study has examined Genesis 1:1–2:19 (KJV).
 
-The next question arising from Record 0048 is: **What does the LORD God form from the ground? What does He do with the formed creatures? What is the stated purpose of bringing them to Adam? What does “to see what he would call them” state, and what must not be inferred about God's knowledge? What does the verse establish about Adam's naming, and what belongs to the result stated in verse 20?**
+The next question arising from Record 0049 is: **What groups does Adam name? What does the contrastive “but” introduce? What does “there was not found an help meet for him” state, and who is the grammatical subject of “was found”? Does the verse say that Adam searched, that God searched, or simply report the result? What does this establish in relation to God's purpose in verse 18, and what must remain for verses 21–23?**
 
 ## Study controls
 
