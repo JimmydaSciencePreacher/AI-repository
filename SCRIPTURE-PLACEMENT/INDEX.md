@@ -9,10 +9,11 @@ This index belongs only to the separate Scripture Placement study. See README.md
 | 0001 | Genesis 1:1 (KJV) | The relevant GUA-W Genesis 1 sources identify John 1:1–3, Colossians 1:16–17, and Hebrews 1:1–3 as companion canonical witnesses. No order among them is specified. |
 | 0002 | John 1:1–3; Colossians 1:16–17; Hebrews 1:1–3 (KJV) | Examines the companion passages in their own wording and context, and records further relationships named in GUA-W without turning every cross-reference into a prescribed next step. |
 | 0003 | John 1:14 (KJV) | Examines the Word made flesh in the context of John 1:1–18, including the distinction between the Word and the witnesses who testify concerning Him. |
+| 0004 | John 14:6 (KJV) | Examines Jesus' declaration that He is the Way, the Truth, and the Life in the context of John 14:1–11. |
 
 ## Current position
 
-The study has begun with Genesis 1:1, examined its three companion passages, and then examined John 1:14:
+The study has begun with Genesis 1:1, examined its three companion passages, then examined John 1:14, and then John 14:6:
 - John 1:1–3
 - Colossians 1:16–17
 - Hebrews 1:1–3
