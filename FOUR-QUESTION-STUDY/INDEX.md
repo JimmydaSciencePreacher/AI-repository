@@ -38,12 +38,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0030](RECORD-0030-GENESIS-1-30.md) | Genesis 1:30 (KJV) | Records God's provision of every green herb for the named animal groups; distinguishes this provision from humanity's provision in verse 29. |
 | [0031](RECORD-0031-GENESIS-1-31.md) | Genesis 1:31 (KJV) | Records God's collective assessment of everything He made as very good and the designation of the sixth day; distinguishes assessment from the completion and rest statements in Genesis 2:1–2. |
 | [0032](RECORD-0032-GENESIS-2-1.md) | Genesis 2:1 (KJV) | Records the heavens, earth, and all their host as finished; distinguishes this declaration from God's ending of His work, rest, and blessing of the seventh day in verses 2–3. |
+| [0033](RECORD-0033-GENESIS-2-2.md) | Genesis 2:2 (KJV) | Records God ending His work and resting on the seventh day; preserves the KJV timing, distinguishes rest from fatigue, and leaves the precise relation to verse 1 open for linguistic examination. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:1 (KJV).
+The study has examined Genesis 1:1–2:2 (KJV).
 
-The next question arising from Record 0032 is: **What does Genesis 2:2 establish when it says that on the seventh day God ended His work which He had made and rested from all His work? How does this relate to the declaration that the heavens, earth, and all their host were finished in verse 1?**
+The next question arising from Record 0033 is: **What does Genesis 2:3 establish when God blesses and sanctifies the seventh day, and why does the verse give as its reason that God rested from all His work which He created and made?**
 
 ## Study controls
 
