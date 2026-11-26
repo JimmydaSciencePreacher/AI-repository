@@ -49,12 +49,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0041](RECORD-0041-GENESIS-2-10.md) | Genesis 2:10 (KJV) | Records a river going out of Eden to water the garden and then being parted into four heads; preserves the stated sequence and leaves precise geography and hydrological reconstruction unresolved. |
 | [0042](RECORD-0042-GENESIS-2-11-12.md) | Genesis 2:11–12 (KJV) | Names Pison as the first head and describes its relation to Havilah and the land's gold, bdellium, and onyx; distinguishes textual description from unresolved modern geographical and material identifications. |
 | [0043](RECORD-0043-GENESIS-2-13.md) | Genesis 2:13 (KJV) | Names Gihon as the second river and describes it as encompassing Cush (KJV: Ethiopia); examines the repeated “compasseth” wording while leaving modern geography and river identity unresolved. |
+| [0044](RECORD-0044-GENESIS-2-14.md) | Genesis 2:14 (KJV) | Names Hiddekel as the third river and describes its direction relative to Assyria; names Euphrates as the fourth; distinguishes conventional river identifications from unresolved reconstruction of the four-head geography. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:13 (KJV).
+The study has examined Genesis 1:1–2:14 (KJV).
 
-The next question arising from Record 0043 is: **What does Genesis 2:14 identify about the third river, Hiddekel? What does “goeth toward the east of Assyria” establish about its direction and geographical relationship? What does the verse identify about the fourth river, Euphrates? What is stated, and what remains unresolved about their modern courses and their connection to the four heads introduced in Genesis 2:10?**
+The next question arising from Record 0044 is: **What does Genesis 2:15 say the LORD God does with the man? What is the relationship between taking, placing, and the garden of Eden? What do “dress” and “keep” mean in their Hebrew context? What responsibilities are expressly assigned, and what must not be imported from later passages? How does this verse connect the man, the garden, and the work appointed to him?**
 
 ## Study controls
 
