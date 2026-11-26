@@ -25,12 +25,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0017](RECORD-0017-GENESIS-1-17.md) | Genesis 1:17 (KJV) | Records God setting the lights in the firmament of heaven to give light upon the earth; distinguishes “set” from “made” in verse 16 and preserves the repeated purpose from verse 15. |
 | [0018](RECORD-0018-GENESIS-1-18.md) | Genesis 1:18 (KJV) | Records the lights' rule over day and night and division of light from darkness, then God's assessment that it was good; distinguishes their stated functions from the Author's assessment. |
 | [0019](RECORD-0019-GENESIS-1-19.md) | Genesis 1:19 (KJV) | Records evening and morning as the fourth day; preserves the recurring day-designation formula and distinguishes the day marker from the actions and functions in verses 14–18. |
+| [0020](RECORD-0020-GENESIS-1-20.md) | Genesis 1:20 (KJV) | Records God's command for the waters to bring forth abundantly living moving creatures and fowl; distinguishes the command and addressed domain from the creation, blessing, and multiplication recorded in verses 21–22. |
 
 ## Current position
 
-The study has examined Genesis 1:1–19 (KJV).
+The study has examined Genesis 1:1–20 (KJV).
 
-The next question arising from Record 0019 is: **What does Genesis 1:20 (KJV) establish when God says, “Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven”? What is commanded, what is the stated source or domain from which life is to come forth, and what distinctions must the Witness preserve?**
+The next question arising from Record 0019 is: **What does Genesis 1:21 (KJV) establish when it records, “And God created great whales, and every living creature that moveth,” and how does the verse distinguish God's creative act, the waters' bringing forth, the creatures “after their kind,” and the winged fowl?**
 
 ## Study controls
 
