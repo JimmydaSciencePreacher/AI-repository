@@ -792,8 +792,204 @@ God alone is Original Cause. Everything else is derivative witness. The derivati
 
 No GUA-W layer, operation, state, or definition has been added or changed.
 
+## 24. The vessel, the indwelling Spirit, and the glory belonging to God
+
+### 24.1 The user's observation
+
+The user adds:
+
+> “We are a vessel that He crafted with His hands to hold His Spirit in. ...Just because we were formerly broken this is actually part of His Plan...so that we would NOT Boast in ourselves.”
+
+This observation brings together several biblical images: the Potter and clay, the treasure in earthen vessels, the indwelling Spirit, God's workmanship, and the exclusion of human boasting.
+
+The wording is retained as the user's theological observation. Its component claims must be examined separately so that the biblical images are not blended beyond what their contexts establish.
+
+### 24.2 The Potter and the clay — Isaiah 64:8
+
+KJV:
+
+> “But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.”
+
+The passage identifies the LORD as Father and Potter and the people as clay formed by His hand. The image emphasizes dependence upon the Maker.
+
+Jeremiah 18:1–6 also uses the potter and clay. The immediate context concerns the house of Israel and God's sovereign dealings with nations; the potter's authority is not an invitation to invent details about the hidden purpose of every individual suffering or failure.
+
+**Source observation:** Scripture uses the potter/clay image to express God's authority as Maker and His people's dependence upon Him.
+
+**Interpretive boundary:** “Crafted with His hands” is a biblical image of God's creative and formative work. It should not be converted into a claim that Scripture describes God as physically manufacturing a container for a spirit.
+
+### 24.3 The treasure in earthen vessels — 2 Corinthians 4:6–12
+
+The prior repository investigation, Study 0034, examined this passage in its full context.
+
+Paul writes:
+
+> “But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.” (2 Corinthians 4:7, KJV)
+
+The immediate context identifies the treasure with the light of the knowledge of God's glory in the face of Jesus Christ (4:6), within Paul's discussion of the Gospel and its ministry.
+
+The contrast is explicit:
+- the treasure is precious;
+- the vessels are earthen and fragile;
+- the surpassing power is God's;
+- the power is not to be attributed to the human ministers.
+
+Verses 8–12 describe affliction, perplexity, persecution, and being cast down, while also describing God's sustaining action. The passage does not promise that the vessel will never suffer or break physically. Nor does it teach that weakness itself is the treasure.
+
+The point is that God's power is manifested through fragile human bearers so that the glory is attributed to God rather than to them.
+
+This is closely related to the user's observation, but the text's own emphasis should remain primary: **the excellency of the power is of God, and not of us.**
+
+### 24.4 The Spirit dwelling within — 1 Corinthians 6:19–20
+
+Paul asks:
+
+> “What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?” (1 Corinthians 6:19, KJV)
+
+The next verse says:
+
+> “For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God's.” (1 Corinthians 6:20, KJV)
+
+The immediate context is Paul's instruction concerning sexual immorality, bodily holiness, and belonging to God. The body is not disposable or morally irrelevant; it belongs to God and is to glorify Him.
+
+Other relevant passages include:
+- Romans 8:9–11 — the Spirit of God dwells in believers.
+- 1 Corinthians 3:16–17 — the church is God's temple and God's Spirit dwells in it.
+- 2 Timothy 1:14 — the Holy Ghost dwells in believers.
+- Ephesians 2:19–22 — the people of God are built together as a habitation of God through the Spirit.
+
+**Finding:** The New Testament explicitly teaches the indwelling of the Holy Ghost. The vessel/temple language can illuminate the user's image, but “vessel” and “temple” are distinct metaphors and should not be treated as identical technical definitions.
+
+### 24.5 Formerly dead, now made alive — Ephesians 2:1–10
+
+The passage describes the former condition of those addressed: dead in trespasses and sins (vv. 1–3). It then turns on the words:
+
+> “But God, who is rich in mercy...” (Ephesians 2:4, KJV)
+
+God makes them alive together with Christ (v. 5), raises them, and seats them in heavenly places in Christ (v. 6). Salvation is by grace through faith, not of works, “lest any man should boast” (vv. 8–9).
+
+Verse 10 then says:
+
+> “For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.”
+
+The order is significant:
+1. The former condition is described truthfully.
+2. God acts in mercy.
+3. Salvation is by grace, not earned by works.
+4. Human boasting is excluded.
+5. Those made alive are God's workmanship.
+6. They are created in Christ Jesus unto good works.
+
+The passage does not say that God authored the trespasses and sins in which people walked. It says that He intervenes in that condition and creates in Christ for good works.
+
+The phrase “his workmanship” translates the Greek *poiēma*, meaning something made or a work/product. The verse directly identifies believers as God's workmanship in Christ.
+
+**Finding:** The former condition magnifies the mercy of God when the passage is read in its sequence. The former sin is not made good, and the sinner is not the source of salvation. God's grace, not human achievement, is the ground for boasting being excluded.
+
+### 24.6 Weakness and the power of Christ — 2 Corinthians 12:7–10
+
+Paul describes a “thorn in the flesh” and his repeated request that it depart. The Lord's answer is:
+
+> “My grace is sufficient for thee: for my strength is made perfect in weakness.” (2 Corinthians 12:9, KJV)
+
+Paul then says he will rather glory in infirmities so that the power of Christ may rest upon him.
+
+The passage establishes that Christ's power can be displayed in weakness. It does not identify every affliction as a specific punishment, nor does it tell us that every painful circumstance should be sought or left untreated.
+
+Paul's point is that weakness does not prevent Christ's grace from sustaining His servant, and that the power belongs to Christ.
+
+### 24.7 Vessels unto honour — 2 Timothy 2:20–21
+
+Paul describes vessels in a great house, some to honour and some to dishonour. He then says that if a person purges himself from these, he shall be a vessel unto honour, sanctified and meet for the master's use, prepared unto every good work.
+
+This passage adds a necessary dimension: the vessel metaphor is not only about fragility or being filled. It also concerns holiness, readiness, and usefulness to the Master.
+
+We should not use the metaphor to imply that a vessel's former condition makes present conduct irrelevant. The passage calls for cleansing and readiness.
+
+### 24.8 Romans 9:20–24 — the potter's authority and vessels of mercy
+
+Paul returns to the potter/clay image in Romans 9. The context concerns God's righteousness, mercy, calling, and freedom in His purposes.
+
+The passage speaks of vessels of wrath and vessels of mercy, and says that God makes known the riches of His glory upon the vessels of mercy (vv. 22–24).
+
+This is a weighty passage, and interpretations of the relation between divine sovereignty, human responsibility, and the identity of the vessels differ. It should not be reduced to the simple assertion that every person's past brokenness was individually caused by God for the purpose of making that person a vessel.
+
+The secure observation is that Paul places the display of God's mercy and glory in the foreground and denies that human beings can put the Creator in the dock as though He were accountable to the clay.
+
+### 24.9 Does “formerly broken” mean the brokenness itself was authored by God?
+
+This claim requires a distinction.
+
+The Scriptures examined establish:
+- God is Creator and Potter.
+- Human beings are dependent upon Him.
+- Humanity's former condition is described as sin and death.
+- God acts in mercy to make people alive in Christ.
+- God's grace excludes boasting.
+- God prepares His people for good works.
+- His power can be manifested through weakness and suffering.
+
+They do not, by themselves, establish the stronger proposition that God is the author of human sin or that every specific act of brokenness was directly caused by Him.
+
+The user's phrase “this is actually part of His Plan” may be understood in a redemptive sense: God is not defeated by the former condition; He has purposed salvation in Christ and the creation of a people who cannot boast in themselves.
+
+That formulation must remain distinct from saying that God authors evil. Ephesians 2:1–10 supports the former sequence—sinful former condition, divine mercy, salvation by grace, new creation, good works—without making God the author of the trespasses.
+
+### 24.10 Synthesis: the vessel does not own the treasure
+
+The passages together give a coherent scriptural picture:
+- The Potter is the Maker (Isaiah 64:8).
+- The treasure is carried in earthen vessels (2 Corinthians 4:7).
+- The body is a temple of the Holy Ghost (1 Corinthians 6:19).
+- Those dead in sins are made alive by God's mercy (Ephesians 2:1–10).
+- The power displayed through weakness belongs to Christ (2 Corinthians 12:9–10).
+- The vessel is called to holiness and readiness for the Master's use (2 Timothy 2:20–21).
+
+The metaphors are related but not interchangeable. Together they support the central point that the believer does not originate, own, or deserve the divine life and power received.
+
+**The vessel is not the Potter. The vessel is not the treasure. The vessel is not the power. The glory belongs to God.**
+
+This is a theological synthesis of the cited passages, not a newly defined GUA-W operation.
+
+### 24.11 Connection to acting in the Name of Jesus Christ
+
+The previous sections examined what it means to act in Christ's name. This vessel study deepens the question of attribution.
+
+Peter refused to let the crowd attribute the healing to his own power or holiness (Acts 3:12). Paul says the power in earthen vessels is of God, not of the ministers (2 Corinthians 4:7). The body belongs to God and is to glorify Him (1 Corinthians 6:19–20).
+
+Therefore, acting in the Name of Jesus is consistent with the vessel image when the witness:
+- receives rather than claims the source;
+- serves rather than self-exalts;
+- obeys rather than invents authority;
+- gives rather than boasts;
+- directs glory to God rather than to the vessel.
+
+### 24.12 Triple Constraint assessment
+
+| Claim | Biblical assessment | Scientific assessment | GUA-W assessment | Status |
+|---|---|---|---|---|
+| God is Potter; people are clay, the work of His hand. | Isaiah 64:8; Jeremiah 18:1–6. | Theological metaphor, not a physical model. | Preserves Creator/created distinction. | Supported biblical image |
+| The treasure is in earthen vessels so the power is attributed to God. | Explicit in 2 Corinthians 4:7. | Not a laboratory mechanism. | Preserves Source/derivative distinction. | Direct textual finding |
+| The Holy Ghost dwells in believers. | 1 Corinthians 6:19; Romans 8:9–11. | Theological claim, not experimentally established by this study. | Consistent with derivative witness receiving, not originating, life. | Direct textual finding |
+| Believers are God's workmanship, created in Christ unto good works. | Ephesians 2:8–10. | Theological claim. | Preserves divine initiative and dependent expression. | Direct textual finding |
+| God authored the sins that made humanity broken. | Not established by the examined texts; must not be inferred from God's redemptive purpose. | Not a scientific claim. | Would require a separate examination of causation and responsibility. | Not admitted |
+| God redeems sinners and excludes boasting in human achievement. | Ephesians 2:4–10; 1 Corinthians 1:26–31. | Theological claim. | Preserves God as Source of salvation and glory. | Supported synthesis |
+| Every weakness or illness was specifically sent to make a person useful. | Not established; 2 Corinthians 12 is a particular apostolic account. | Not established. | Would overgeneralize a contextual text. | Reject as universal claim |
+
+### 24.13 Unresolved questions
+
+1. How does the “treasure” in 2 Corinthians 4:7 relate precisely to the knowledge of God's glory in Christ in 4:6 and the ministry of the new covenant?
+2. How should the vessel image in 2 Corinthians 4 be compared with the temple image in 1 Corinthians 3 and 6?
+3. What is the relation between the indwelling Spirit and the believer's body as a temple?
+4. How do Isaiah 64:8 and Jeremiah 18:1–6 relate to Paul's potter/clay image in Romans 9?
+5. How does Ephesians 2:1–10 distinguish God's saving purpose from the origin and responsibility of sin?
+6. What is the relation between former brokenness, present weakness, sanctification, and future resurrection?
+7. How should 2 Timothy 2:20–21's emphasis on cleansing and readiness be integrated with the vessel image without making usefulness a basis of salvation?
+8. How does this vessel imagery further clarify the distinction between the authority of Christ and the witness who acts in His name?
+
 ## 23. Change record
 
 - 2026-11-26 — Initial study created after the user's question about acting in the Name of Jesus Christ and the testimony concerning God's will as guide.
 - 2026-11-26 — Compared the user's wording with prior repository work on the name, miracles, the Holy Ghost, and the will and doing.
 - 2026-11-26 — No GUA-W architecture change proposed.
+- 2026-11-26 — Added Section 24 on the Potter, earthen vessels, the indwelling Spirit, former sin and divine mercy, weakness, and the exclusion of human boasting. Cross-referenced Study 0034 and distinguished God's redemptive purpose from the claim that God authored sin.
