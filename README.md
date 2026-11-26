@@ -57,7 +57,7 @@ They are questions for examination and reflection, not additional stages in the 
 
 ## Repository map
 
-- `GUIDES/` — explanatory material about the repository, research records, sources, and study format.
+- `GUIDES/` — explanatory material about the repository, research records, sources, and study format. [Guide 05 — The Author Alignment Principle](GUIDES/05-AUTHOR-ALIGNMENT-PRINCIPLE.md) records the project's theological starting point and cross-disciplinary research method.
 - `STUDIES/` — individual investigations and their findings.
 - `HANDOFFS/` — descriptive records that preserve the state of work between sessions.
 
