@@ -35,12 +35,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0027](RECORD-0027-GENESIS-1-27.md) | Genesis 1:27 (KJV) | Records God creating man in His image, repeating the image statement, and identifying male and female; preserves humanity's image-bearing identity while distinguishing Creator from created. |
 | [0028](RECORD-0028-GENESIS-1-28.md) | Genesis 1:28 (KJV) | Records God's blessing and instructions to humanity concerning fruitfulness, multiplication, filling the earth, subduing it, and dominion; distinguishes received appointment from originating authority. |
 | [0029](RECORD-0029-GENESIS-1-29.md) | Genesis 1:29 (KJV) | Records God giving humanity seed-bearing vegetation and fruit-bearing trees for food; distinguishes divine provision, created biological capacity, and theological interpretation of seed. |
+| [0030](RECORD-0030-GENESIS-1-30.md) | Genesis 1:30 (KJV) | Records God's provision of every green herb for the named animal groups; distinguishes this provision from humanity's provision in verse 29. |
 
 ## Current position
 
-The study has examined Genesis 1:1–29 (KJV).
+The study has examined Genesis 1:1–30 (KJV).
 
-The next question arising from Record 0028 is: **What does Genesis 1:30 establish when God gives the green herb for food to the beasts of the earth, the fowl of the air, and every thing that creepeth upon the earth wherein there is life? How does this provision relate to the provision given to humanity in verse 29?**
+The next question arising from Record 0030 is: **What does Genesis 1:31 establish when God sees everything that He has made and declares it “very good”? What is included in “every thing that he had made,” how does this assessment relate to the preceding acts of Creation, and what does the closing evening-and-morning formula establish about the sixth day?**
 
 ## Study controls
 
