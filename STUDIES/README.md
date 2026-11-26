@@ -67,6 +67,7 @@ This index follows the numbered study sequence already established in the reposi
 46. [Study 0046 — John 1:12–13: Receiving Christ and Being Born of God](0046-JOHN-1-12-13-RECEIVING-CHRIST-AND-BEING-BORN-OF-GOD.md)
 47. [Study 0047 — John 3:3–8: Born from Above and Born of the Spirit](0047-JOHN-3-3-8-BORN-AGAIN-AND-BORN-OF-THE-SPIRIT.md)
 48. [Study 0048 — Hebrews 1:1–3: God Speaks Through the Son, Creation, and the Sustaining Word](0048-HEBREWS-1-1-3-GOD-SPEAKS-THROUGH-THE-SON-CREATION-AND-SUSTAINING.md)
+49. [Study 0049 — John 1:1–3, Colossians 1:15–20, and Hebrews 1:1–3: The Son and Creation](0049-JOHN-1-1-3-COLOSSIANS-1-15-20-HEBREWS-1-1-3-THE-SON-AND-CREATION.md)
 
 ---
 
