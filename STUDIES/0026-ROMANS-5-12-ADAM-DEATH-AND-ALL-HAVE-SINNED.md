@@ -100,14 +100,14 @@ A close transliteration is: “upon which / because of which / because all sinne
 5. **James D. G. Dunn**, *The Theology of Paul the Apostle*, discussion of Romans 5:12–21. The consulted text records the dominant causal interpretation while also noting Fitzmyer's consequential reading and the corporate interpretation associated with other scholars. It is useful as evidence that the dispute remains a recognized exegetical question.  
    https://fbcclassroom.com/wp-content/uploads/2021/11/The-Theology-of-Paul-the-Apostl-James-D.-G.-Dunn.pdf
 
+6. **NET Bible, Romans 5:12–21.** The passage and notes provide the surrounding argument, including the references to Adam's transgression, death's reign, condemnation, and the obedience of Christ.  
+   https://classic.net.bible.org/passage.php?passage=Rom+5%3A12-21
+
 7. **Petr Mareček**, “The Meaning of ἐφ’ ᾧ in Romans 5:12,” *Studia Theologica* 23, no. 4 (2021): 37–50. Mareček argues that the causal meaning (“because, since”) is preferable, appealing to ancient usage, Paul's other uses of the construction, and the chiastic structure of Romans 5:12. This is a recent peer-reviewed argument for the causal reading and should be considered alongside Fitzmyer's resultative proposal.  
    https://doi.org/10.5507/sth.2021.046
 
 8. **Matthew A. Eby**, *Inherited Death As Basis for Personal Sin in Romans 5:12: An Exegetical Alternative to the Traditional Adam-Christology of Imputation*. Eby argues that inherited death is the basis or consequence leading to personal sin, rather than treating personal sin as the cause of death's spread. This is an alternative thesis, not an established consensus.  
    https://doi.org/10.2986/TREN.068-0373
-
-6. **NET Bible, Romans 5:12–21.** The passage and notes provide the surrounding argument, including the references to Adam's transgression, death's reign, condemnation, and the obedience of Christ.  
-   https://classic.net.bible.org/passage.php?passage=Rom+5%3A12-21
 
 ### 4.3 Method
 
