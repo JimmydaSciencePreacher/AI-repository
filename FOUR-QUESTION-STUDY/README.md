@@ -106,4 +106,4 @@ Not every record will require scientific analysis. When science is not materiall
 
 ## Current study state
 
-The study has examined Genesis 1:1–2:10 (KJV). See [INDEX.md](INDEX.md) for the sequence and completed records. The next question arises from Genesis 2:11–12.
+The study has examined Genesis 1:1–2:12 (KJV). See [INDEX.md](INDEX.md) for the sequence and completed records. The next question arises from Genesis 2:13.
