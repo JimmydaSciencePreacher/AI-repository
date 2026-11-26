@@ -32,7 +32,7 @@ Thus Psalm 19:1–4 is added as a GUA-W-identified companion passage to the Reve
 
 ## Repository changes
 
-- Created `SCRIPTURE-PLACEMENT/0005-FOLLOWING-ISAIAHS-PURPOSE-AND-THE-WITNESS-OF-CREATION.md`.
+- Created `SCRIPTURE-PLACEMENT/0005-FOLLOWING-THE-ISAIAH-AND-CREATION-WITNESS-BRANCHES.md`.
 - Updated `SCRIPTURE-PLACEMENT/INDEX.md`.
 - Prior studies remain intact.
 
