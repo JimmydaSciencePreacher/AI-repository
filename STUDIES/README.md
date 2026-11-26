@@ -64,6 +64,7 @@ This index follows the numbered study sequence already established in the reposi
 43. [Study 0043 — When the Word Meets Physical Creation: Natural-Law Investigation and the Sign at Cana](0043-WHEN-THE-WORD-MEETS-PHYSICAL-CREATION-NATURAL-LAW-AND-CANA.md)
 44. [Study 0044 — The Natural Man and Spiritual Discernment: 1 Corinthians 2:14](0044-THE-NATURAL-MAN-AND-SPIRITUAL-DISCERNMENT-1-CORINTHIANS-2-14.md)
 45. [Study 0045 — John 6:37–45: The Father's Drawing and the Reception of Christ](0045-JOHN-6-37-45-THE-FATHERS-DRAWING-AND-THE-RECEPTION-OF-CHRIST.md)
+46. [Study 0046 — John 1:12–13: Receiving Christ and Being Born of God](0046-JOHN-1-12-13-RECEIVING-CHRIST-AND-BEING-BORN-OF-GOD.md)
 
 ---
 
