@@ -987,9 +987,154 @@ Therefore, acting in the Name of Jesus is consistent with the vessel image when 
 7. How should 2 Timothy 2:20–21's emphasis on cleansing and readiness be integrated with the vessel image without making usefulness a basis of salvation?
 8. How does this vessel imagery further clarify the distinction between the authority of Christ and the witness who acts in His name?
 
+### 24.14 Christ in the believer and the believer in Christ — John 14:20
+
+Jesus says:
+
+> “At that day ye shall know that I am in my Father, and ye in me, and I in you.” (John 14:20, KJV)
+
+This verse gives three relational statements:
+1. The Son is in the Father.
+2. The disciples are in the Son.
+3. The Son is in the disciples.
+
+The context is Jesus' farewell discourse. He has promised the Comforter, the Holy Ghost (John 14:16–17), and says that He will not leave His disciples comfortless (v. 18). The language of indwelling and mutual abiding belongs to the promise of the Spirit and the disciples' continuing relationship with Jesus after His departure.
+
+The statements must not be flattened into sameness. The Son's relation to the Father is unique; the disciples' participation is through Christ and the gift of the Spirit. Believers do not become the Father or become Christ. The verse describes a real relationship of communion and dependence, not the erasure of personal distinction.
+
+### 24.15 Jesus' prayer for the unity of believers — John 17:20–23
+
+Jesus prays not only for the disciples present with Him but also for those who will believe on Him through their word (John 17:20).
+
+He asks:
+
+> “That they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us...” (John 17:21, KJV)
+
+He continues:
+
+> “I in them, and thou in me, that they may be made perfect in one...” (John 17:23, KJV)
+
+The prayer connects the unity of believers with the Father and Son, the mission of the Son, the glory given to Him, and the world's recognition that the Father sent Him and loves His people.
+
+The comparison “as” does not require that the unity of believers be identical in nature or degree to the unique relation of the Father and Son. The immediate prayer concerns the unity of Jesus' followers in God, grounded in the divine relationship and intended to bear witness to the world.
+
+**Finding:** The indwelling life is not directed toward making the vessel famous or independent. The unity and love of Christ's people are to bear witness that the Father sent the Son.
+
+### 24.16 Abiding is relational and bears fruit — John 15:1–17
+
+Jesus' vine and branches teaching gives another controlling image.
+
+> “I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.” (John 15:5, KJV)
+
+The branch receives life from the vine; it does not originate the life that enables it to bear fruit. Yet the branch truly bears fruit. Dependence does not mean inactivity.
+
+The passage connects abiding with:
+- Christ's words abiding in the disciples (vv. 7, 10);
+- asking in a relationship ordered by His words (v. 7);
+- keeping His commandments (vv. 10, 14);
+- love (vv. 9, 12–13);
+- fruit that remains (v. 16);
+- the Father's glory (v. 8).
+
+The vine/branch image is distinct from the vessel/treasure image, but both emphasize received life and dependent expression.
+
+**Finding:** The believer is not the source of spiritual life, but is called to abide, obey, love, and bear fruit. Grace does not eliminate the believer's real participation; it establishes its source and direction.
+
+### 24.17 The Spirit strengthens the inward person — Ephesians 3:14–21
+
+Paul prays that believers may be strengthened with might by God's Spirit in the inner man (v. 16), that Christ may dwell in their hearts by faith (v. 17), and that they may know the love of Christ (vv. 18–19).
+
+The prayer ends by attributing glory to God in the church by Christ Jesus (vv. 20–21).
+
+This passage joins inward strengthening, Christ dwelling in the heart by faith, comprehension of His love, fullness, and glory to God. It is not a claim that the human vessel becomes the divine Source. The prayer consistently directs attention to God's action and God's glory.
+
+### 24.18 “Christ in you, the hope of glory” — Colossians 1:24–29
+
+Paul identifies the mystery now made manifest among the saints:
+
+> “Which is Christ in you, the hope of glory:” (Colossians 1:27, KJV)
+
+The surrounding context is Paul's ministry of proclaiming Christ, warning and teaching every person, and labouring according to Christ's working in him (vv. 28–29).
+
+This is especially relevant to the question of acting in Jesus' name. Paul labours; he teaches; he warns. Yet he describes the energy for this work as Christ's working mightily in him.
+
+The text does not remove Paul's activity. It identifies the enabling power as Christ's.
+
+**Finding:** “Christ in you” is not a warrant for self-deification or independent authority. It is the hope of glory and the ground of faithful ministry, with the servant actively labouring through the strength Christ supplies.
+
+### 24.19 Received life, real fruit, and attributed glory
+
+The passages now examined give a connected, but carefully differentiated, picture:
+
+| Biblical image | Emphasis | What must not be confused |
+|---|---|---|
+| Potter and clay (Isaiah 64:8) | God as Maker; human dependence | The creature is not the Creator |
+| Treasure in earthen vessels (2 Corinthians 4:7) | God's power displayed through fragile ministers | The vessel is not the treasure or power |
+| Temple of the Holy Ghost (1 Corinthians 6:19) | The Spirit's indwelling and God's ownership | The body is not autonomous or disposable |
+| Christ in the believer (John 14:20) | Communion and mutual abiding | The believer does not become Christ |
+| Vine and branches (John 15:1–17) | Received life that bears fruit | The branch does not originate the life |
+| Christ in you (Colossians 1:27–29) | Hope of glory and Christ-enabled ministry | The servant's labour is real, but its enabling source is Christ |
+| One in Christ (John 17:20–23) | Unity and witness to the world | Unity does not erase personal distinction |
+
+A careful synthesis is possible:
+
+**The life is received; the fruit is borne; the glory is attributed to God.**
+
+This is a theological synthesis of these passages, not a claim that all their metaphors mean precisely the same thing.
+
+### 24.20 The vessel's activity is not the vessel's source
+
+A possible misunderstanding must be prevented. If the vessel is dependent upon God, does that mean the vessel does nothing?
+
+John 15:5 says the branch bears fruit by abiding in the vine. Philippians 2:12–13 tells believers to work out their salvation while affirming that God works in them both to will and to do. Colossians 1:29 describes Paul's labour according to Christ's working in him.
+
+The biblical pattern is neither autonomous self-origin nor passive nonparticipation.
+
+It is dependent, enabled action.
+
+This returns to the user's testimony about no longer needing free will as an independent guide. Scripture supports surrender of self-governing rebellion and the transformation of willing under God's direction. It does not require saying that the believer ceases to desire, decide, obey, or act.
+
+The distinction is between the source of life and the one who receives and expresses that life.
+
+### 24.21 The witness of the indwelling life
+
+The result of Christ's indwelling is not merely an inward claim. The passages identify observable fruits and purposes:
+- love for one another (John 13:34–35; 15:12);
+- obedience to Christ's commandments (John 14:21; 15:10);
+- fruit that glorifies the Father (John 15:8);
+- unity among believers that bears witness to the Son's mission (John 17:21–23);
+- good works prepared in Christ (Ephesians 2:10);
+- proclamation and service through Christ's working (Colossians 1:28–29).
+
+These fruits do not purchase the indwelling Spirit or earn salvation. They are the fitting expression of the life received.
+
+### 24.22 Triple Constraint assessment — indwelling and abiding
+
+| Claim | Biblical assessment | Scientific assessment | GUA-W assessment | Status |
+|---|---|---|---|---|
+| Jesus describes the believer in Him and He in the believer. | John 14:20. | Theological/relational claim, not a physical containment model. | Consistent with received, derivative life. | Direct textual finding |
+| Jesus prays for believers' unity in God. | John 17:20–23. | Theological claim; no scientific equivalence asserted. | Unity does not collapse Source and witness. | Direct textual finding |
+| Branches bear fruit by abiding in the vine. | John 15:1–17. | Botanical metaphor used by Jesus; theological meaning is not a plant physiology equation. | Dependent expression, not source origination. | Direct textual finding |
+| Christ dwells in believers by faith. | Ephesians 3:14–21; Colossians 1:27. | Theological claim. | Preserves divine initiative and derivative witness. | Direct textual finding |
+| The believer's activity disappears because Christ works within. | Not supported; the same passages describe obedience, fruit, labour, and service. | Not a scientific claim. | Would confuse dependence with inactivity. | Reject |
+| The believer becomes Christ or the Father by indwelling. | Not supported; personal distinctions remain in context. | Not a scientific claim. | Would collapse the Source/witness distinction. | Reject |
+| Received life produces fruit and directs glory to God. | John 15:8; Ephesians 2:10; Colossians 1:28–29. | Theological synthesis. | Consistent with Source → received life → derivative expression. | Supported synthesis |
+
+### 24.23 Unresolved questions added
+
+1. How does John 14:16–20 relate the promised Comforter to Christ's words “I in you”?
+2. How should the mutual indwelling language of John 14 and John 17 be interpreted while preserving the unique relation of the Father and Son?
+3. What does “one” mean in John 17:21–23 in relation to unity, love, mission, and witness?
+4. How does the vine and branches image in John 15 illuminate the relationship between divine enabling and human obedience?
+5. How do Ephesians 3:16–19 and Colossians 1:27–29 relate the indwelling of Christ to the Spirit's strengthening and ministry?
+6. How does the indwelling Spirit relate to the believer's body, the gathered church, and the church as God's habitation?
+7. How can the distinction between received life and active fruit-bearing clarify the user's statement about no longer needing an independent will as guide?
+8. How do these passages further define the difference between a witness who manifests Christ's work and a person who claims Christ's authority for self-exaltation?
+
 ## 23. Change record
 
 - 2026-11-26 — Initial study created after the user's question about acting in the Name of Jesus Christ and the testimony concerning God's will as guide.
 - 2026-11-26 — Compared the user's wording with prior repository work on the name, miracles, the Holy Ghost, and the will and doing.
 - 2026-11-26 — No GUA-W architecture change proposed.
 - 2026-11-26 — Added Section 24 on the Potter, earthen vessels, the indwelling Spirit, former sin and divine mercy, weakness, and the exclusion of human boasting. Cross-referenced Study 0034 and distinguished God's redemptive purpose from the claim that God authored sin.
+- 2026-11-26 — Extended Section 24 with John 14:20; John 17:20–23; John 15:1–17; Ephesians 3:14–21; and Colossians 1:24–29. Distinguished received life from active fruit-bearing and rejected both self-deification and passive inactivity.
