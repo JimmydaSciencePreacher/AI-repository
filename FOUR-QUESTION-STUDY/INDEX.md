@@ -30,12 +30,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0022](RECORD-0022-GENESIS-1-22.md) | Genesis 1:22 (KJV) | Records God's blessing of the creatures and instructions concerning fruitfulness, multiplication, and filling; distinguishes blessing and commanded continuation from creation and assessment. |
 | [0023](RECORD-0023-GENESIS-1-23.md) | Genesis 1:23 (KJV) | Records evening and morning as the fifth day; preserves the recurring day-designation formula and distinguishes the day marker from the command, creation, assessment, and blessing in verses 20–22. |
 | [0024](RECORD-0024-GENESIS-1-24.md) | Genesis 1:24 (KJV) | Records God's command for the earth to bring forth land creatures; distinguishes the Author, addressed domain, command, and “it was so,” while preserving the following making statement in verse 25. |
+| [0025](RECORD-0025-GENESIS-1-25.md) | Genesis 1:25 (KJV) | Records God making the beast, cattle, and creeping things after their kinds and assessing the result as good; distinguishes the command addressed to earth in verse 24 from God's making and assessment. |
 
 ## Current position
 
-The study has examined Genesis 1:1–24 (KJV).
+The study has examined Genesis 1:1–25 (KJV).
 
-The next question arising from Record 0023 is: **What does Genesis 1:25 establish when it says, “And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind,” and how does this execution statement relate to the command in Genesis 1:24?**
+The next question arising from Record 0024 is: **What does Genesis 1:26 establish when God says, “Let us make man in our image, after our likeness,” and how does this command differ from the preceding commands concerning vegetation and other living creatures?**
 
 ## Study controls
 
