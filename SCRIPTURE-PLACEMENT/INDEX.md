@@ -8,10 +8,11 @@ This index belongs only to the separate Scripture Placement study. See README.md
 |---|---|---|
 | 0001 | Genesis 1:1 (KJV) | The relevant GUA-W Genesis 1 sources identify John 1:1–3, Colossians 1:16–17, and Hebrews 1:1–3 as companion canonical witnesses. No order among them is specified. |
 | 0002 | John 1:1–3; Colossians 1:16–17; Hebrews 1:1–3 (KJV) | Examines the companion passages in their own wording and context, and records further relationships named in GUA-W without turning every cross-reference into a prescribed next step. |
+| 0003 | John 1:14 (KJV) | Examines the Word made flesh in the context of John 1:1–18, including the distinction between the Word and the witnesses who testify concerning Him. |
 
 ## Current position
 
-The study has begun with Genesis 1:1 and examined its three companion passages:
+The study has begun with Genesis 1:1, examined its three companion passages, and then examined John 1:14:
 - John 1:1–3
 - Colossians 1:16–17
 - Hebrews 1:1–3
@@ -29,4 +30,4 @@ The relevant GUA-W sources also connect the Word/Creation discussion with passag
 
 ## Continuation
 
-The next study question is to examine the source-supported branches recorded in Placement 0002 in their biblical contexts and determine which relationship is being pursued. Where GUA-W does not specify a reading order, the study will not claim that it does. No new Scripture is added merely because an AI-generated association seems plausible.
+Placement 0003 examined John 1:14 within John 1:1–18. The GUA-W material also identifies John 14:6 and 1 Corinthians 15:45–49 as distinct descriptions of Christ, and separately records the Adam–Christ and resurrection passages listed in Placement 0002. No mandatory order among those branches is established by the sources reviewed so far.
