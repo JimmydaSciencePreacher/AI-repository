@@ -15,12 +15,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0007](RECORD-0007-GENESIS-1-7.md) | Genesis 1:7 (KJV) | Records God making the firmament and dividing waters under it from waters above it; examines “and it was so” without inventing a physical mechanism or universal law. |
 | [0008](RECORD-0008-GENESIS-1-8.md) | Genesis 1:8 (KJV) | Records God naming the firmament Heaven and identifying evening and morning as the second day; distinguishes naming from making and division. |
 | [0009](RECORD-0009-GENESIS-1-9.md) | Genesis 1:9 (KJV) | Records God's command to gather the waters under the heaven unto one place and let dry land appear; distinguishes the command and its stated result from the naming and assessment in verse 10. |
+| [0010](RECORD-0010-GENESIS-1-10.md) | Genesis 1:10 (KJV) | Records God naming the dry land Earth and the gathering together of the waters Seas, then seeing that it was good; distinguishes naming and assessment from the command and result in verse 9. |
 
 ## Current position
 
-The study has examined Genesis 1:1–9 (KJV).
+The study has examined Genesis 1:1–10 (KJV).
 
-The next question arising from Record 0009 is: **What does Genesis 1:10 establish when God calls the dry land Earth, calls the gathering together of the waters Seas, and sees that it was good? How do naming and God's assessment relate to the command and result recorded in Genesis 1:9?**
+The next question arising from Record 0010 is: **What does Genesis 1:11 (KJV) establish when God commands the earth to bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth?**
 
 ## Study controls
 
