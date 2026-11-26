@@ -12,12 +12,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0004](RECORD-0004-GENESIS-1-4.md) | Genesis 1:4 (KJV) | Records God seeing the light, declaring it good, and dividing light from darkness; distinguishes these actions from the naming in verse 5. |
 | [0005](RECORD-0005-GENESIS-1-5.md) | Genesis 1:5 (KJV) | Records God's naming of the light Day and darkness Night, and the designation of evening and morning as the first day; distinguishes naming from division. |
 | [0006](RECORD-0006-GENESIS-1-6.md) | Genesis 1:6 (KJV) | Records God's command for a firmament in the midst of the waters and its assigned dividing function; distinguishes command from the making, division, and naming described in verses 7–8. |
+| [0007](RECORD-0007-GENESIS-1-7.md) | Genesis 1:7 (KJV) | Records God making the firmament and dividing waters under it from waters above it; examines “and it was so” without inventing a physical mechanism or universal law. |
 
 ## Current position
 
-The study has examined Genesis 1:1–6 (KJV).
+The study has examined Genesis 1:1–7 (KJV).
 
-The next question arising from Record 0006 is: **What does Genesis 1:7 record about God making the firmament and dividing the waters into those under and those above it, and how does this execution relate to the command in Genesis 1:6?**
+The next question arising from Record 0007 is: **What does Genesis 1:8 establish when God calls the firmament Heaven, and how does this naming relate to the making and division recorded in Genesis 1:7?**
 
 ## Study controls
 
