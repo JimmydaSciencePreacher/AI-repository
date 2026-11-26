@@ -61,6 +61,9 @@ This index follows the numbered study sequence already established in the reposi
 40. [Study 0040 — The Works of Jesus: Faith, Compassion, Authority, and the Will of the Father](0040-THE-WORKS-OF-JESUS-FAITH-COMPASSION-AUTHORITY-AND-THE-WILL-OF-THE-FATHER.md)
 41. [Study 0041 — Acting in the Name of Jesus Christ: The Will of God, Allegiance, and Delegated Authority](0041-ACTING-IN-THE-NAME-OF-JESUS-CHRIST-THE-WILL-OF-GOD-AND-DELEGATED-AUTHORITY.md)
 42. [Study 0042 — Genesis 1:3–5: The Spoken Word, Created Light, and the Measurable Physical Witness](0042-GENESIS-1-3-5-SPOKEN-WORD-CREATED-LIGHT-AND-PHYSICAL-WITNESS.md)
+43. [Study 0043 — When the Word Meets Physical Creation: Natural-Law Investigation and the Sign at Cana](0043-WHEN-THE-WORD-MEETS-PHYSICAL-CREATION-NATURAL-LAW-AND-CANA.md)
+44. [Study 0044 — The Natural Man and Spiritual Discernment: 1 Corinthians 2:14](0044-THE-NATURAL-MAN-AND-SPIRITUAL-DISCERNMENT-1-CORINTHIANS-2-14.md)
+45. [Study 0045 — John 6:37–45: The Father's Drawing and the Reception of Christ](0045-JOHN-6-37-45-THE-FATHERS-DRAWING-AND-THE-RECEPTION-OF-CHRIST.md)
 
 ---
 
