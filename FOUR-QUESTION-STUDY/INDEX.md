@@ -36,12 +36,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0028](RECORD-0028-GENESIS-1-28.md) | Genesis 1:28 (KJV) | Records God's blessing and instructions to humanity concerning fruitfulness, multiplication, filling the earth, subduing it, and dominion; distinguishes received appointment from originating authority. |
 | [0029](RECORD-0029-GENESIS-1-29.md) | Genesis 1:29 (KJV) | Records God giving humanity seed-bearing vegetation and fruit-bearing trees for food; distinguishes divine provision, created biological capacity, and theological interpretation of seed. |
 | [0030](RECORD-0030-GENESIS-1-30.md) | Genesis 1:30 (KJV) | Records God's provision of every green herb for the named animal groups; distinguishes this provision from humanity's provision in verse 29. |
+| [0031](RECORD-0031-GENESIS-1-31.md) | Genesis 1:31 (KJV) | Records God's collective assessment of everything He made as very good and the designation of the sixth day; distinguishes assessment from the completion and rest statements in Genesis 2:1–2. |
 
 ## Current position
 
-The study has examined Genesis 1:1–30 (KJV).
+The study has examined Genesis 1:1–31 (KJV).
 
-The next question arising from Record 0030 is: **What does Genesis 1:31 establish when God sees everything that He has made and declares it “very good”? What is included in “every thing that he had made,” how does this assessment relate to the preceding acts of Creation, and what does the closing evening-and-morning formula establish about the sixth day?**
+The next question arising from Record 0031 is: **What does Genesis 2:1 establish when the heavens and the earth and all the host of them are declared finished? What is included in “all the host of them,” and how does this statement relate to God's work and the seventh-day rest described in the following verses?**
 
 ## Study controls
 
