@@ -1,8 +1,15 @@
 # Studies
 
 ## Study 0001
-
 - [Reception, Information, Evidence, and Interpretation](0001-RECEPTION-INFORMATION-EVIDENCE-INTERPRETATION.md) — examines how a Witness receives and reports information, how information functions as evidence for a claim, and where interpretation and error enter.
+
+## Study 0002
+- [Detection, Registration, Recognition, and Comprehension](0002-DETECTION-REGISTRATION-RECOGNITION-COMPREHENSION.md) — distinguishes signal detection, record registration, source recognition, and comprehension without redefining GUA-W Reception or Witness-state.
+
+## Study 0003
+- [Attention, Expectation, Memory, and Mistaken Witness](0003-ATTENTION-EXPECTATION-MEMORY-MISTAKEN-WITNESS.md) — examines how attention, prior expectation, memory, and source monitoring can affect the accuracy and provenance of witness reports.
+
+---
 
 This folder contains individual research investigations.
 
