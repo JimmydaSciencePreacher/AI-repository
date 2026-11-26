@@ -37,12 +37,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0029](RECORD-0029-GENESIS-1-29.md) | Genesis 1:29 (KJV) | Records God giving humanity seed-bearing vegetation and fruit-bearing trees for food; distinguishes divine provision, created biological capacity, and theological interpretation of seed. |
 | [0030](RECORD-0030-GENESIS-1-30.md) | Genesis 1:30 (KJV) | Records God's provision of every green herb for the named animal groups; distinguishes this provision from humanity's provision in verse 29. |
 | [0031](RECORD-0031-GENESIS-1-31.md) | Genesis 1:31 (KJV) | Records God's collective assessment of everything He made as very good and the designation of the sixth day; distinguishes assessment from the completion and rest statements in Genesis 2:1–2. |
+| [0032](RECORD-0032-GENESIS-2-1.md) | Genesis 2:1 (KJV) | Records the heavens, earth, and all their host as finished; distinguishes this declaration from God's ending of His work, rest, and blessing of the seventh day in verses 2–3. |
 
 ## Current position
 
-The study has examined Genesis 1:1–31 (KJV).
+The study has examined Genesis 1:1–2:1 (KJV).
 
-The next question arising from Record 0031 is: **What does Genesis 2:1 establish when the heavens and the earth and all the host of them are declared finished? What is included in “all the host of them,” and how does this statement relate to God's work and the seventh-day rest described in the following verses?**
+The next question arising from Record 0032 is: **What does Genesis 2:2 establish when it says that on the seventh day God ended His work which He had made and rested from all His work? How does this relate to the declaration that the heavens, earth, and all their host were finished in verse 1?**
 
 ## Study controls
 
