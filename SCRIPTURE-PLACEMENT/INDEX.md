@@ -12,7 +12,7 @@ Begin with Genesis 1:1, consult the completed GUA-W, and follow the additional S
 2. [Study 0002 — Genesis 1:1: Following the Scriptures GUA-W Connects to the Beginning](0002-GENESIS-1-1-FOLLOWING-THE-SCRIPTURES-GUA-W-CONNECTS-TO-THE-BEGINNING.md)
 3. [Study 0003 — Following the Next Connections GUA-W Identifies](0003-FOLLOWING-THE-NEXT-CONNECTIONS-GUA-W-IDENTIFIES.md)
 4. [Study 0004 — Following the Purpose and Mercy Branches](0004-FOLLOWING-THE-PURPOSE-AND-MERCY-BRANCHES.md)
-5. [Study 0005 — Following Isaiah's Purpose and the Witness of Creation](0005-FOLLOWING-ISAIAHS-PURPOSE-AND-THE-WITNESS-OF-CREATION.md)
+5. [Study 0005 — Following Isaiah's Purpose and the Witness of Creation](0005-FOLLOWING-THE-ISAIAH-AND-CREATION-WITNESS-BRANCHES.md)
 
 ## Current map-directed branches
 
