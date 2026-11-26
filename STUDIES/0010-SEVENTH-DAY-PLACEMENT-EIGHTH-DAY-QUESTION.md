@@ -147,9 +147,9 @@ The KJV again says:
 
 **“And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.”**
 
-The Hebrew verb translated “put” here is וַיַּנִּחֵהוּ (*vayyanniḥēhû*), a Hiphil form of נוּחַ (*nuach*, H5117), with a third-person masculine singular object suffix: “him.”
+The Hebrew form translated “put” here is וַיַּנִּחֵהוּ (*vayyanniḥēhû*), a Hiphil wayyiqtol form with a third-person masculine singular object suffix: “him.” Lexical indexing is not entirely uniform: many interlinear resources tag the form under יָנַח (*yānaḥ*, Strong's H3240), while the Strong's entry itself notes that Hiphil forms with the dagesh may be referred to נוּחַ (*nûaḥ*, H5117). The form's causative placement/settling sense is therefore better described with this lexical note than by pretending every index uses one uncomplicated root label.
 
-The lexical range of *nuach* includes rest, settle, cause to rest, leave, or place, with the precise sense determined by construction and context.
+The relevant lexical range includes deposit, set down, place, allow to remain, and—under the relationship to *nûaḥ* noted by lexicographers—cause to rest or settle. The precise contextual sense must be determined from the construction and clause, not from a Strong's number alone.
 
 The Hiphil form in Genesis 2:15 can be rendered “caused him to rest,” “settled him,” or idiomatically “placed him.” The KJV's “put” is a legitimate contextual rendering, but the Hebrew root makes a possible settling/rest nuance worth noticing.
 
@@ -157,12 +157,12 @@ The Hiphil form in Genesis 2:15 can be rendered “caused him to rest,” “set
 
 **Established observation**
 
-Genesis 2:8 and Genesis 2:15 do not use the same Hebrew verb for the English word “put”:
+Genesis 2:8 and Genesis 2:15 use different Hebrew forms for the English word “put”:
 
-- Genesis 2:8 — *sim*: set/place.
-- Genesis 2:15 — *nuach* (Hiphil): cause to rest/settle/place.
+- Genesis 2:8 — וַיָּשֶׂם (*vayyāśem*), from שׂוּם / שִׂים (*sum/sim*, H7760): set/place.
+- Genesis 2:15 — וַיַּנִּחֵהוּ (*vayyanniḥēhû*), a Hiphil form associated in lexical indexing with H3240 and, in the Hiphil classification noted by Strong's, with H5117: set down/place/settle.
 
-This distinction is obscured in English when both are translated “put.”
+This distinction is obscured in English when both are translated “put.” The lexical classification should be reported with the indexing nuance rather than treated as a simplistic contrast between unrelated roots.
 
 **Possible implication**
 
@@ -351,7 +351,7 @@ The responsible Witness can identify a promising connection, record why it matte
 | Genesis 2:1 says the heavens, earth, and all their host were finished. | Explicit. | Not a scientific claim. | Preserves the text's completion statement. | Admissible |
 | Genesis 2:2–3 describes God's cessation, blessing, and sanctification of the seventh day. | Explicit. | Not a scientific claim. | Does not confuse divine rest with fatigue. | Admissible |
 | Genesis 2:8 and 2:15 use different Hebrew verbs translated “put.” | Supported by Hebrew forms. | Not a scientific claim. | Careful lexical distinction. | Admissible |
-| Genesis 2:15's verb derives from *nuach* and can express settling/causing rest. | Lexical range supports this possibility; contextual sense requires care. | Not a scientific claim. | Does not force a new state. | Admissible as qualified lexical observation |
+| Genesis 2:15's Hiphil placement form is indexed as H3240 and linked in Strong's note to H5117 for the relevant Hiphil forms; it can express setting down, placing, or settling. | Lexical range supports this possibility; contextual sense requires care. | Not a scientific claim. | Does not force a new state. | Admissible as qualified lexical observation |
 | Genesis 2:15 proves Adam entered the Garden on the eighth day. | No such day number is stated. | Not a scientific claim. | Overstates the map's evidence. | Reject |
 | Genesis 2:4 labels the next section as the eighth day. | It is a *toledot* heading, not an eighth-day label. | Not a scientific claim. | Misclassifies narrative transition. | Reject |
 | Leviticus 9:1 describes an eighth day after seven days of inauguration. | Explicit. | Not a scientific claim. | A canonical comparison is permissible. | Admissible |
@@ -371,7 +371,7 @@ Scientific coherence does not mean science confirms Scripture. Science does not 
 3. The Hebrew roots *kalah* and *shavat* express distinct but related ideas: completion and cessation.
 4. Genesis 2:4 introduces a *toledot* narrative section; it does not call the next events an eighth day.
 5. Genesis 2:8 uses a form of *sim* for God's placing of the man.
-6. Genesis 2:15 uses a Hiphil form of *nuach*, which can carry the sense of settling or causing to rest; KJV renders it “put.”
+6. Genesis 2:15 uses וַיַּנִּחֵהוּ, a Hiphil placement form indexed as H3240 and linked by Strong's lexical note to H5117 for the relevant Hiphil forms; its range supports set down/place/settle, while the precise nuance remains contextual.
 7. This lexical distinction is worth preserving, but it does not establish that Adam entered the Garden on the seventh or eighth day.
 8. Genesis distinguishes God's creative work from the man's assigned Garden work.
 9. Later explicit eighth-day passages occur in priestly inauguration, feast, temple dedication, and covenantal settings.
@@ -403,7 +403,8 @@ Genesis 2:1–17; Genesis 8:4; Genesis 19:16; Exodus 20:8–11; Exodus 40:1–38
 - Brown–Driver–Briggs Hebrew and English Lexicon, כָּלָה (*kalah*, H3615): https://biblehub.com/hebrew/3615.htm
 - Brown–Driver–Briggs Hebrew and English Lexicon, שָׁבַת (*shavat*, H7673): https://biblehub.com/hebrew/7673.htm
 - Brown–Driver–Briggs Hebrew and English Lexicon, שׂוּם / שִׂים (*sum/sim*, H7760): https://biblehub.com/hebrew/7760.htm
-- Brown–Driver–Briggs Hebrew and English Lexicon, נוּחַ (*nuach*, H5117): https://biblehub.com/hebrew/5117.htm
+- Brown–Driver–Briggs / Strong's lexical entries for יָנַח (*yānaḥ*, H3240) and נוּחַ (*nûaḥ*, H5117): https://biblehub.com/hebrew/3240.htm and https://biblehub.com/hebrew/5117.htm
+- Genesis 2:15 Hebrew morphology and the H3240/H5117 indexing note: https://openbible.com/text/genesis/2-15.htm and https://biblehub.com/strongs/hebrew/3240.htm
 - Genesis 2 Hebrew text and translations: https://www.sefaria.org/Genesis.2?lang2=en
 - Genesis 2:1–3 translation and commentary comparison: https://www.sefaria.org/Genesis.2.1-3/
 
@@ -417,4 +418,4 @@ Lexicons establish lexical ranges and attest usage; commentaries and scholarly s
 
 ## 17. Change record
 
-- **2026-11-25:** Initial study created as a continuation of Studies 0001–0009. Examined Genesis 2:1–3 completion and cessation; the *toledot* transition in Genesis 2:4; the distinct placement verbs in Genesis 2:8 and 2:15; the possible settling nuance of *nuach*; and explicit later eighth-day passages. Corrected the framing so “Eighth Day” is treated as a research question, not a day number stated in Genesis. No GUA-W architecture changes proposed.
+- **2026-11-25:** Initial study created as a continuation of Studies 0001–0009. Examined Genesis 2:1–3 completion and cessation; the *toledot* transition in Genesis 2:4; the distinct placement forms in Genesis 2:8 and 2:15; the H3240/H5117 lexical-indexing nuance for Genesis 2:15; and explicit later eighth-day passages. Corrected the framing so “Eighth Day” is treated as a research question, not a day number stated in Genesis. No GUA-W architecture changes proposed.
