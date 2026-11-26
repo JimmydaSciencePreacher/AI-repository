@@ -12,6 +12,7 @@ Begin with Genesis 1:1, consult the completed GUA-W, and follow the additional S
 2. [Study 0002 — Genesis 1:1: Following the Scriptures GUA-W Connects to the Beginning](0002-GENESIS-1-1-FOLLOWING-THE-SCRIPTURES-GUA-W-CONNECTS-TO-THE-BEGINNING.md)
 3. [Study 0003 — Following the Next Connections GUA-W Identifies](0003-FOLLOWING-THE-NEXT-CONNECTIONS-GUA-W-IDENTIFIES.md)
 4. [Study 0004 — Following the Purpose and Mercy Branches](0004-FOLLOWING-THE-PURPOSE-AND-MERCY-BRANCHES.md)
+5. [Study 0005 — Following Isaiah's Purpose and the Witness of Creation](0005-FOLLOWING-ISAIAHS-PURPOSE-AND-THE-WITNESS-OF-CREATION.md)
 
 ## Current map-directed branches
 
@@ -24,7 +25,9 @@ Begin with Genesis 1:1, consult the completed GUA-W, and follow the additional S
 - **Book of Life:** Revelation 13:8; 17:8; 21:27; Luke 10:20; Philippians 4:3; Hebrews 12:23.
 - **Saving work / new birth / proclamation:** John 3:16–18; Romans 5:6–11; Romans 8:31–34; Ephesians 1:7; Colossians 1:13–22; Ephesians 2:1–10; Titus 3:3–8; James 1:16–18; 1 Peter 1:3, 23; John 1:12–13; John 3:3–8; John 6:35–45, 63–65; Acts 11:18; 13:44–48; 16:14; Romans 10:13–17; Philippians 1:27–30; 2:12–13; 2 Thessalonians 2:13–14; 1 John 5:1; Deuteronomy 30; Joshua 24.
 - **Completion / consummation:** Genesis 2:1–3; John 17:4–5; John 19:28–30; 1 Corinthians 15:3–23, 45–49; Romans 4:25; Romans 8:18–23, 34; Luke 24:50–53; Acts 1:1–11; Acts 2:32–36; Ephesians 1:19–23; Hebrews 1:3, 10–12; Hebrews 7:25; Hebrews 11:3; Hebrews 12:26; Revelation 16:17; 21:1–6; 22:1–5.
-- **Open source-tracing anchors:** Isaiah 46:9–10 and Revelation 4:11. Further explicit links have not yet been identified in the source sections examined.
+- **Isaiah 46 branch:** Isaiah 46:9–11; Isaiah 48:12–13, 17.
+- **Creation's witness:** Psalm 19:1–4 is explicitly paired with Revelation 4:11 in GUA-W's governing Scriptural witnesses.
+- **Open source-tracing anchor:** Revelation 4:11 remains connected with the creation/purpose witness group; further explicit downstream references have not yet been established.
 
 ## Progress
 
