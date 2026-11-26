@@ -42,6 +42,8 @@ This index follows the numbered study sequence already established in the reposi
 26. [Study 0026 — Romans 5:12: Adam, Death, and “For That All Have Sinned”](0026-ROMANS-5-12-ADAM-DEATH-AND-ALL-HAVE-SINNED.md)
 27. [Study 0027 — Romans 5:19: “Made Sinners” and “Made Righteous”](0027-ROMANS-5-19-MADE-SINNERS-MADE-RIGHTEOUS.md)
 
+28. [Study 0028 — Romans 5:19: The Future of Being Made Righteous](0028-ROMANS-5-19-THE-FUTURE-OF-BEING-MADE-RIGHTEOUS.md)
+
 ---
 
 ## Repository method
