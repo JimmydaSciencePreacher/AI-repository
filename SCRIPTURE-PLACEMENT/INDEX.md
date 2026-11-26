@@ -1,56 +1,32 @@
-# Scripture Placement Study — Index and Position Register
+# Scripture Placement Study — Index
 
-This is a new, reset study series governed by [README.md](README.md). It is separate from all other repository studies.
+This index belongs only to the separate Scripture Placement study. See README.md for its scope and method.
 
-## Governing sequence
+## Study sequence
 
-**The study begins with a biblical text, then documents the Scripture relationships explicitly recorded in the current GUA-W sources. Each entry identifies its source evidence, contextual limits, and unresolved questions.**
+| Record | Scripture examined | Study result |
+|---|---|---|
+| 0001 | Genesis 1:1 (KJV) | The relevant GUA-W Genesis 1 sources identify John 1:1–3, Colossians 1:16–17, and Hebrews 1:1–3 as companion canonical witnesses. No order among them is specified. |
+| 0002 | John 1:1–3; Colossians 1:16–17; Hebrews 1:1–3 (KJV) | Examines the companion passages in their own wording and context, and records further relationships named in GUA-W without turning every cross-reference into a prescribed next step. |
 
-Before every next placement, AI must freshly review the whole current GUA-W repository state as specified in README.md. It must then answer the four mandatory questions and record a Fresh GUA-W Review Receipt. No placement may proceed from remembered context, previous Scripture Placement entries, topical association, or AI-generated connections.
+## Current position
 
-## Four questions — required every cycle
+The study has begun with Genesis 1:1 and examined its three companion passages:
+- John 1:1–3
+- Colossians 1:16–17
+- Hebrews 1:1–3
 
-1. What is the starting/current Scripture?
-2. What next Scripture does the current completed GUA-W explicitly identify?
-3. Where exactly does GUA-W place that Scripture?
-4. Where are we now in GUA-W, and what exact position/question resumes the next cycle?
+The relevant GUA-W sources also connect the Word/Creation discussion with passages concerning the Word made flesh, Christ as the Way, Truth, and Life, the last Adam, and resurrection. Those references are recorded in Placement 0002 as source-supported relationships. The sources do not establish a single mandatory order among them.
 
-If the current GUA-W does not explicitly identify a next Scripture, stop and record that fact. Do not infer one.
+## Preserved distinctions
 
-## Numbered placement records
+- Genesis 1:1 directly states that God created the heaven and the earth.
+- John 1:1–3 identifies the Word in the beginning and says all things were made by Him.
+- Colossians 1:16–17 identifies Christ in relation to the creation and continuance of all things.
+- Hebrews 1:1–3 identifies the Son in relation to God's speech, the making of the worlds, and the upholding of all things.
+- These passages illuminate one another within the GUA-W synthesis, but they are not interchangeable texts.
+- A thematic or canonical cross-reference is not, by itself, a prescribed sequence.
 
-The first two placement records are complete. Record 0001 begins with Genesis 1:1 (KJV) and documents its companion passages. Record 0002 examines that companion group and indexes further Scripture relationships explicitly cited in GUA-W.
+## Continuation
 
-| Study number | Starting/current Scripture | GUA-W location | Status |
-|---|---|---|---|
-| 0001 | Genesis 1:1 (KJV) | Completed architecture §2; Genesis 1 authorial architecture §§1–4; Book Chapter 4, Genesis 1:1 | Recorded |
-| 0002 | John 1:1–3; Colossians 1:16–17; Hebrews 1:1–3 | Completed architecture §§1–2, 7; Book Chapter 1; Book Chapter 12; Creation–Redemption–Consummation synthesis §6 | Recorded; further related references indexed |
-
-## Current position register
-
-- **Study state:** Active; reset protocol in force.
-- **Starting Scripture:** Genesis 1:1 (KJV), recorded in 0001.
-- **Current GUA-W repository version reviewed:** `main`, commit `0b536faf3a93a4594907ea41b4953dbff8d18a68`, tree `97a915a04450f6637fc0de1d38220de326a7a16a`.
-- **Current GUA-W location:** Completed architecture §2; Genesis 1 authorial architecture §§1–4; Book Chapter 4, Genesis 1:1.
-- **Pieces examined/recorded in this reset series:** Genesis 1:1; John 1:1–3; Colossians 1:16–17; Hebrews 1:1–3.
-- **Further related references indexed in 0002:** John 1:14; John 14:6; Romans 5:12–21; 1 Corinthians 15:20; 1 Corinthians 15:45–49; Colossians 1:18; Revelation 1:5.
-- **Current study position:** The Word/Son and Creation passages, with related incarnation, Adam/Christ, and resurrection references.
-- **Open questions:** The source material does not prescribe a reading order among the further references; their individual contexts remain to be examined.
-
-## Historical reset
-
-The prior session handoffs named `2026-11-26-SCRIPTURE-PLACEMENT-OPENING.md` and `0002.md` through `0005.md` remain in `HANDOFFS/` as historical provenance. They are not numbered placement records in this reset series, and their proposed passage chains and next actions are superseded by this protocol. They must not be used to select the next Scripture. See [Repository Reconciliation — 2026-11-26](REPOSITORY-RECONCILIATION-2026-11-26.md) for the verified distinction.
-
-The previous Scripture Placement records 0001–0006 and the former index contents have been removed from this study series because they did not follow the required method. Their former conclusions and passage lists are not placement authority and must not be used to choose the next Scripture. The reset does not alter any other study or any file in the GUA-W repository.
-
-## Required handoff format
-
-Every completed record must end with:
-- Last Scripture placed and its study number.
-- Exact GUA-W repository commit/tree reviewed.
-- Exact GUA-W file, section, node, and branch.
-- Full list of pieces placed so far with their preserved cross-placements.
-- Any unresolved item.
-- Exact current position for the next cycle.
-
-**Important:** The handoff preserves location; it never replaces the mandatory fresh full-current GUA-W review at the beginning of the next cycle.
+The next study question is to examine the source-supported branches recorded in Placement 0002 in their biblical contexts and determine which relationship is being pursued. Where GUA-W does not specify a reading order, the study will not claim that it does. No new Scripture is added merely because an AI-generated association seems plausible.
