@@ -1,114 +1,56 @@
-# Scripture Placement Study — Governing Protocol
+# Scripture Placement Study
 
-**Separate study series.** This study is independent of the repository's existing Studies 0001–0050. It has its own records, numbering, index, and position register.
+## Purpose
 
-## Governing instruction
+This separate study begins with **Genesis 1:1 (KJV)**. Scripture passages are the given pieces. The study records their wording, context, and relationships documented in GUA-W.
 
-> **Start with a Scripture. Ask GUA-W what Scripture must be added next. GUA-W determines placement. AI numbers, records, and preserves the pieces.**
+The repository is where the study is stored; it is not the study itself. Before continuing, review the **entire current Scripture Placement study**: its index, every placement already made, its findings, source references, qualifications, and unresolved questions. This does not mean rereading every file in the AI repository or every file in the GUA-W repository.
 
-Scripture is given; AI did not author it and does not assume authority to determine its meaning. GUA-W is the completed map being consulted. AI's role is to inspect, ask the prescribed questions against the map, accurately retrieve the Scripture GUA-W identifies, number and document it, preserve every supported placement, and maintain an exact record of position.
+## How a placement is developed
 
-AI must never choose the next Scripture by topical association, similar wording, its own theological reasoning, a remembered discussion, or a trail of references in an earlier Scripture Placement record. The next Scripture must be identified by consulting the current completed GUA-W itself.
+1. Review the whole current Scripture Placement study before extending it.
+2. Identify the Scripture under examination and read its biblical context.
+3. Consult relevant current GUA-W material for relationships it actually records.
+4. Record exact passage references and source locations.
+5. Distinguish biblical wording, what GUA-W explicitly records, and observations made during the study.
+6. Preserve distinct passages and contexts. Do not impose an order where the source does not specify one.
+7. Apply the Triple Constraint when evaluating a proposed GUA-W claim: Biblical compliance, Scientific coherence, and consistency with GUA-W. Leave unsettled questions unresolved.
 
-## Mandatory four questions
+Numbering is administrative. It does not change Scripture or create authority over its meaning.
 
-For every placement cycle, AI must explicitly answer and record all four questions:
+## Review scope and source use
 
-1. **What Scripture is the starting/current Scripture?** Record its exact KJV reference and text, retaining the necessary immediate context.
-2. **What does the current completed GUA-W identify as the next Scripture that must be added?** Retrieve the answer from the GUA-W source itself. Do not generate or suggest a candidate.
-3. **Where does GUA-W place that Scripture?** Record the exact GUA-W repository file, section, node/position, and source wording that establishes the placement. Preserve all placements GUA-W identifies.
-4. **Where are we now, and what is the next instruction?** Record the exact current position in GUA-W, the prior and newly placed Scripture numbers, the branch/path, and the precise point from which the next cycle must begin. If GUA-W does not explicitly identify a next Scripture, stop and record that no next placement has yet been identified. Do not fill the gap.
+A fresh continuation review covers the complete current contents of:
+- SCRIPTURE-PLACEMENT/INDEX.md;
+- every numbered placement record already in this series;
+- any study-specific handoff or correction that changes the current study position.
 
-These four questions are mandatory. They are not invitations for AI to infer an answer where GUA-W is silent.
+GUA-W source files are consulted according to the Scripture and relationship being examined. There is no requirement to review unrelated GUA-W investigations, unrelated AI studies, or the entire GitHub repository.
 
-## Mandatory full-current review before EVERY next placement
+A source reference is not automatically a command to make that passage the next placement. Record whether GUA-W presents a passage as a companion, cross-reference, thematic connection, or point in a defined sequence. When no order is specified, say so rather than inventing one.
 
-**Before AI begins each new placement, it must review the whole current GUA-W repository state—not merely the last Scripture Placement entry, a cached summary, a remembered passage, or one convenient source file.**
+## Record format
 
-The review is a fresh review each cycle. It must include:
+Each placement states:
+- record number and Scripture(s) examined;
+- KJV text or a clearly identified excerpt;
+- immediate biblical context;
+- relationships documented in GUA-W, with exact file and section;
+- what is directly stated versus synthesis or observation;
+- Triple Constraint assessment where applicable;
+- limits and unresolved questions;
+- current study position and source-supported continuation possibilities.
 
-- Re-read the current completed architecture and governing principles.
-- Re-read the current GUA-W repository README, repository map/reading order, and current governance/protocol documents.
-- Inspect the current repository file tree so the review is against the actual current state.
-- Review all current GUA-W source records that define, qualify, correct, or cross-reference the current position and any Scripture proposed by GUA-W.
-- Check relevant correction, rejection, unresolved, and audit records so no correction or qualification is missed.
-- Verify that file paths, section headings, and source wording still exist in the current repository version.
-- Compare the fresh review with the prior position register and handoff. Do not rely on the handoff as a substitute for reviewing GUA-W.
+Do not add procedural warning banners, artificial pass/fail checkpoints, or claims of a repository-wide audit. State the actual scope plainly.
 
-At the beginning of every placement record, include a **Fresh GUA-W Review Receipt**:
-- Review date/time (UTC).
-- Current GUA-W repository and branch.
-- Current commit/tree identifier reviewed.
-- Files reviewed, grouped by repository function (architecture/governance, maps/indexes, relevant scriptural records, corrections/audits/unresolved records).
-- The exact files and sections that support the placement.
-- Any unavailable, truncated, or unreviewed material.
+## Starting position
 
-If the repository is too large to inspect completely in one pass, AI must not claim that a full review occurred. It must identify the limitation, continue the review in bounded batches, and refrain from making the next placement until the review is complete enough to establish the current position and source. The user may be asked to help resolve access or scope limitations; AI must not silently downgrade this requirement.
-
-## Position tracking — the study's navigation record
-
-The study must always know exactly where it is inside the current completed GUA-W. Maintain one authoritative position register, updated after every placement:
-
-| Position field | Required value |
-|---|---|
-| Study sequence number | Sequential AI record number for this study |
-| Current Scripture | Exact KJV book/chapter/verse |
-| Current GUA-W repository commit/tree | Exact version reviewed |
-| GUA-W location | File path, section, node/position |
-| Branch/path | The map-defined path from the starting Scripture to this position |
-| Previously placed pieces | Study numbers and Scripture references, without replacing earlier placements |
-| Newly identified piece | Only the Scripture GUA-W explicitly identifies |
-| Placement evidence | Exact GUA-W file, section, and wording |
-| Cross-placements | Every additional placement explicitly supported by GUA-W |
-| Next position | Exact map position from which the next four-question cycle resumes |
-| Open/unresolved items | Any missing, conflicting, or not-yet-identified information |
-
-The register is a navigation aid, not an authority. It may not override the current GUA-W source. If the fresh review reveals a change, correction, or conflict, preserve the earlier record, document the difference, and ask for direction when needed; do not silently rewrite the map or move a Scripture.
-
-## Numbering and preservation
-
-- Number study entries sequentially: 0001, 0002, 0003, and so on.
-- Preserve each Scripture's canonical KJV identifier. The study number is an administrative record number, not a new Bible verse number.
-- Record each piece exactly once as a newly added piece, but maintain links to every additional GUA-W placement it has.
-- A cross-placement does not remove or relocate an earlier placement.
-- Keep direct source statements distinct from observations, interpretations, and unresolved questions.
-- Do not mark a placement complete until its GUA-W evidence, context, and position receipt are recorded.
-- Never invent a next Scripture. If no explicit next Scripture is found, stop.
-
-## Prohibited AI behavior
-
-AI must not:
-- Follow references from previous study entries as a substitute for asking the current GUA-W.
-- Choose passages by theme, keyword, similarity, doctrine, or personal inference.
-- Expand a Scripture into a chain of related passages unless GUA-W itself identifies those passages as the next additions.
-- Use an earlier AI-generated list as authority for the next placement.
-- Add, revise, complete, reinterpret, or redesign GUA-W.
-- Treat AI-generated theological commentary as GUA-W placement evidence.
-- Claim to have reviewed the whole current repository when it has not.
-
-The sentence below describes the old, prohibited approach and must not be used as the method:
-
-> "I began following Scripture references through the repository's existing discussions and producing additional related passages."
-
-That is exactly what this protocol forbids.
+The study begins at **Genesis 1:1 (KJV)**. Record 0001 identifies the companion passages named in the relevant GUA-W Genesis 1 sources: John 1:1–3, Colossians 1:16–17, and Hebrews 1:1–3. The sources do not prescribe an order among those passages.
 
 ## Triple Constraint
 
-Every proposed placement remains subject to the project's Triple Constraint:
 1. Biblical compliance.
-2. Scientific coherence, where scientific claims are made.
-3. Consistency with the completed GUA-W.
+2. Scientific coherence.
+3. Consistency with GUA-W.
 
-AI records the evidence and flags unresolved questions. It does not claim that science proves Scripture or that its own analysis validates GUA-W.
-
-## Starting point and reset
-
-The earlier reset removed the old numbered placement-study records from this directory. Historical session handoffs with Scripture Placement names remain in `HANDOFFS/` as provenance; they were not deleted. Their passage chains and next-action instructions are superseded and are not placement authority under this reset protocol. See [Repository Reconciliation — 2026-11-26](REPOSITORY-RECONCILIATION-2026-11-26.md) and [Handoffs README](../HANDOFFS/README.md). The historical opening handoff's canonical-order direction and the later handoffs' reference-following directions must not be resumed.
-
-The new study starts with **Genesis 1:1 (KJV)** as the first Scripture. All previous Scripture Placement records 0001–0006 have been removed from this series and are not to be used as placement authority. The series begins again under this protocol.
-
-No next Scripture may be selected until AI has completed the fresh full-current GUA-W review and answered the four questions for the current position.
-
-## Continuity rule
-
-At the end of every placement, write a handoff containing the exact current Scripture, exact GUA-W location, reviewed repository version, all pieces placed so far, and the exact next question/position. At the beginning of the next cycle, perform the mandatory fresh whole-current review again before asking GUA-W for the next Scripture.
+Scientific coherence is not scientific confirmation of Scripture. Do not claim empirical confirmation where none is offered. Preserve unresolved questions rather than filling gaps with speculation.
