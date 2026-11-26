@@ -66,6 +66,7 @@ This index follows the numbered study sequence already established in the reposi
 45. [Study 0045 — John 6:37–45: The Father's Drawing and the Reception of Christ](0045-JOHN-6-37-45-THE-FATHERS-DRAWING-AND-THE-RECEPTION-OF-CHRIST.md)
 46. [Study 0046 — John 1:12–13: Receiving Christ and Being Born of God](0046-JOHN-1-12-13-RECEIVING-CHRIST-AND-BEING-BORN-OF-GOD.md)
 47. [Study 0047 — John 3:3–8: Born from Above and Born of the Spirit](0047-JOHN-3-3-8-BORN-AGAIN-AND-BORN-OF-THE-SPIRIT.md)
+48. [Study 0048 — Hebrews 1:1–3: God Speaks Through the Son, Creation, and the Sustaining Word](0048-HEBREWS-1-1-3-GOD-SPEAKS-THROUGH-THE-SON-CREATION-AND-SUSTAINING.md)
 
 ---
 
