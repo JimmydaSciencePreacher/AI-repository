@@ -2,7 +2,7 @@
 
 **Project:** Unified Genesis 1–2 Foundations and the Recognition of Unified Sciences  
 **Repository:** [AI-repository](https://github.com/JimmydaSciencePreacher/AI-repository)  
-**Status:** Separate, active study; foundational charter  
+**Status:** Separate, active study; foundational charter, AI has Read/Write permission  
 **Established:** 2026-11-26
 
 ---
