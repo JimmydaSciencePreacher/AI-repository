@@ -48,12 +48,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0040](RECORD-0040-GENESIS-2-9.md) | Genesis 2:9 (KJV) | Records the LORD God causing trees to grow out of the ground, their qualities, and the named tree of life and tree of knowledge of good and evil; distinguishes description from permission and preserves unresolved roles. |
 | [0041](RECORD-0041-GENESIS-2-10.md) | Genesis 2:10 (KJV) | Records a river going out of Eden to water the garden and then being parted into four heads; preserves the stated sequence and leaves precise geography and hydrological reconstruction unresolved. |
 | [0042](RECORD-0042-GENESIS-2-11-12.md) | Genesis 2:11–12 (KJV) | Names Pison as the first head and describes its relation to Havilah and the land's gold, bdellium, and onyx; distinguishes textual description from unresolved modern geographical and material identifications. |
+| [0043](RECORD-0043-GENESIS-2-13.md) | Genesis 2:13 (KJV) | Names Gihon as the second river and describes it as encompassing Cush (KJV: Ethiopia); examines the repeated “compasseth” wording while leaving modern geography and river identity unresolved. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:12 (KJV).
+The study has examined Genesis 1:1–2:13 (KJV).
 
-The next question arising from Record 0042 is: **What does Genesis 2:13 identify about the second river, Gihon? What does the repeated word “compasseth” establish in relation to the whole land of Ethiopia (Hebrew Kûš)? How should the KJV rendering be examined in its biblical and historical context, and what remains unresolved about the river's modern identity and the land's location?**
+The next question arising from Record 0043 is: **What does Genesis 2:14 identify about the third river, Hiddekel? What does “goeth toward the east of Assyria” establish about its direction and geographical relationship? What does the verse identify about the fourth river, Euphrates? What is stated, and what remains unresolved about their modern courses and their connection to the four heads introduced in Genesis 2:10?**
 
 ## Study controls
 
