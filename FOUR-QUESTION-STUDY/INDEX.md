@@ -56,12 +56,13 @@ This index belongs only to the separate Four-Question Study. Its method and boun
 | [0048](RECORD-0048-GENESIS-2-18.md) | Genesis 2:18 (KJV) | Records God's declaration that the man's being alone is not good and His purpose to make an *ʿēzer kĕnegdô*—a help corresponding to him; examines the Hebrew expression and preserves the distinction between announced purpose and the following narrative realization. |
 | [0049](RECORD-0049-GENESIS-2-19.md) | Genesis 2:19 (KJV) | Records the LORD God forming beasts and fowl from the ground, bringing them to Adam, and Adam naming them; distinguishes God's forming and bringing from Adam's naming, and does not infer divine ignorance from “to see what he would call them.” |
 | [0050](RECORD-0050-GENESIS-2-20.md) | Genesis 2:20 (KJV) | Records Adam naming the cattle, fowl, and beasts, followed by the result that no *ʿēzer kĕnegdô* was found for him; examines the contrast and Hebrew *māṣāʾ* form without inventing a search procedure or assigning an unstated agent. |
+| [0051](RECORD-0051-GENESIS-2-21.md) | Genesis 2:21 (KJV) | Records the LORD God causing a deep sleep to fall upon Adam, taking one of his *ṣēlāʿ* (KJV: “rib”), and closing the flesh; distinguishes God's actions from Adam's experience and preserves the lexical and anatomical limits of the text. |
 
 ## Current position
 
-The study has examined Genesis 1:1–2:20 (KJV).
+The study has examined Genesis 1:1–2:21 (KJV).
 
-The next question arising from Record 0050 is: **Who causes the deep sleep? What does the Hebrew expression translated “deep sleep” mean? What sequence of actions does the verse explicitly record? Who is the subject of “he took” and “closed up”? What does the KJV “rib” translate, and what range of meaning does the Hebrew *ṣēlāʿ* carry? What does the verse say about the man's flesh, and what details of the woman's making are deferred to verse 22?**
+The next question arising from Record 0051 is: **Who makes the woman? What is the relationship between the item taken in verse 21 and the woman made in verse 22? What does the Hebrew verb translated “made” mean? What does “from man” state? What is the significance and grammatical role of “brought her unto the man”? Does the verse identify the woman as the corresponding help announced in verse 18, and what does the immediate context establish? What must be reserved for Adam's speech in verse 23?**
 
 ## Study controls
 
