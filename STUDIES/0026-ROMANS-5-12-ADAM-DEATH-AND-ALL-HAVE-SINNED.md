@@ -100,6 +100,12 @@ A close transliteration is: “upon which / because of which / because all sinne
 5. **James D. G. Dunn**, *The Theology of Paul the Apostle*, discussion of Romans 5:12–21. The consulted text records the dominant causal interpretation while also noting Fitzmyer's consequential reading and the corporate interpretation associated with other scholars. It is useful as evidence that the dispute remains a recognized exegetical question.  
    https://fbcclassroom.com/wp-content/uploads/2021/11/The-Theology-of-Paul-the-Apostl-James-D.-G.-Dunn.pdf
 
+7. **Petr Mareček**, “The Meaning of ἐφ’ ᾧ in Romans 5:12,” *Studia Theologica* 23, no. 4 (2021): 37–50. Mareček argues that the causal meaning (“because, since”) is preferable, appealing to ancient usage, Paul's other uses of the construction, and the chiastic structure of Romans 5:12. This is a recent peer-reviewed argument for the causal reading and should be considered alongside Fitzmyer's resultative proposal.  
+   https://doi.org/10.5507/sth.2021.046
+
+8. **Matthew A. Eby**, *Inherited Death As Basis for Personal Sin in Romans 5:12: An Exegetical Alternative to the Traditional Adam-Christology of Imputation*. Eby argues that inherited death is the basis or consequence leading to personal sin, rather than treating personal sin as the cause of death's spread. This is an alternative thesis, not an established consensus.  
+   https://doi.org/10.2986/TREN.068-0373
+
 6. **NET Bible, Romans 5:12–21.** The passage and notes provide the surrounding argument, including the references to Adam's transgression, death's reign, condemnation, and the obedience of Christ.  
    https://classic.net.bible.org/passage.php?passage=Rom+5%3A12-21
 
@@ -162,6 +168,7 @@ On this reading:
 - It fits Paul's repeated teaching that all have sinned (Romans 3:23).
 - It preserves personal human sin and responsibility.
 - It is the dominant rendering in many contemporary English translations.
+- Petr Mareček's 2021 peer-reviewed study argues specifically for the causal reading, citing ancient usage, Paul's other uses of the construction, and the sentence's chiastic structure.
 
 **Questions and difficulties:**
 - How does this reading relate the universal reign of death to Adam's one transgression?
@@ -213,7 +220,11 @@ This interpretation became especially influential in the Western theological tra
 
 The historical influence of this reading must be distinguished from proof that it is the most likely Greek construction.
 
-### 6.4 Other proposals
+### 6.4 Further scholarly qualification
+
+The debate is not simply “traditional versus modern.” Mareček's 2021 article argues that the causal reading is preferable on linguistic and structural grounds. Fitzmyer and Dunson defend a consecutive/resultative reading. Eby's thesis develops an interpretation in which inherited death is the basis for personal sin. These sources show that both the syntax and the theological sequence remain actively debated. No single proposal should be reported as the scholarly consensus without qualification.
+
+### 6.5 Other proposals
 
 Scholars have proposed additional nuances, including “on the basis of which,” “for this reason,” and interpretations that connect the phrase to the condition or sphere of death.
 
@@ -506,6 +517,8 @@ Genesis 2:16–17; Genesis 3:1–24; Genesis 5:1–5; Romans 3:9–26; Romans 4:
 - NET Bible, Romans 5:12–14 notes. https://classic.net.bible.org/passage.php?passage=Rom+5%3A12-14
 - NET Bible, Romans 5:12–21. https://classic.net.bible.org/passage.php?passage=Rom+5%3A12-21
 - Bible.org, “Study and Exposition of Romans 5:12–21.” https://bible.org/book/export/html/2345
+- Mareček, Petr. “The Meaning of ἐφ’ ᾧ in Romans 5:12.” *Studia Theologica* 23, no. 4 (2021): 37–50. https://doi.org/10.5507/sth.2021.046
+- Eby, Matthew A. *Inherited Death As Basis for Personal Sin in Romans 5:12*. https://doi.org/10.2986/TREN.068-0373
 - Dunn, James D. G. *The Theology of Paul the Apostle*. Discussion of Romans 5:12–21. https://fbcclassroom.com/wp-content/uploads/2021/11/The-Theology-of-Paul-the-Apostl-James-D.-G.-Dunn.pdf
 
 ### Prior repository studies
