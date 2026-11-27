@@ -6520,3 +6520,356 @@ The next route will return to Genesis after examining Romans, rather than replac
 - Preserved the unresolved interpretation of “in the day.”
 - Added the consequence-tracing audit as a methodological capability.
 - Established Romans 5:12–21 as the next investigative route.
+
+
+### 292. Death before the law — Romans 5:13–14
+
+Paul continues:
+
+> “For until the law sin was in the world: but sin is not imputed when there is no law.
+>
+> Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come.”
+
+Paul makes an important chronological observation: death reigned from Adam to Moses.
+
+This period precedes the giving of the Mosaic law. Paul does not say that sin first came into existence when the law was given. He says sin was in the world before the law, and death reigned during that period.
+
+The statement “even over them that had not sinned after the similitude of Adam's transgression” distinguishes the later people from Adam's particular transgression. They did not all repeat the same act under the same original command, yet death reigned over them.
+
+The verse then calls Adam “the figure of him that was to come.”
+
+This is a crucial transition. Adam is not merely an isolated historical example in Paul's argument. Paul uses Adam as a figure in a comparison that will identify Jesus Christ.
+
+We must not make “figure” mean that Adam and Christ are identical. The next verses repeatedly emphasize contrasts as well as correspondences.
+
+**Finding:** Paul describes death as reigning beyond Adam's own lifetime and before the Mosaic law. He also establishes Adam as a figure in an argument that points toward Christ.
+
+### 293. The gift is not identical to the offence — Romans 5:15
+
+Paul writes:
+
+> “But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.”
+
+The opening qualification matters:
+
+**“But not as the offence, so also is the free gift.”**
+
+Paul establishes a comparison, but immediately warns that the two sides are not equivalent in operation or result.
+
+The offence is associated with many being dead. The gift is associated with the grace of God through Jesus Christ abounding to many.
+
+The passage identifies:
+- the offence of one;
+- many being dead;
+- the grace of God;
+- the free gift;
+- one man, Jesus Christ.
+
+The repeated phrase “one man” makes the comparison deliberate. Adam's act and Christ's gift are placed in relation, but Paul says the gift is not simply the reverse occurrence of the offence.
+
+**Finding:** the Adam–Christ comparison is asymmetrical. The gift of grace is not presented as merely matching the offence; Paul emphasizes that grace abounds.
+
+### 294. One offence and many offences — Romans 5:16
+
+Paul continues:
+
+> “And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.”
+
+The distinction becomes sharper.
+
+On the Adam side:
+- one offence;
+- judgment;
+- condemnation.
+
+On the gift side:
+- many offences;
+- the free gift;
+- justification.
+
+Paul is not describing two equal quantities. One offence is contrasted with a gift that addresses many offences.
+
+This matters for our investigation because the remedy is not described merely as returning to the point immediately before Adam ate. Paul describes a gift that reaches the condition produced by many offences.
+
+We should not yet claim that this verse supplies a complete account of every aspect of creation's restoration. It establishes the scope of Paul's contrast in this passage.
+
+**Finding:** the free gift is presented in relation to many offences, while the judgment is traced to one offence. Grace is not restricted to a one-for-one transaction.
+
+### 295. Two reigns — Romans 5:17
+
+Paul writes:
+
+> “For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.”
+
+This verse introduces a striking contrast:
+
+- Death reigned.
+- Those receiving abundance of grace and the gift of righteousness shall reign in life.
+
+Notice the language of reign.
+
+Paul does not merely say that people die and later live. He describes two opposing reigns and identifies their respective relations to Adam and Jesus Christ.
+
+The verse also specifies the recipients: “they which receive abundance of grace and of the gift of righteousness.”
+
+The text therefore does not permit us to erase reception from the statement. Nor should we detach reception from the giver: the reign in life is “by one, Jesus Christ.”
+
+**Finding:** Paul's contrast is between death reigning through the offence and life reigning through Jesus Christ, with the latter explicitly connected to receiving grace and righteousness.
+
+### 296. One offence and one righteousness — Romans 5:18
+
+Paul summarizes:
+
+> “Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.”
+
+This is one of the strongest statements of the passage's scope.
+
+Paul places two outcomes in parallel:
+- the offence of one and judgment unto condemnation;
+- the righteousness of one and the free gift unto justification of life.
+
+The phrase “all men” appears on both sides of the comparison.
+
+We must read the complete sentence and its context rather than isolating one occurrence. Romans 5:17 has already described those who receive the abundance of grace and gift of righteousness. Verse 19 will further describe the many in relation to obedience and disobedience.
+
+The scope and application of the gift must therefore be examined across the whole paragraph, not settled by extracting verse 18 alone.
+
+**Finding:** Paul presents the Adam–Christ comparison in universal terms of scope, while the surrounding verses must govern how the gift's reception and application are understood.
+
+### 297. Two acts of obedience and disobedience — Romans 5:19
+
+Paul writes:
+
+> “For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous.”
+
+This verse brings us directly back to the question carried forward from Genesis.
+
+Paul does not say only that Adam provided a bad example which later people copied. He states that through one man's disobedience many were made sinners.
+
+He then contrasts this with the obedience of one, through whom many shall be made righteous.
+
+The wording identifies a relationship extending beyond the immediate actors.
+
+The comparison is:
+- one man's disobedience;
+- many made sinners;
+- one man's obedience;
+- many made righteous.
+
+We should not substitute a modern biological mechanism for Paul's statement. Nor should we reduce “made sinners” to imitation without examining the language and the wider argument.
+
+Likewise, the phrase “made righteous” must not be detached from the person whose obedience Paul identifies: Jesus Christ.
+
+**Finding:** Romans 5:19 explicitly describes consequences extending from one man's disobedience to many, and contrasts them with the many made righteous through the obedience of one.
+
+### 298. The law enters — Romans 5:20
+
+Paul writes:
+
+> “Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:”
+
+The word “Moreover” introduces another element into the argument.
+
+The law enters into a situation in which sin is already being discussed. This is consistent with Paul's earlier statement that sin was in the world before the law and that death reigned from Adam to Moses.
+
+The law's entry is therefore not the beginning of sin's existence in Paul's account.
+
+Paul says the law entered “that the offence might abound.” He then places this beside the much greater abundance of grace.
+
+The comparison must be preserved:
+- the law enters;
+- the offence abounds;
+- sin abounds;
+- grace much more abounds.
+
+We should not claim from this verse that the law itself is evil. Romans 7:12 explicitly describes the law as holy, and the commandment as holy, just, and good. That later passage must be considered when examining the purpose and effect of the law.
+
+**Finding:** the law enters an already-existing situation of sin and death. Paul emphasizes that grace exceeds the abundance of sin.
+
+### 299. The two reigns — Romans 5:21
+
+Paul concludes:
+
+> “That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.”
+
+The paragraph ends with the language of reign.
+
+The two conditions are:
+- sin reigning unto death;
+- grace reigning through righteousness unto eternal life.
+
+And the final words identify the means and person:
+
+**“by Jesus Christ our Lord.”**
+
+The passage therefore does not end with Adam. It ends with Jesus Christ.
+
+The movement is not simply:
+Adam → death.
+
+It is:
+Adam's offence → sin and death reigning;
+Christ's obedience and grace → righteousness and eternal life.
+
+This is the direction of Paul's argument. The first condition is not the final authority over the conclusion of the passage.
+
+**Finding:** Romans 5:12–21 concludes with grace reigning through righteousness unto eternal life by Jesus Christ.
+
+### 300. What has changed beyond Adam?
+
+We can now answer part of the question raised at the end of the sixteenth pass.
+
+Did the Fall merely change what happened to Adam?
+
+Paul's answer is broader than Adam's personal biography.
+
+Romans 5 describes:
+- sin entering the world through one man;
+- death entering through sin;
+- death passing upon all men;
+- death reigning from Adam to Moses;
+- many being made sinners through one man's disobedience;
+- the contrasting obedience of Jesus Christ;
+- many being made righteous;
+- grace reigning through righteousness unto eternal life.
+
+The text therefore describes a condition and consequence extending beyond the first man.
+
+But we must state the result carefully. Romans 5 is discussing sin, death, condemnation, justification, righteousness, grace, and life. It does not, in this paragraph alone, provide a complete technical description of every physical, biological, ecological, or cosmic change in creation.
+
+The wider creation question must be investigated with other passages, including Romans 8:18–23.
+
+**Finding:** the Fall is not presented by Paul as an event whose consequences terminate with Adam. Its consequences extend to humanity; the remedy Paul identifies is equally larger than Adam's individual biography and is centered on Jesus Christ.
+
+### 301. Returning to Genesis — the source and the explanation
+
+We must now travel backward.
+
+Genesis 2:7 records the formation of man and the breath of life.
+
+Genesis 2:17 records the command and consequence.
+
+Genesis 3 records the transgression and its immediate and subsequent consequences.
+
+Genesis 5:5 records Adam's physical death.
+
+Romans 5 interprets the significance of the one man's transgression in relation to the human population and places it against the obedience and gift of Jesus Christ.
+
+These passages are related, but they serve different roles in the investigation:
+
+| Source | What it contributes |
+|---|---|
+| Genesis 2:7 | Formation of man and breath of life. |
+| Genesis 2:17 | Original command and stated consequence. |
+| Genesis 3 | Transgression and recorded consequences. |
+| Genesis 5:5 | Adam's eventual physical death. |
+| Romans 5:12–21 | Paul's explanation of sin, death, condemnation, grace, righteousness, and life through Adam and Christ. |
+
+Romans does not replace Genesis. It gives an apostolic explanation that sends us back to Genesis with a wider question.
+
+### 302. Triple Constraint examination — Adam, humanity, and Christ
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Finding |
+|---|---|---|---|---|
+| Paul connects sin's entrance into the world with one man. | Explicit in Romans 5:12. | Theological textual claim, not an experimental mechanism. | Preserves the stated causal sequence. | Accepted |
+| Paul says death passed upon all men. | Explicit in Romans 5:12. | Does not invent a biological explanation. | Preserves the expanded scope. | Accepted |
+| Death reigned from Adam to Moses. | Explicit in Romans 5:14. | Historical-theological statement. | Preserves the period identified by Paul. | Accepted |
+| Adam is called a figure of the one to come. | Explicit in Romans 5:14. | Textual comparison. | Preserves the Adam–Christ relationship. | Accepted |
+| Adam and Christ have identical roles and outcomes. | Contradicted by Paul's repeated “not as” contrasts. | Not supported by the passage. | Erases the distinction between offence and gift. | Rejected |
+| One man's disobedience is connected with many being made sinners. | Explicit in Romans 5:19. | Does not establish a modern genetic mechanism. | Preserves the relationship Paul states. | Accepted |
+| Christ's obedience is connected with many being made righteous. | Explicit in Romans 5:19. | Theological textual claim. | Preserves Christ's central role. | Accepted |
+| Romans 5:12–21 provides a complete scientific account of inherited biological mortality. | Not stated in the passage. | Would require additional scientific evidence. | Prevents importing an unstated mechanism. | Not established |
+| Paul's argument ends with Adam's reign. | Contradicted by Romans 5:21. | Direct textual comparison. | Preserves the movement toward Christ. | Rejected |
+| Grace reigns through righteousness unto eternal life by Jesus Christ. | Explicit in Romans 5:21. | Theological claim, not a laboratory measurement. | Preserves the Christ-centered conclusion. | Accepted |
+
+### 303. Seventeenth-pass finding
+
+We can now state something that Genesis 3 alone did not establish in the same explicit way.
+
+Paul describes Adam's transgression as having consequences extending to humanity as a whole.
+
+But Paul does not leave humanity under Adam as the final statement.
+
+He places Adam in comparison with Jesus Christ and concludes with grace reigning through righteousness unto eternal life.
+
+The passage moves from one man's disobedience to the consequences affecting many, and then from the obedience of one to the gift of righteousness and life.
+
+**The human condition is examined through Adam, but the answer is found in Jesus Christ.**
+
+This is a theological finding from Romans 5, not yet a complete explanation of the whole creation's condition.
+
+### 304. RINC operational addition — reciprocal source and interpretive-source audit
+
+When a later biblical passage interprets an earlier one, AI must:
+
+1. Preserve the original passage.
+2. Identify the later interpreter and the passage being interpreted.
+3. Record the later passage's actual claims.
+4. Distinguish quotation, explanation, comparison, and application.
+5. Identify what the later passage adds to the investigation.
+6. Return to the earlier passage without rewriting its original wording.
+7. Preserve differences in scope and purpose between the passages.
+8. Distinguish theological claims from proposed scientific mechanisms.
+9. Examine the complete argument rather than isolated phrases.
+10. Preserve unresolved relationships for further investigation.
+
+The investigator must travel from Genesis to Romans and return to Genesis. Neither passage should be made to disappear inside the other.
+
+### 305. Unresolved questions
+
+1. What precisely does Paul mean by “death passed upon all men”?
+2. How does “for that all have sinned” in Romans 5:12 relate to Adam's one transgression and the subsequent human condition?
+3. What does Paul mean by “many were made sinners” in Romans 5:19?
+4. How should Romans 5:18's “all men” be read alongside Romans 5:17's description of those who receive the gift?
+5. How does Romans 8:18–23 extend the investigation from humanity to creation?
+6. How does 1 Corinthians 15:21–26 explain the defeat of death through Christ?
+7. How do Genesis 2:7 and Romans 5 relate without confusing the formation of man with the entrance of sin and death?
+8. Does the Fall's effect on creation include the wider created order, and what exactly does Scripture say about that scope?
+9. How does the eternal purpose of God relate to the contrast between Adam and Christ without making God the author of the transgression?
+
+### 306. Next route — Romans 8:18–23
+
+The next investigation should widen the scope again.
+
+We have moved from:
+- Adam;
+- to humanity;
+- to Christ's answer.
+
+Now we must examine Paul's words concerning creation itself.
+
+The central question:
+
+**Does Romans 8 describe the created order as being subjected to a condition of vanity and corruption, while awaiting deliverance?**
+
+We must examine:
+- the creature subjected to vanity;
+- the one who subjected it;
+- hope;
+- the bondage of corruption;
+- the whole creation groaning and travailing;
+- the firstfruits of the Spirit;
+- the redemption of the body.
+
+We must not assume that every scientific phenomenon is a direct description of the Fall. Nor should we restrict Paul's words to human psychology when the passage explicitly speaks of creation.
+
+The next route will test the scope of Paul's language and then return to Genesis.
+
+### References for the seventeenth navigation pass
+
+1. KJV Bible, Romans 5:12–21.
+2. [Romans 5 — KJV, Bible Gateway](https://www.biblegateway.com/passage/?search=Romans%205&version=KJV).
+3. [Genesis 2–3 — KJV, Bible Gateway](https://www.biblegateway.com/passage/?search=Genesis%202-3&version=KJV).
+4. [Romans 8:18–23 — KJV, Bible Gateway](https://www.biblegateway.com/passage/?search=Romans%208%3A18-23&version=KJV).
+5. [1 Corinthians 15:21–26 — KJV, Bible Gateway](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A21-26&version=KJV).
+
+### Change record
+
+- Continued Study 0051 from the sixteenth navigation pass.
+- Added the seventeenth navigation pass, examining Romans 5:12–21.
+- Distinguished Adam's individual transgression from Paul's account of consequences extending to humanity.
+- Examined the contrast between Adam's offence and Christ's obedience.
+- Preserved the asymmetry between offence and free gift.
+- Distinguished Paul's theological claims from scientific mechanisms not supplied by the passage.
+- Added the reciprocal source and interpretive-source audit.
+- Established Romans 8:18–23 as the next investigative route.
