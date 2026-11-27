@@ -4489,3 +4489,332 @@ We must not decide the answers before reading the sequence.
 The next investigation will test whether AI can compare an original instruction with a later representation, detect changes without inventing them, and return to the original command as the controlling reference.
 
 **The source must remain the reference point when its instruction is repeated, interpreted, challenged, or misrepresented.**
+
+
+## 192. Tenth navigation pass — compare the original command with the serpent's question
+
+The ninth pass established the original instruction in Genesis 2:16–17. We now place Genesis 3:1 beside it.
+
+Genesis 2:16 begins with broad permission:
+
+> “Of every tree of the garden thou mayest freely eat:”
+
+Genesis 2:17 then identifies one exception.
+
+The serpent's question in Genesis 3:1 is:
+
+> “Yea, hath God said, Ye shall not eat of every tree of the garden?”
+
+Notice the difference in framing.
+
+The original instruction begins with what is permitted and then identifies one prohibited tree. The serpent's question begins by presenting the instruction as though it were a broad restriction: “Ye shall not eat of every tree.”
+
+The serpent has not yet explicitly denied God's command. He has framed a question about it. But the question changes the emphasis from the abundance of the permission to the apparent breadth of the prohibition.
+
+That is the first observable alteration.
+
+AI must not claim that the serpent has already said, “God forbids every tree.” The sentence is a question. Its effect in the conversation must be examined through what follows.
+
+**The first move is a change of framing: the permission is no longer the starting point. The restriction is.**
+
+## 193. The original instruction and the woman's reply — compare every clause
+
+Genesis 3:2–3 records the woman's answer:
+
+> “We may eat of the fruit of the trees of the garden:
+>
+> But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.”
+
+Her reply contains both continuity and difference.
+
+### What she preserves
+
+She says, “We may eat of the fruit of the trees of the garden.”
+
+That preserves the broad permission in Genesis 2:16. She does not accept the serpent's framing as a simple prohibition of every tree.
+
+She also identifies a particular tree as prohibited.
+
+### What differs
+
+Genesis 2:17 records God's command:
+
+> “Thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.”
+
+Genesis 3:3 records the woman's version:
+
+> “Ye shall not eat of it, neither shall ye touch it, lest ye die.”
+
+Two differences are visible in the KJV wording:
+
+1. The woman includes “neither shall ye touch it,” which is not included in the recorded wording of Genesis 2:17.
+2. God's “thou shalt surely die” is represented by the woman's “lest ye die.”
+
+We must record the differences without inventing their explanation.
+
+The text does not tell us in these verses whether the added touch restriction came from an earlier instruction not recorded in Genesis 2, from the woman's own paraphrase, or from some other circumstance. We therefore cannot state as a fact that she invented it.
+
+Likewise, the difference between “surely die” and “lest ye die” is a difference in the recorded wording. It is not enough, by itself, to reconstruct everything the woman believed about the consequence.
+
+The correct finding is bounded:
+
+**The woman's reply preserves the broad permission and the prohibited tree, but her recorded wording includes a touch prohibition and expresses the death warning differently from the wording recorded in Genesis 2:17. The narrative does not explain the origin of those differences at this point.**
+
+This is precisely where AI must resist filling an information gap with a confident story.
+
+## 194. The serpent's second statement — direct contradiction
+
+Genesis 3:4 reads:
+
+> “And the serpent said unto the woman, Ye shall not surely die:”
+
+Now the conversation changes.
+
+The serpent's first statement was a question. This second statement is an assertion.
+
+Compare the wording:
+
+- Genesis 2:17: “thou shalt surely die.”
+- Genesis 3:4: “Ye shall not surely die.”
+
+The serpent directly contradicts the consequence God stated.
+
+The Hebrew construction makes the contrast especially visible. Genesis 2:17 uses מוֹת תָּמוּת (*môt tāmût*), an emphatic construction from the verb “to die.” Genesis 3:4 uses לֹא מוֹת תְּמֻתוּן (*lōʾ môt təmutûn*), negating the corresponding emphatic death construction.
+
+The repeated death language is not accidental. The serpent takes the consequence stated by God and denies it.
+
+This is stronger than a difference of emphasis or a paraphrase.
+
+**The serpent's second statement directly contradicts the original warning.**
+
+AI must distinguish this from the first question. The first reframes the command; the second denies the stated consequence.
+
+## 195. Genesis 3:5 — a new claim about knowledge and God's motive
+
+The serpent continues:
+
+> “For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.”
+
+This statement contains several claims:
+
+1. God knows what will happen.
+2. Their eyes will be opened.
+3. They will be as gods, or as God, knowing good and evil.
+4. The serpent presents God's prohibition in connection with this promised knowledge.
+
+The serpent is no longer merely discussing which tree may be eaten. He is offering an interpretation of God's motive and of the consequence of disobedience.
+
+The text records the serpent's claim. It does not establish that the serpent's explanation of God's motive is true.
+
+This distinction is essential:
+
+**A statement made by a character in the narrative is evidence that the character made the statement. It is not automatically evidence that the statement is true.**
+
+The investigator must keep the speaker attached to the claim.
+
+Genesis 3:5 must therefore be recorded as the serpent's representation, not silently adopted as the narrator's explanation.
+
+The phrase “knowing good and evil” now becomes a major subject for investigation. But the immediate context does not yet authorize us to reduce it to one simple definition, such as acquiring information, gaining moral discernment, or becoming an independent authority. Those possibilities must be tested against the subsequent verses and the wider Scriptural record.
+
+## 196. Genesis 3:6 — the woman's evaluation and action
+
+The KJV records:
+
+> “And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.”
+
+The verse presents a sequence. We should preserve its order rather than compress it into the general statement that the woman was tempted.
+
+### The sequence recorded
+
+1. The woman sees the tree.
+2. She evaluates it as good for food.
+3. She sees that it is pleasant to the eyes.
+4. She regards it as desirable to make one wise.
+5. She takes the fruit.
+6. She eats.
+7. She gives to her husband, who is with her.
+8. He eats.
+
+The three descriptions of the tree are not identical:
+
+- “good for food” concerns its perceived usefulness or desirability as food;
+- “pleasant to the eyes” concerns its visual appeal;
+- “desired to make one wise” concerns the wisdom attributed to eating it.
+
+The verse records the woman's evaluation before the taking and eating.
+
+The text does not say that the fruit had objectively become good because she evaluated it that way. Nor does it say that her visual perception created the tree's properties.
+
+It records how the tree appeared and was desired by the woman, followed by her action.
+
+This is an important difference between **seeing a thing**, **evaluating a thing**, and **having authority to establish the governing command concerning that thing**.
+
+The first two are present in the woman's recorded experience. The third is not granted to her by anything stated in Genesis 2:16–17.
+
+We must not turn this observation into a complete theory of human cognition. We can, however, identify the order of the narrative.
+
+## 197. Compare the two sequences — command and evaluation
+
+The two sequences can now be placed side by side.
+
+| Original instruction | Genesis 3 response |
+|---|---|
+| God gives permission to eat from every tree (2:16). | The serpent frames the instruction around restriction (3:1). |
+| God prohibits one named tree (2:17). | The woman identifies the prohibited tree (3:3). |
+| God states the consequence: “thou shalt surely die” (2:17). | The serpent denies it: “Ye shall not surely die” (3:4). |
+| God gives the command. | The serpent supplies a competing explanation of God's motive and the promised result (3:5). |
+| The boundary is established before the temptation. | The woman evaluates the tree and takes the fruit (3:6). |
+
+The narrative records more than a creature breaking a rule. It records a conversation in which the original instruction is questioned, represented, contradicted, and followed by an evaluation and action.
+
+But the investigator must not jump over the steps.
+
+The serpent's question is not the same as his denial. The woman's reply is not identical to the original command. The serpent's claim about God's motive is not the narrator's confirmation. The woman's evaluation is not itself the act of eating.
+
+Each event has its own place in the sequence.
+
+## 198. Genesis 3:7 — what happens immediately after they eat?
+
+The KJV reads:
+
+> “And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.”
+
+The verse records three immediate developments:
+
+1. The eyes of both are opened.
+2. They know that they are naked.
+3. They sew fig leaves together and make coverings.
+
+The serpent had said in Genesis 3:5 that their eyes would be opened. Genesis 3:7 records that their eyes were opened.
+
+That part of the serpent's statement corresponds with what the narrative reports.
+
+But the result recorded in verse 7 must be read carefully. The verse identifies their newly recognized nakedness and their attempt to cover themselves. It does not say in verse 7 that they became the independent authority over good and evil.
+
+Nor does the correspondence between the promised opened eyes and the recorded opened eyes validate the serpent's entire statement. A claim can contain a correspondence with an event while still containing a direct falsehood or a misleading representation elsewhere.
+
+The serpent said they would not surely die. Genesis 3:7 does not settle the full meaning of death or the timing of its manifestation. That question must be followed through the remainder of Genesis 3 and the wider Scriptural record.
+
+The immediate finding is narrower:
+
+**The eyes are opened, but the first result explicitly recorded is the recognition of nakedness and the attempt to cover it.**
+
+Genesis 2:25 had already stated that the man and his wife were both naked and were not ashamed. Genesis 3:7 therefore marks a change in their experience of that condition.
+
+The text gives us a before-and-after comparison:
+
+- Genesis 2:25 — naked, and not ashamed.
+- Genesis 3:7 — they know they are naked, and make coverings.
+
+The condition of being naked was already present. What changes in the narrative is their awareness and response.
+
+## 199. The correction test — do not accept or reject an entire statement as one undivided unit
+
+This pass demonstrates why AI must evaluate claims at the level of their individual components.
+
+The serpent says their eyes will be opened. The narrative subsequently records opened eyes.
+
+The serpent says they will not surely die. That directly contradicts God's warning.
+
+The serpent says they will be as gods, knowing good and evil. The meaning and fulfillment of that statement require further investigation.
+
+An undisciplined investigator might make either of two mistakes:
+
+- Accept the serpent's entire statement because one element corresponds with what happens.
+- Reject every element without examining what the narrative actually records.
+
+Neither method is reliable.
+
+The correct method is to separate the claims, identify their speaker, compare each with the source and the subsequent events, and record the result of each comparison.
+
+This is a major capability test for AI:
+
+**A statement is not made wholly true by one accurate component, and it is not analyzed correctly by refusing to distinguish its components.**
+
+## 200. Triple Constraint examination — the original command and its representation
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Result |
+|---|---|---|---|---|
+| Genesis 2:16–17 gives broad permission and one explicit prohibition. | Explicit. | Preserves the full instruction. | Maintains the source reference. | Accepted |
+| The serpent's first question reframes the command around restriction. | Supported by comparison with 2:16–17. | A textual and discourse observation. | Detects altered framing. | Accepted |
+| The woman preserves the broad permission in her reply. | Explicit in 3:2. | Does not erase the rest of her wording. | Preserves partial continuity. | Accepted |
+| The woman's recorded wording includes a touch prohibition not present in the recorded wording of 2:17. | Supported by direct comparison. | Does not speculate about its origin. | Records a difference without inventing a cause. | Accepted |
+| The serpent directly denies the death warning. | Explicit in 3:4 compared with 2:17. | A clear textual contradiction. | Identifies opposition to the source statement. | Accepted |
+| The serpent's explanation of God's motive is established as true by the narrator. | Not established in 3:5. | Confuses reported speech with verified fact. | Transfers authority to an unverified claim. | Rejected |
+| The woman evaluates the tree before taking and eating. | Explicit in 3:6. | Preserves the narrative sequence. | Distinguishes evaluation from action. | Accepted |
+| The woman's evaluation changes God's original command. | Not stated. | Confuses perception with authority. | Reverses the command relationship. | Rejected |
+| Genesis 3:7 records opened eyes and recognition of nakedness. | Explicit. | A textual observation. | Preserves the recorded result. | Accepted |
+| The correspondence of opened eyes validates every part of the serpent's statement. | Not supported. | Treats a compound claim as indivisible. | Fails component-level testing. | Rejected |
+| The full meaning of death is settled by Genesis 3:7 alone. | Not established. | Exceeds the immediate evidence. | Closes an open question prematurely. | Rejected |
+
+## 201. Tenth-pass finding — the source, its representation, and the resulting action
+
+The route has now exposed several distinct operations:
+
+1. **Original instruction:** God gives permission and establishes a boundary.
+2. **Reframing:** The serpent presents the instruction through a question emphasizing restriction.
+3. **Repetition:** The woman repeats the permission and prohibition, with wording differences.
+4. **Contradiction:** The serpent denies the stated consequence.
+5. **Alternative explanation:** The serpent supplies a claim about God's motive and the promised knowledge.
+6. **Evaluation:** The woman sees, assesses, and desires.
+7. **Action:** The woman takes and eats; her husband also eats.
+8. **Immediate result:** Their eyes are opened, they recognize their nakedness, and they make coverings.
+
+The investigation must preserve all eight.
+
+The most important methodological finding is this:
+
+**AI must compare a representation against its source, not allow the representation to replace the source.**
+
+The serpent's words are part of the evidence, but they do not become the governing reference merely because they are spoken later in the narrative.
+
+The woman's evaluation is part of the evidence, but it does not rewrite the original command.
+
+The resulting action is part of the evidence, but it must not be confused with the earlier permission or prohibition.
+
+### RINC operational addition — source-to-representation audit
+
+When a source instruction is repeated or challenged, AI must:
+
+1. Retrieve the original wording.
+2. Identify the speaker and recipient.
+3. Compare the later representation clause by clause.
+4. Mark additions, omissions, substitutions, and changes in emphasis.
+5. Keep questions distinct from assertions.
+6. Keep reported claims distinct from narrator-confirmed events.
+7. Compare predicted outcomes with recorded outcomes component by component.
+8. Preserve unresolved matters rather than filling gaps with assumptions.
+9. Return to the original source before stating the final finding.
+
+This is not merely a Bible-study technique. It is a general safeguard against allowing a derivative representation to displace its source.
+
+## 202. Next route — Genesis 3:8–13: response, hiding, and attribution
+
+The next pass must continue in the same chapter.
+
+Read Genesis 3:8–13.
+
+The investigation will examine:
+
+- What the man and woman do when they hear the voice of the LORD God walking in the Garden.
+- Why they hide themselves among the trees.
+- What the LORD God asks the man.
+- How the man describes his fear and nakedness.
+- What the man says about the woman.
+- What the woman says about the serpent.
+
+The questions:
+
+1. Does the narrative show a change in the man's and woman's response to God's presence?
+2. What does the text identify as the reason the man gives for hiding?
+3. Does the man's answer preserve his own action in Genesis 3:6?
+4. How does the man describe the woman and God's role in giving her to him?
+5. Does the woman's answer identify the serpent's deception?
+6. How do the questions in verses 9–13 move the narrative from discovery to attribution?
+7. What is explicitly stated, and what must not be inferred about responsibility?
+
+We must not turn the passage into a verdict before examining the actual words.
+
+The next test is whether AI can follow an action into its explanation, distinguish an explanation from an excuse, and preserve each speaker's own words without transferring responsibility from one participant to another.
+
+**The source-to-representation audit now becomes an action-to-attribution audit.**
