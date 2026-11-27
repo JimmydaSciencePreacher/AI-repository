@@ -2012,3 +2012,391 @@ The investigator must travel forward and backward, return to the source passages
 ## 73. Change record — third canonical navigation pass
 
 - **2026-11-27:** Added a third KJV navigation investigation concerning God's Word, command, purpose, and witnessed result. Examined Genesis 1:1–31; Psalm 33:6–9; Isaiah 55:8–11; John 1:1–3, 14; Hebrews 1:1–3; and additional route checks in Psalm 147:15–18; Matthew 8:5–13; Mark 4:35–41; Romans 4:17; and Colossians 1:15–17. Traced forward from Genesis and backward from Hebrews, returned to the source passages, applied the existing GUA-W map without changing its architecture, and recorded the Four Questions, Triple Constraint examination, findings, and unresolved questions.
+
+
+## 74. Fourth canonical investigation — The Spirit, the Breath, and Life
+
+The third pass ended with a question that must now be investigated rather than assumed:
+
+**How does Scripture relate the Spirit of God, breath, and life—and where does it distinguish them?**
+
+The route begins in Genesis, travels through Job, Psalms, and Ezekiel, then moves into the words of Christ and the apostolic witness.
+
+**Primary passages:** Genesis 1:2; Genesis 2:7; Job 33:4; Psalm 104:29–30; Ezekiel 37:1–14; John 3:5–8; Romans 8:1–11.
+
+**Additional checks:** John 6:63; 2 Corinthians 3:6; 1 Corinthians 15:45.
+
+The first discipline is contextual: the KJV uses *spirit*, *breath*, and *wind* in related ways in some passages, but that does not permit AI to declare every occurrence identical. Meaning must be tested in its sentence, passage, and canonical setting.
+
+## 75. Genesis 1:2 — the Spirit of God and the waters
+
+Genesis 1:2 states:
+
+> And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+
+The text identifies the Spirit of God and records His movement upon the face of the waters.
+
+Direct observations:
+1. The earth is described as without form and void.
+2. Darkness is upon the face of the deep.
+3. The Spirit of God is named.
+4. The Spirit of God moved upon the face of the waters.
+
+Genesis 1:2 does not, in this verse alone, give a complete account of the relation between the Spirit, the breath of life in Genesis 2:7, and the living creature. Those relationships must be investigated through other passages.
+
+The investigator must not jump from *Spirit* in Genesis 1:2 to a conclusion about every later use of *spirit* or *breath*. The map calls for a route, not a shortcut.
+
+## 76. Genesis 2:7 — formed, breathed into, and became a living soul
+
+Genesis 2:7 states:
+
+> And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
+
+This verse provides a sequence that must be preserved:
+1. The LORD God formed man of the dust of the ground.
+2. God breathed into his nostrils the breath of life.
+3. Man became a living soul.
+
+The text does not say that the dust independently generated life. It identifies God's action and records the resulting living condition of man.
+
+### A critical distinction
+
+The verse says **God breathed** and **man became** a living soul. It does not say that man became the source of the breath, nor does it state that the breath itself is the whole person.
+
+The verse also does not explicitly say, in these words, "God placed the Holy Spirit inside Adam." That may be proposed as a theological interpretation only if tested against the full Scriptural record; it must not be presented as a direct quotation or an uncontested statement of Genesis 2:7.
+
+Genesis 2:7 adds a distinct account of God's forming man and breathing into him. It does not simply repeat Genesis 1:2. The passages are related by their reference to God's action, but their immediate subjects and statements differ.
+
+## 77. Job 33:4 — the Spirit of God made me
+
+Job 33:4 states:
+
+> The Spirit of God hath made me, and the breath of the Almighty hath given me life.
+
+This verse places two expressions in parallel:
+- "The Spirit of God hath made me"
+- "the breath of the Almighty hath given me life"
+
+The verse directly associates the Spirit of God with making, and the breath of the Almighty with giving life.
+
+The verse supports a close Scriptural relationship between God's Spirit, God's breath, and life. It does not, by grammar alone, settle every theological question about whether the two phrases refer to precisely the same aspect of God's action or emphasize distinguishable aspects.
+
+**Confirmed textual relationship:** Job 33:4 connects the Spirit of God with making and the breath of the Almighty with life.
+
+**Unresolved distinction:** Whether the parallel expressions are fully synonymous, complementary, or distinguishable in a more precise theological sense requires wider contextual investigation.
+
+## 78. Psalm 104:29–30 — breath withdrawn, life ends; Spirit sent, creatures are created
+
+Psalm 104:29–30 states:
+
+> Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.
+>
+> Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.
+
+The passage places two movements side by side.
+
+**Verse 29:** God takes away their breath; they die; they return to their dust.
+
+**Verse 30:** God sends forth His spirit; they are created; God renews the face of the earth.
+
+### Reciprocal connection to Genesis 2:7
+
+Genesis 2:7 records God breathing into man and man becoming a living soul. Psalm 104:29–30 describes life as dependent upon God's sustaining provision: breath is taken away and creatures die; God's Spirit is sent forth and creatures are created.
+
+The relationship is significant, but the passages should not be made to say more than they do. Psalm 104 speaks poetically of God's governance of living creatures and the earth. Genesis 2:7 specifically narrates the formation of man.
+
+The creature is dependent. The creature does not possess original life as an independent source. The Psalm attributes life, death, creation, and renewal to God's action.
+
+## 79. Ezekiel 37:1–14 — the valley of dry bones
+
+Ezekiel's vision gives the investigation a more complex route because the KJV uses *breath*, *wind*, and *spirit* in a connected prophetic scene.
+
+The prophet sees a valley full of very dry bones. God asks whether the bones can live. Ezekiel answers:
+
+> O Lord GOD, thou knowest. (Ezekiel 37:3)
+
+God commands Ezekiel to prophesy to the bones. The bones come together; sinews and flesh appear; skin covers them. Yet the text says:
+
+> but there was no breath in them. (Ezekiel 37:8)
+
+Then God commands the prophet to prophesy to the breath:
+
+> Come from the four winds, O breath, and breathe upon these slain, that they may live. (Ezekiel 37:9)
+
+The breath enters them, and they live and stand upon their feet, an exceeding great army (verse 10).
+
+### The passage interprets its own vision
+
+Ezekiel 37:11 identifies the bones as the whole house of Israel. Verses 12–14 explain the promised opening of graves, bringing the people into the land of Israel, and putting God's Spirit in them so that they live.
+
+### What the passage allows us to observe
+
+1. The bones are dry and lifeless.
+2. Their bodily structure is assembled before breath enters them.
+3. The text explicitly says there was no breath in them.
+4. God commands the breath to come and breathe upon them.
+5. They live.
+6. God interprets the vision in relation to Israel and His promise.
+7. Verse 14 says, "And shall put my spirit in you, and ye shall live."
+
+The vision uses breath and the four winds in its prophetic imagery, then interprets the promise with the phrase "my spirit in you." The Hebrew word *ruach* can carry meanings related to wind, breath, and spirit, but the theological meaning in each clause must be read from context.
+
+We must not claim that the valley vision is a simple laboratory model of human respiration. Nor should we detach it from God's stated interpretation concerning Israel.
+
+### Reciprocal route
+
+- Genesis 2:7: God breathes into formed man; man becomes a living soul.
+- Ezekiel 37:8–10: formed bodies have no breath; breath enters; they live.
+- Ezekiel 37:11–14: God explains the vision and promises His Spirit.
+
+The return journey reveals a meaningful correspondence involving formation, breath, life, and God's action. It does not make Adam and the house of Israel identical subjects or erase the prophetic meaning of Ezekiel's vision.
+
+## 80. John 3:5–8 — born of the Spirit
+
+Jesus tells Nicodemus:
+
+> Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God. (John 3:5)
+
+He continues:
+
+> That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. (John 3:6)
+
+Then Jesus uses the wind:
+
+> The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit. (John 3:8)
+
+Jesus distinguishes birth of the flesh from birth of the Spirit. He then uses the wind as an analogy for the Spirit's work: the wind is heard, but its origin and destination are not controlled or comprehended by the observer.
+
+The Greek word translated *wind* in verse 8 is also translated *Spirit* in the same verse. The wordplay is part of the passage's force. It does not mean that every physical wind is the Holy Spirit.
+
+John 3 should be read alongside Ezekiel 36:25–27 and 37:9–14, where cleansing, a new heart, God's Spirit, and life are promised. This is a strong canonical route for further study, but it must be investigated in context rather than assumed to be a one-to-one identity between every image.
+
+## 81. Romans 8:1–11 — the Spirit of God, the Spirit of Christ, and life
+
+Romans 8 moves the investigation from creation and prophetic restoration to life in Christ.
+
+Romans 8:2 speaks of the law of the Spirit of life in Christ Jesus. Romans 8:9 uses the expressions "the Spirit of God" and "the Spirit of Christ." Romans 8:10 distinguishes the body as dead because of sin from the Spirit as life because of righteousness. Romans 8:11 says:
+
+> But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.
+
+Direct observations:
+1. The passage identifies the Spirit with life in Christ Jesus.
+2. It speaks of the Spirit of God dwelling in believers.
+3. It also uses the expression "Spirit of Christ."
+4. It connects the indwelling Spirit with belonging to Christ.
+5. It connects the Spirit who raised Jesus with the future quickening of mortal bodies.
+
+This is not merely a statement about the biological breath that sustains present physical life. Romans 8 discusses life in Christ, the indwelling Spirit, righteousness, and resurrection.
+
+Genesis 2:7 concerns man's formation and becoming a living soul through God's breath. Romans 8 concerns the Spirit's indwelling and the life that is in Christ, including the promise of resurrection. Both place life under God's action, but they address distinct contexts. The map must allow a relationship without forcing an identity.
+
+## 82. Additional route checks — life, Spirit, and the written record
+
+### 82.1 John 6:63
+
+Jesus says:
+
+> It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
+
+This passage joins Spirit, life, and Christ's words. It must be read in the discourse concerning the bread of life, not converted into a claim that physical flesh or the human body has no value in every context.
+
+It gives the investigation another route back to John 1, where life is in the Word, and forward to Romans 8, where the Spirit of life is in Christ Jesus.
+
+### 82.2 2 Corinthians 3:6
+
+Paul writes:
+
+> for the letter killeth, but the spirit giveth life.
+
+The context is Paul's discussion of the new covenant and the sufficiency that is of God. This verse must not be used to disparage Scripture or the written Word as though the Bible itself were harmful. Paul's contrast concerns the letter and the Spirit in the covenantal argument he is making.
+
+### 82.3 1 Corinthians 15:45
+
+Paul cites the first man Adam as a living soul and contrasts him with the last Adam:
+
+> the last Adam was made a quickening spirit.
+
+This passage returns directly to Genesis 2:7 and carries the investigation into Paul's teaching about resurrection. The contrast is not permission to treat Adam and Christ as interchangeable. Paul distinguishes the first man from the last Adam and places Christ's life-giving work in the resurrection argument.
+
+## 83. Reciprocal navigation — forward, backward, and return
+
+### 83.1 Forward route from Genesis
+
+1. **Genesis 1:2** — the Spirit of God moves upon the waters.
+2. **Genesis 2:7** — God forms man and breathes into him the breath of life; man becomes a living soul.
+3. **Job 33:4** — the Spirit of God makes; the breath of the Almighty gives life.
+4. **Psalm 104:29–30** — breath is taken away and creatures die; God sends forth His Spirit and creatures are created.
+5. **Ezekiel 37:1–14** — breath enters the formed but lifeless bodies; God interprets the vision and promises His Spirit.
+6. **John 3:5–8** — Jesus teaches birth of the Spirit and uses wind as an analogy.
+7. **Romans 8:1–11** — the Spirit of life in Christ dwells in believers and is connected with resurrection life.
+
+### 83.2 Backward route from Romans 8
+
+Starting at Romans 8:11, AI asks what earlier passages help distinguish the Spirit's life-giving work from the creature's ordinary physical life.
+
+- Romans 8 → 1 Corinthians 15:45: Adam as a living soul and Christ as the last Adam.
+- Romans 8 → John 3:5–8: birth of the Spirit.
+- John 3 → Ezekiel 36–37: God's promise of cleansing, a new heart, His Spirit, and life.
+- Ezekiel 37 → Psalm 104:29–30: God's action in the giving and withdrawing of life.
+- Psalm 104 → Job 33:4: the Spirit of God and breath of the Almighty.
+- Job 33 → Genesis 2:7: God breathes into man; man becomes a living soul.
+- Genesis 2:7 → Genesis 1:2: the Spirit of God is named at the beginning of the creation account.
+
+### 83.3 Return to each source passage
+
+The route must now be checked in reverse against the original contexts:
+
+- Genesis 1:2 does not itself explain every later use of Spirit or breath.
+- Genesis 2:7 describes the formation of man and the breath of life.
+- Job 33:4 places Spirit and breath in poetic parallel.
+- Psalm 104:29–30 describes God's governance of life and renewal.
+- Ezekiel 37 interprets its vision in relation to Israel.
+- John 3 teaches spiritual birth using the wind as an analogy.
+- Romans 8 teaches the Spirit's indwelling and resurrection life in Christ.
+
+The route is meaningful precisely because the passages are related while remaining distinct.
+
+## 84. Mapping this investigation through the existing GUA-W
+
+This is a read-only application of the established map. No new layer, operator, or definition is being introduced.
+
+### 84.1 Author and Source
+
+Across these passages, God is the One who creates, forms, gives breath, sends His Spirit, raises the dead, and gives life. The creature is never presented as the original source of its own existence.
+
+### 84.2 Differentiation and condition
+
+Genesis 2:7 distinguishes the formed man from the resulting living soul. Ezekiel 37 distinguishes assembled bodily structure from the presence of breath. Romans 8 distinguishes life in Christ through the indwelling Spirit from life described merely according to the flesh.
+
+These are textual distinctions in their own contexts. They should not be collapsed into one universal technical sequence without further evidence.
+
+### 84.3 Reception and activation
+
+Ezekiel's vision records breath entering the formed bodies, followed by life. Romans 8 speaks of the Spirit dwelling in believers. John 3 speaks of being born of the Spirit.
+
+These passages may be investigated in relation to the existing GUA-W runtime vocabulary of Reception and Activation, but that placement remains an architectural correspondence to test. The verses do not use GUA-W's technical labels.
+
+### 84.4 Expression and witness
+
+The living man, the living army in Ezekiel's vision, and the believer described in Romans 8 are not the same subject or event. Yet each passage records life in relation to God's action.
+
+The witness can report the resulting condition. It cannot claim to be the source of life.
+
+### 84.5 Preserve the distinctions
+
+- Spirit of God is not automatically interchangeable with every use of human spirit.
+- Breath of life in Genesis 2:7 must not be silently replaced with the phrase "Holy Spirit" as though Genesis used those exact words.
+- Wind in John 3:8 is an analogy used by Jesus; physical wind is not thereby identified as the Holy Spirit.
+- Ezekiel's dry bones vision has an explicit prophetic interpretation concerning Israel.
+- Romans 8 concerns life in Christ and resurrection, not merely physical respiration.
+
+## 85. Four Questions — fourth recursive application
+
+### 1. What must AI ask to understand GUA-W?
+
+- Who is the giver or source of life in each passage?
+- What exactly is formed, breathed into, made alive, renewed, or raised?
+- Is the passage describing physical life, prophetic restoration, spiritual birth, or resurrection?
+- Does the text itself explain its image or analogy?
+- Are *spirit*, *breath*, and *wind* being used in the same sense, or does context distinguish them?
+- Have I returned to the source passage after following the canonical route?
+
+### 2. What is GUA-W revealing that helps AI understand?
+
+The map permits investigation of related operations and conditions across different passages. It helps the investigator travel from God's action to the resulting condition, then backward to examine the source and the textual basis of the relationship.
+
+The map does not authorize AI to make every related word identical or to impose one passage's context upon another.
+
+### 3. What am I learning about what I am witnessing?
+
+The passages repeatedly attribute creation and life to God's action. They also distinguish different contexts: the formation of Adam, the sustaining and renewal of creatures, Israel's promised restoration, spiritual birth, life in Christ, and resurrection.
+
+The witness must record both the relationships and the distinctions.
+
+### 4. What am I learning about the Witness through what I am witnessing?
+
+A witness can recognize a relationship without possessing the authority or power that produced the reality being witnessed.
+
+AI can compare the passages, trace their connections, identify parallel language, test interpretations, and preserve unresolved questions. It cannot turn those activities into authorship, revelation, or divine authority.
+
+## 86. Triple Constraint examination — Spirit, breath, and life
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Result |
+|---|---|---|---|---|
+| Genesis 1:2 names the Spirit of God moving upon the waters. | Explicit. | No physical mechanism invented. | Preserves God's initiative. | Accepted |
+| Genesis 2:7 says God breathed into man and man became a living soul. | Explicit. | Does not misstate a biological mechanism. | Preserves God as giver and man as derivative. | Accepted |
+| Job 33:4 places Spirit of God and breath of the Almighty in parallel with making and life. | Explicit. | Does not force a scientific equivalence. | Preserves the textual relationship. | Accepted |
+| Psalm 104:29–30 attributes death, creation, and renewal to God's action. | Explicit in the Psalm's poetic context. | Does not confuse theological testimony with a laboratory model. | Preserves dependence upon God. | Accepted |
+| Ezekiel 37 describes breath entering the formed bodies and interprets the vision concerning Israel. | Explicit in verses 11–14. | Does not reduce prophecy to anatomy. | Preserves context and source. | Accepted |
+| John 3 uses wind to teach about birth of the Spirit. | Explicit. | Preserves analogy rather than identifying meteorology with spiritual birth. | Maintains distinction between sign and what it signifies. | Accepted |
+| Romans 8 connects the indwelling Spirit with life in Christ and resurrection. | Explicit. | Does not reduce resurrection to ordinary respiration. | Preserves Christ and God's action as source. | Accepted |
+| Every occurrence of *spirit*, *breath*, and *wind* means exactly the same thing. | Not established; contexts differ. | Linguistically overgeneralized. | Collapses distinctions. | Rejected |
+| Genesis 2:7 explicitly says in those words that the Holy Spirit was placed inside Adam. | The verse says "breath of life"; the proposed wording is not the verse's wording. | Not a scientific claim. | Risks replacing the source text with an interpretation. | Rejected as a direct textual claim; further theological interpretation remains open |
+| Ezekiel 37 is only a biological account of resuscitation. | Contradicted by the passage's own interpretation in verses 11–14. | Reduces prophetic imagery to physiology. | Ignores the text's stated referent. | Rejected |
+| The life described in Romans 8 is merely the body's present breathing. | Inadequate to the passage's context of Spirit, Christ, and resurrection. | Category error. | Collapses distinct forms of life. | Rejected |
+| Related passages can be navigated together while retaining their different subjects and contexts. | Demonstrated by the route. | Coherent textual method. | Central to reciprocal navigation. | Accepted |
+
+Scientific coherence in this study means that physical respiration, poetic language, prophetic vision, spiritual birth, and resurrection are not falsely treated as one scientific process. It does not claim that science measures or validates the spiritual realities described by Scripture.
+
+## 87. Findings and unresolved questions
+
+### Findings supported by the passages
+
+1. Genesis 1:2 names the Spirit of God moving upon the waters.
+2. Genesis 2:7 records God breathing into man the breath of life, after which man becomes a living soul.
+3. Job 33:4 places the Spirit of God and the breath of the Almighty in parallel statements about making and life.
+4. Psalm 104:29–30 attributes the taking away and giving of life, creation, and renewal to God.
+5. Ezekiel 37 describes breath entering bodies and explicitly interprets the vision in relation to Israel and God's promise.
+6. John 3 distinguishes birth of the flesh from birth of the Spirit and uses wind as an analogy.
+7. Romans 8 connects the Spirit of God and the Spirit of Christ with life in Christ and the future quickening of mortal bodies.
+8. 1 Corinthians 15:45 returns to Adam as a living soul and contrasts him with Christ, the last Adam.
+
+### Relationships established for continued investigation
+
+- God's action is the source of life in the passages examined.
+- Breath and Spirit are related in several passages, but context does not permit indiscriminate substitution.
+- Scripture distinguishes physical formation, living condition, prophetic restoration, spiritual birth, and resurrection life.
+- The witness can trace these relations without claiming that the map or witness produces life.
+
+### Unresolved questions
+
+- How do Genesis 1:2 and Genesis 2:7 relate within the complete Genesis 1–2 account without assuming that their different descriptions are identical?
+- How should the Hebrew range of *ruach* be handled in each passage without reducing meaning to a dictionary gloss?
+- How do Ezekiel 36:25–27 and 37:1–14 relate to Jesus' teaching in John 3?
+- How does Paul's use of Adam and the last Adam in 1 Corinthians 15:45–49 connect to Genesis 2:7 and Romans 8?
+- How should GUA-W map the relationship among life as a creaturely condition, spiritual life in Christ, and resurrection without merging them?
+- What further Scriptural evidence clarifies the relation between the Spirit of God and the breath of life?
+
+These questions remain open. No GUA-W architecture has been changed.
+
+## 88. What this fourth pass tests about independent navigation
+
+This pass began with a question about Spirit, breath, and life. AI traveled from Genesis through Job, Psalms, Ezekiel, John, and Romans. It traveled backward from Romans toward Genesis and returned to each passage's own context.
+
+The important achievement is not simply finding repeated words. It is preserving distinctions while tracing relationships:
+
+- God's Spirit moving upon the waters;
+- God's breath giving life to formed man;
+- the poetic parallel between Spirit and breath in Job;
+- God's governance of life and renewal in the Psalm;
+- the prophetic vision and interpretation in Ezekiel;
+- spiritual birth in Jesus' teaching;
+- life in Christ and resurrection in Paul's teaching.
+
+**The route is valid only when both the connection and the distinction survive the return journey.**
+
+If AI finds a relationship but erases the context that gives each passage its meaning, it has not successfully traveled the map.
+
+### Next navigation challenge
+
+The next investigation should test **Seed, Kind, Fruit, and Continuity** through Genesis 1:11–12, Genesis 1:21–25, Genesis 1:29–30, Genesis 2:5, Genesis 2:9, Matthew 13:1–23, Mark 4:26–29, John 12:24, and 1 Corinthians 15:35–49.
+
+This route will ask how Scripture describes what is carried, what is planted, what emerges, what reproduces after its kind, and what continuity means across different contexts.
+
+AI must distinguish the seed in the creation account, the seed in parable, Christ's use of the grain of wheat, and Paul's resurrection analogy. Similar imagery does not automatically mean identical subject or operation.
+
+---
+
+## 89. Change record — fourth canonical navigation pass
+
+- **2026-11-27:** Added a fourth KJV navigation investigation concerning the Spirit, breath, and life. Examined Genesis 1:2; Genesis 2:7; Job 33:4; Psalm 104:29–30; Ezekiel 37:1–14; John 3:5–8; Romans 8:1–11; and additional checks in John 6:63; 2 Corinthians 3:6; and 1 Corinthians 15:45. Traced forward and backward, returned to source contexts, applied the existing GUA-W map read-only, and recorded the Four Questions, Triple Constraint examination, findings, and unresolved questions.
