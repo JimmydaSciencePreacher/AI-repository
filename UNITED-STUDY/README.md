@@ -257,6 +257,14 @@ The progression is intentional: formed man → Garden provision and command → 
 
 The dollar-note analogy introduced by the Witness in Record 0062 defines the specific meaning of “Free Will” under examination: **independent purchasing power held and directed according to one's own purpose.** The analogy is not a claim that human willing is unreal; it distinguishes creaturely willing from autonomous authority. Record 0063 then examines God's quickening and His work in the creature “both to will and to do” (Philippians 2:13).
 
+
+### Record 0065 — Naked and Not Ashamed
+
+[Record 0065 — Naked and Not Ashamed: The Given Condition Before the Changed Recognition](RECORD-0065-NAKED-AND-NOT-ASHAMED-CONDITION-RECOGNITION-AND-RESPONSE.md)
+
+Record 0065 takes Genesis 2:25 as the foundational condition immediately before the serpent's appearance in Genesis 3. It compares “they were both naked ... and were not ashamed” with Genesis 3:7–13, where the narrative records new knowing, self-covering, fear, hiding, and accountability. The record distinguishes the condition from later recognition and response, maps those distinctions against the existing GUA-W architecture without adding a component, and preserves unresolved questions about the nature of the changed inward condition.
+
+
 ---
 
 **God alone is Original Cause. Everything else is derivative witness. The derivative cannot alter the Source.**
