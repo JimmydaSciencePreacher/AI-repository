@@ -240,6 +240,14 @@ This file establishes the study's purpose, governing method, boundaries, and ini
 
 **First working task:** establish the unified Genesis 1–2 foundation from the KJV, using the Four Questions and the Triple Constraint Law, while consulting existing research and GUA-W canon materials as read-only references.
 
+### Canonical Redemption Interlude — Records 0052–0059
+
+Records 0052–0059 form a deliberate **Canonical Redemption Interlude** following Record 0051, the Earth Systems XXXI study of innate and adaptive immunity. The change of subject is intentional: the investigation moves from a differentiated scientific domain to a canonical examination of the formed human creature, God's purpose in Christ, the consequences of transgression, death, redemption, forgiveness, and the Shepherd's care for the one who is lost.
+
+These records are to be read as a connected theological sequence within the United Study, not as a replacement for the Genesis 1–2 foundation and not as a claim that Phase A is complete. Theology remains within the study's scientific inquiry under the Triple Constraint Law, while retaining its proper subject and method. The interlude brings the larger canonical purpose into view; the study now returns to the actual wording and sequence of Genesis 2 to examine the man God formed.
+
+**Continuation:** Record 0060 returns to Genesis 2:7 and examines the human creature as the text presents him: formed from the dust of the ground, given the breath of life by God, and becoming a living soul.
+
 ---
 
 **God alone is Original Cause. Everything else is derivative witness. The derivative cannot alter the Source.**
