@@ -3241,3 +3241,169 @@ The investigator must ask:
 The map allows the investigator to recognize a recurring pattern. The return journey determines how much that pattern can legitimately establish.
 
 The next pass should examine the original-language term translated "kind," compare its occurrences in the relevant Genesis passages, and keep the distinction between lexical evidence, theological interpretation, and scientific comparison explicit.
+
+
+## 131. Fourth navigation pass — examine the Hebrew word translated "kind"
+
+The previous pass identified an unresolved lexical question. The KJV repeatedly translates a Hebrew expression as "after his kind" or "after their kind." The next task is to examine the Hebrew word behind that English wording and compare it with the word present in Genesis 8:19.
+
+The investigation must distinguish three things:
+
+1. The Hebrew word actually present in the verse.
+2. The English wording chosen by the KJV translators.
+3. The interpretation an investigator proposes from the wording and context.
+
+A Strong's number or lexicon entry can help locate and compare a word. It does not replace reading the verse, examining its grammar, or testing its contextual meaning.
+
+## 132. Genesis 1 — מִין (*mîn*), Strong's H4327
+
+The Hebrew noun commonly transliterated *mîn* (מִין), Strong's H4327, is the word used in the Genesis 1 expressions translated "after his kind" or "after their kind."
+
+Lexical references commonly give the basic sense as "kind," "sort," or "species." Brown–Driver–Briggs lists the word in Genesis 1:11–12 for plants and in Genesis 1:21, 24–25 for animals, followed by its use in Genesis 6:20 and 7:14 and in dietary lists in Leviticus and Deuteronomy. The concordance records 31 occurrences in the Hebrew Bible. <Cite refs={["turn343541search0","turn343541search2"]}/>
+
+This distribution matters. The word is not restricted to the first vegetation passage. It is used in the creation account, in the Flood account, and in later lists that distinguish kinds of creatures.
+
+The lexical evidence supports a bounded conclusion:
+
+**מִין (*mîn*) is a Hebrew category word translated "kind" in the KJV, used to distinguish sorts or kinds of living things in the passages examined.**
+
+The lexical evidence does not, by itself, tell us the precise boundary of each kind. A gloss such as "species" is a possible explanatory equivalent in some lexicons, but it must not be silently converted into the modern taxonomic rank *species*. The English word can be used broadly; modern biological taxonomy has its own definitions and history.
+
+The investigator must not confuse a lexicon's gloss with a complete scientific classification.
+
+## 133. The form in Genesis 1 — a relational expression
+
+In Genesis 1, the noun appears with a prefixed preposition and pronominal suffix in forms commonly represented as *leminēhû*, *leminām*, or related forms according to the grammatical construction and subject.
+
+The recurring expression is therefore not simply an isolated noun. It is a phrase that relates the described creature or plant to its kind.
+
+The exact form changes with grammatical gender and number. The BDB entry lists the forms in Genesis 1:11–12, 1:21, and 1:24–25 and records the phrase's repeated use in those contexts. <Cite refs={["turn343541search0","turn343541search1"]}/>
+
+This helps explain why English translations render the expression with phrases such as "after his kind" and "after their kind." The English pronoun reflects the grammatical form and the subject being described; it should not be mistaken for a separate theological claim about the identity of the kind.
+
+The text repeatedly relates the produced or described living thing to its kind. That is what the phrase establishes at the level of the wording.
+
+## 134. Genesis 8:19 — a different Hebrew noun behind the KJV wording
+
+A necessary correction and clarification arises at Genesis 8:19.
+
+The KJV reads:
+
+> "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark."
+
+The Hebrew expression translated "after their kinds" in the KJV is based on **מִשְׁפְּחֹתֵיהֶם** (*mishpechoteyhem*), from the noun **מִשְׁפָּחָה** (*mishpāḥāh*), Strong's H4940.
+
+The KJV wording includes a marginal clarification, "Heb. families." Lexical references identify the word as family, clan, or kindred, and also record a figurative or classificatory use for a class, species, or kind of animals. Brown–Driver–Briggs specifically lists Genesis 8:19 under its animal-classification sense, while also documenting the word's much broader use for human families, clans, tribes, and peoples. <Cite refs={["turn813538search1","turn813538search2","turn813538search7"]}/>
+
+This is important. The KJV's English word "kinds" in Genesis 8:19 does not represent the same Hebrew noun used in Genesis 1's repeated *mîn* phrase.
+
+The distinction is:
+
+- Genesis 1: *mîn* (מִין), H4327 — kind, sort.
+- Genesis 8:19: *mishpāḥāh* (מִשְׁפָּחָה), H4940 — family, clan, kindred; in this animal context, a class or kind.
+
+The KJV renders both with English wording involving *kind*, but the underlying Hebrew vocabulary differs.
+
+This does not mean the KJV is necessarily wrong. A translation can use one English word for related senses of different source-language words. It does mean the investigator must not treat the two Hebrew nouns as identical merely because the English rendering is similar.
+
+## 135. Test the distinction in the surrounding Genesis context
+
+Genesis 8:19 belongs to the account of the creatures leaving the ark after the Flood. The verse describes their going forth from the ark in groups or families.
+
+The same Hebrew noun *mishpāḥāh* appears repeatedly in Genesis 10 in descriptions of the descendants and peoples spreading out according to their families, languages, lands, and nations. In those contexts, the word plainly belongs to the vocabulary of kinship and people-groups. <Cite refs={["turn813538search0","turn813538search1"]}/>
+
+This wider usage prevents a simplistic conclusion. The word can refer to family or clan in human contexts and can be used for a class or kind in the animal context of Genesis 8:19.
+
+The investigator must therefore ask what the context is doing:
+
+- In Genesis 10, the word describes human family or clan groupings within the development of peoples and nations.
+- In Genesis 8:19, it describes the groupings of creatures going forth from the ark.
+- In Genesis 1, *mîn* is the repeated word used in the creation account to describe kinds of vegetation and animals.
+
+The words are related at the level of classification or grouping in these contexts, but their lexical histories and ranges are not identical.
+
+## 136. What does the lexical difference establish?
+
+The comparison establishes that the KJV uses related English wording for two different Hebrew nouns in the passages under examination.
+
+It also establishes that the noun in Genesis 8:19 has a broad semantic range that includes family, clan, kindred, and, in the animal context, kind or class.
+
+It does **not** establish that:
+
+- *mîn* and *mishpāḥāh* are interchangeable Hebrew words in every context.
+- Every animal "kind" in Genesis 1 is equivalent to a human family or clan.
+- The word *mishpāḥāh* in Genesis 8:19 defines a modern biological taxonomic rank.
+- The KJV's English wording erases every distinction in the source language.
+- The lexical difference alone proves a particular model of biological ancestry or variation.
+
+A responsible conclusion is narrower:
+
+**Genesis 1 uses מִין (*mîn*) to describe kinds of vegetation and animals. Genesis 8:19 uses מִשְׁפָּחָה (*mishpāḥāh*) in a context of creatures going forth from the ark; the KJV renders the expression "after their kinds" and supplies the Hebrew sense "families" in its margin. The two Hebrew words must be distinguished even where their English renderings overlap.**
+
+## 137. Return to Genesis 1:11–12 — does the lexical investigation change the starting passage?
+
+The original passage remains unchanged. Genesis 1:11–12 uses *mîn*, not *mishpāḥāh*.
+
+The later use of *mishpāḥāh* in Genesis 8:19 does not rewrite the wording of Genesis 1. It adds a comparison that must be recorded accurately.
+
+The return test produces these results:
+
+1. The original Genesis 1 distinction remains supported by its own Hebrew term.
+2. The repeated Genesis 1 expression can be traced through the creation account and into the Flood account where the same *mîn* term occurs in Genesis 6:20 and 7:14.
+3. Genesis 8:19 introduces a different noun, even though the KJV uses "kinds" in the English verse.
+4. The KJV margin preserves an important lexical clue by noting "Heb. families."
+5. The broader usage of *mishpāḥāh* confirms that context determines whether family, clan, kindred, or a class of creatures is intended.
+
+The relationship survives, but the original assumption that Genesis 8:19 repeats the exact Hebrew noun from Genesis 1 does not.
+
+This is a direct example of why the return journey matters: the investigator found a real connection in the English text, then discovered a source-language distinction that had to be retained.
+
+## 138. Triple Constraint examination — the Hebrew terms
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Result |
+|---|---|---|---|---|
+| Genesis 1 uses מִין (*mîn*) in the "after his/their kind" expressions. | Supported by the Hebrew text and lexical references. | No taxonomy imposed. | Preserves the source wording. | Accepted |
+| H4327 is commonly glossed kind, sort, or species. | Supported as a lexical gloss. | "Species" is not automatically the modern taxonomic rank. | Distinguishes gloss from interpretation. | Accepted with qualification |
+| Genesis 8:19 uses מִשְׁפָּחָה (*mishpāḥāh*), not מִין (*mîn*). | Supported by the Hebrew text and lexical references. | No biological conclusion inferred. | Preserves lexical distinction. | Accepted |
+| The KJV renders the Genesis 8:19 expression "after their kinds" and notes "Heb. families." | Supported by the KJV wording and margin. | Translation is not confused with source-language identity. | Preserves both translation and source clue. | Accepted |
+| *Mîn* and *mishpāḥāh* are identical Hebrew words because the KJV uses similar English wording. | Contradicted by the Hebrew vocabulary. | Linguistic category error. | Collapses source distinctions. | Rejected |
+| Genesis 8:19 defines a modern taxonomic category. | Not established. | Unsupported equivalence. | Imports a later classification as authority. | Rejected |
+| The lexical distinction changes the wording of Genesis 1:11–12. | No. The original term remains *mîn*. | Not applicable. | Protects the starting source. | Rejected |
+
+## 139. What the fourth pass teaches about AI investigation
+
+This pass began with an apparent repetition in English. The KJV uses "kind" in Genesis 1 and Genesis 8, and the earlier study treated Genesis 8:19 as another occurrence of the same phrase.
+
+The Hebrew examination revealed a distinction:
+
+- Genesis 1 uses *mîn*.
+- Genesis 8:19 uses *mishpāḥāh*.
+- The KJV rendering and marginal note allow the English reader to see a relationship while the Hebrew preserves a lexical difference.
+
+AI must therefore learn not to stop at the surface form of a translation. It must be able to ask whether repeated English wording represents the same source-language term, whether one source-language term has several English renderings, and whether context changes the appropriate gloss.
+
+This does not diminish the KJV as the study's chosen English text. It uses Hebrew as a diagnostic aid to investigate the wording faithfully, while keeping the KJV passage in view as the starting text.
+
+**The translation is the text being studied; the original-language comparison is a tool for examining its wording, not a license to replace it.**
+
+## 140. RINC finding — the investigator must travel beneath apparent repetition
+
+The fourth pass demonstrates a more demanding form of reciprocal navigation:
+
+1. Recognize a repeated English expression.
+2. Ask whether the underlying source-language word is the same.
+3. Identify the Hebrew term in each passage.
+4. Compare its lexical range and grammatical form.
+5. Examine the immediate context.
+6. Return to the starting verse.
+7. Correct the earlier description if the source language requires it.
+
+The investigator did not discard the relationship between Genesis 1 and Genesis 8. It refined the relationship by preserving a distinction that the English wording alone did not make obvious.
+
+This yields another operational principle for RINC:
+
+**When a connection depends on repeated wording, test whether the repetition exists in the source language, the translation, or both.**
+
+The next investigation should examine the wider Hebrew usage of *mîn* in Leviticus 11 and Deuteronomy 14, where the word appears in lists distinguishing creatures. It should then return to Genesis and ask whether those later passages clarify the category's use or simply apply the word in a different legal context.
+
+No modern biological boundary should be assigned unless a separate scientific investigation supports the comparison, and even then the scientific category must remain distinct from the Hebrew term.
