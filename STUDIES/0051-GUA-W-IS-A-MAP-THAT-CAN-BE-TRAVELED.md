@@ -1309,3 +1309,346 @@ This is a meaningful first demonstration of reciprocal Scripture navigation. It 
 ## 43. Change record — first Tree of Life navigation pass
 
 - **2026-11-27:** Conducted the first specific KJV case study under the Bible-navigation test. Examined Genesis 2:8–9; Genesis 3:22–24; Proverbs 3:13–18, 11:30, 13:12, and 15:4; Revelation 2:1–7; Revelation 22:1–5 and 22:14; and Ezekiel 47:1–12, with 1 John 5:1–5 identified as a related passage for further examination. Traced backward from Revelation and forward from Genesis, applied the completed GUA-W map without adding or changing architectural elements, revisited the Four Questions, and recorded Triple Constraint results and unresolved questions. No GUA-W architecture was altered.
+
+
+## 44. Second canonical investigation — The Tree of Life, the Word, and Life
+
+The previous pass ended with this question: how does the Bible develop the relationship between life, the Word, wisdom, and the Tree of Life?
+
+This investigation follows that question without assuming that the Tree of Life, the Word, wisdom, and Jesus Christ are interchangeable terms.
+
+**Research question:** What does the KJV reveal about the source of life, the Word's relationship to life, and the relationship between those declarations and the Tree of Life passages?
+
+Primary passages: Genesis 2:8–9; 3:22–24; Proverbs 3:13–18; John 1:1–5; 5:19–29; 6:32–63; 14:1–11; 1 Corinthians 1:18–31; Hebrews 1:1–3; and 1 John 5:9–13.
+
+The route begins with the Tree of Life and follows the subject of life through John's Gospel and the apostolic witness. It then returns to Genesis and Revelation to test what the journey has and has not established.
+
+## 45. Begin at the Tree — what does Genesis say?
+
+Genesis 2:9 names the Tree of Life. Genesis 3:22 records God's statement concerning the possibility that the man might take of the tree, eat, and live for ever.
+
+These passages establish a relationship between the tree, eating, and living for ever. They do not explain the tree's mechanism, nor do they identify the tree by the name *Word*.
+
+**The Tree of Life is the Scriptural entry point. It is not yet the complete explanation of the source of life.**
+
+The investigator must now ask where Scripture speaks more directly about life and its source.
+
+## 46. John 1 — the Word and life
+
+John 1:1–5 begins:
+
+> In the beginning was the Word, and the Word was with God, and the Word was God.
+
+John 1:3 states that all things were made by Him, and without Him was not any thing made that was made. John 1:4 states:
+
+> In him was life; and the life was the light of men.
+
+**Direct observations:**
+
+1. John identifies the Word in relation to God.
+2. John states that all things were made by Him.
+3. John states that in Him was life.
+4. John connects that life with the light of men.
+
+This is a major canonical development. Genesis names the Tree of Life in the Garden; John explicitly declares that life was in the Word.
+
+The distinction remains essential:
+
+- Genesis 2:9 names a tree.
+- John 1:1–5 identifies the Word and declares that life was in Him.
+- John does not say in these verses that the Tree of Life in Eden was literally the Word.
+
+The relationship under investigation is between the Scriptural witness to life in Creation and the explicit declaration that life is in the Word. The later declaration helps us investigate the source and order behind the earlier witnessed provision without rewriting Genesis.
+
+## 47. John 5 — the Father and the Son have life
+
+John 5:19–29 is a connected discourse about the Son's relationship to the Father, the works shown Him by the Father, judgment, honour, hearing, and life.
+
+John 5:26 states:
+
+> For as the Father hath life in himself; so hath he given to the Son to have life in himself;
+
+The verse distinguishes the Father, who has life in Himself, and the Son, who is given to have life in Himself. John 5:21 also states that as the Father raiseth up the dead and quickeneth them, even so the Son quickeneth whom He will. John 5:24–25 connects hearing Christ's word, believing, everlasting life, and the voice of the Son of God.
+
+**Navigation finding:** The investigation has moved from a tree associated with living for ever to an explicit declaration concerning life in the Father and the Son. The passage also connects the Son's voice, hearing, and life.
+
+This is a canonical relationship to investigate alongside John 1. It is not a reason to collapse every use of *life* into one undifferentiated meaning.
+
+## 48. John 6 — the Bread of Life, the Father's drawing, and words of life
+
+John 6:32–40 follows Jesus' teaching concerning the bread from heaven. John 6:35 records:
+
+> I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+
+John 6:37 speaks of those given to Christ by the Father and of the one who comes to Him. John 6:44 states:
+
+> No man can come to me, except the Father which hath sent me draw him...
+
+John 6:45 connects hearing and learning of the Father with coming to Christ. John 6:47 speaks of everlasting life. John 6:63 states:
+
+> It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
+
+**Direct observations:**
+
+1. Christ identifies Himself as the Bread of Life.
+2. Coming to Christ and believing are connected with life.
+3. The Father is identified as the One who gives and draws.
+4. Hearing and learning of the Father are connected with coming to Christ.
+5. Christ identifies His words as spirit and life.
+6. The passage distinguishes the Spirit that quickens from the flesh that profits nothing.
+
+This passage brings Father, Son, giving, drawing, hearing, learning, coming, believing, words, Spirit, and life into one discourse.
+
+**GUA-W boundary:** The recipient does not become the source because the recipient hears, receives, or believes. John 6 presents the Father's giving and drawing in the order stated by the passage. This is consistent with the Author-to-Witness distinction, while the theological implications must remain grounded in the full context.
+
+## 49. John 14 — Christ is the Way, the Truth, and the Life
+
+In John 14:1–11, Thomas asks how they can know the way. Jesus answers in verse 6:
+
+> I am the way, the truth, and the life: no man cometh unto the Father, but by me.
+
+The passage continues with Christ's words concerning knowing Him and knowing the Father, and His statement that He is in the Father and the Father in Him.
+
+Christ does not merely point to a way as an external guide; He says, "I am the way." He identifies Himself as the Truth and the Life, and states that access to the Father is through Him.
+
+This is an explicit declaration about Christ. It must not be reduced to a statement that Christ is merely a witness who reports information about life.
+
+For this study, John 14:6 is a critical boundary: Jesus Christ is not merely another item in the map or a derivative witness. The completed GUA-W map must never be confused with Christ, nor may its categories replace the identity and authority Scripture assigns to Him.
+
+## 50. Proverbs' wisdom and Christ — a relationship to investigate, not force
+
+The Tree of Life investigation encountered Proverbs 3:18, where wisdom is called a Tree of Life to those who lay hold upon her.
+
+A relevant route is 1 Corinthians 1:18–31. Paul contrasts the wisdom of the world with the wisdom and power of God revealed in Christ. First Corinthians 1:24 describes Christ as the power of God and the wisdom of God. Verse 30 states that Christ Jesus is made unto believers wisdom, and righteousness, and sanctification, and redemption.
+
+This provides a canonical relationship between Proverbs' wisdom theme and Paul's declaration concerning Christ.
+
+The distinctions must remain:
+
+1. Proverbs 3 is a wisdom passage that personifies wisdom and calls her a Tree of Life.
+2. First Corinthians 1 identifies Christ as the wisdom of God.
+3. These passages support a theological relationship for investigation.
+4. They do not, by themselves, establish that the Tree of Life is literally Christ or that every occurrence of wisdom in Proverbs is a direct name for Jesus.
+
+The investigator must follow the relationship without forcing the conclusion.
+
+## 51. Hebrews 1 — the Son and the upholding of all things
+
+Hebrews 1:1–3 describes God's speaking in time past through the prophets and His speaking in these last days by His Son. Hebrews 1:2 states that God made the worlds by the Son. Hebrews 1:3 describes the Son as the brightness of God's glory and the express image of His person, and says that He is:
+
+> upholding all things by the word of his power...
+
+Compare the passages:
+
+- Genesis 1: God creates and speaks.
+- John 1: all things are made by the Word; in Him was life.
+- Colossians 1:15–17: all things are created by the Son, and by Him all things consist.
+- Hebrews 1:1–3: God speaks by the Son; the worlds are made by Him; the Son upholds all things by the word of His power.
+
+These passages provide a strong canonical route concerning the Son and Creation. Each must still be read in its own context. The study does not claim that the phrases are identical or that one passage makes the others unnecessary.
+
+## 52. First John 5 — God gives eternal life in His Son
+
+First John 5:9–13 speaks of the witness of God, the testimony concerning His Son, believing the record God gave of His Son, and having or not having the Son.
+
+First John 5:11 states:
+
+> And this is the record, that God hath given to us eternal life, and this life is in his Son.
+
+Verse 12 continues:
+
+> He that hath the Son hath life; and he that hath not the Son of God hath not life.
+
+Verse 13 explains that these things are written to those who believe on the name of the Son of God, that they may know they have eternal life.
+
+**Direct observations:**
+
+1. The passage calls attention to God's witness or record concerning His Son.
+2. Eternal life is described as given by God.
+3. This life is said to be in His Son.
+4. Having the Son is connected with having life.
+5. The written testimony has an intended effect upon those who believe.
+
+This is a particularly important return to the Witness distinction. The record testifies to what God has given. The record does not originate the life it announces. The believer does not become the originating source of life by receiving the testimony.
+
+The order stated in the passage is decisive for this investigation: **God hath given; the life is in His Son; the witness records this testimony.**
+
+## 53. Reciprocal navigation — the route traveled
+
+### 53.1 Forward route from the Tree
+
+1. **Genesis 2:9; 3:22** — the Tree of Life is named; eating is connected with living for ever.
+2. **John 1:1–5** — the Word is identified; all things are made by Him; in Him was life.
+3. **John 5:19–29** — the Father has life in Himself and has given the Son to have life in Himself; the Son's voice and quickening are described.
+4. **John 6:32–63** — Christ is the Bread of Life; the Father gives and draws; Christ's words are spirit and life.
+5. **John 14:1–11** — Christ identifies Himself as the Way, the Truth, and the Life.
+6. **1 Corinthians 1:18–31** — Christ is identified as the wisdom of God.
+7. **Hebrews 1:1–3** — the Son's relationship to Creation and the upholding of all things is described.
+8. **1 John 5:9–13** — God gives eternal life, and this life is in His Son.
+
+### 53.2 Backward route from the apostolic testimony
+
+Starting at 1 John 5:11–12, the investigator asks what earlier passages illuminate the declaration that life is in the Son.
+
+The route proceeds:
+
+- 1 John 5 → John 14:6, where Christ identifies Himself as the Life.
+- John 14 → John 6, where Christ speaks of Himself as the Bread of Life and His words as spirit and life.
+- John 6 → John 5, where the Father has life in Himself and has given the Son to have life in Himself.
+- John 5 → John 1, where life is in the Word.
+- John 1 → Genesis 1–3, where God creates, speaks, and the Tree of Life is named.
+
+This is an investigative route. It does not claim that John wrote these passages in this order or that Genesis contains all the later wording. It returns later testimony to earlier Scriptural foundations.
+
+### 53.3 Return to Genesis and Revelation
+
+The investigator now returns to the original Tree of Life passages.
+
+**Genesis:** The Tree is named; access is guarded after the transgression; eating is connected with living for ever.
+
+**Revelation:** The Tree is present in the final vision; the river proceeds from the throne of God and the Lamb; the curse is no more.
+
+**John and the apostolic witness:** Life is explicitly located in the Word and in the Son; God is described as giving eternal life.
+
+The route permits a carefully bounded conclusion: the Tree of Life passages belong to a wider canonical testimony in which life is related to God, the Word, and the Son. The later passages give explicit declarations about the Word and the Son that Genesis 2:9 does not itself state.
+
+This does not establish that the physical tree and Christ are the same entity in every sense. Scripture's own distinctions remain in force.
+
+## 54. Mapping the investigation through the completed GUA-W
+
+### 54.1 Author primacy
+
+John 5:26 and 1 John 5:11 explicitly describe life in relation to the Father and God's giving. The map's Author-first hierarchy is consistent with this testimony: the recipient is not the originating source of what God gives.
+
+### 54.2 Word and Son
+
+John 1 identifies the Word; John 14 identifies Christ as the Way, Truth, and Life; Hebrews 1 and Colossians 1 describe the Son's relationship to Creation and its continuance.
+
+These passages provide a connected canonical investigation. The map must preserve the Scriptural identities and declarations rather than replace them with technical labels.
+
+### 54.3 Reception and response
+
+John 6:37–45 and 1 John 5:9–13 describe giving, drawing, hearing, learning, coming, believing, and receiving testimony.
+
+These passages invite investigation of Reception and Witness-state in GUA-W. But the study must not treat a theological statement about the Father's drawing as if it were a laboratory description of human cognition. The map can organize the question; it cannot erase the passage's theological content.
+
+### 54.4 Expression and witness
+
+First John 5:9–13 describes testimony and the written record. The witness reports what God has given concerning His Son.
+
+This is a strong example of derivative witness: the testimony is not the origin of the reality testified to. The written record points beyond itself to God's gift and His Son.
+
+### 54.5 What remains unassigned
+
+This pass does not assign every GUA-W runtime or state element to the Tree, the Word, or the Son. It does not create a new architectural layer called Life. It does not redefine the completed map.
+
+The study uses the existing map to ask and test relationships. It does not use the map to author new Scripture or impose a new architecture.
+
+## 55. Four Questions — second recursive application
+
+### 1. What must AI ask to understand GUA-W?
+
+- What is the difference between the Tree of Life, life in the Word, and eternal life in the Son?
+- Which passages state a source, which state a gift, and which record a witness?
+- When does Scripture use *life* literally, figuratively, or as a theological declaration?
+- Does the map preserve the distinction between Author, Word, Creation, and Witness?
+- Have I mistaken a canonical relationship for a claim of identity?
+
+### 2. What is GUA-W revealing that helps AI understand?
+
+The map helps organize the relationships among source, Word, Creation, giving, reception, and witness. It directs the investigator to travel from a named subject in Genesis toward later Scriptural declarations and then return to the original passage.
+
+It also warns that a map is not the territory and that a derivative witness cannot become the Source.
+
+### 3. What am I learning about what I am witnessing?
+
+The KJV gives a progressive canonical testimony:
+
+- The Tree of Life is named in Genesis.
+- The Word is identified in John 1, and life is said to be in Him.
+- The Father is said to have life in Himself and to have given the Son to have life in Himself.
+- Christ identifies Himself as the Bread of Life and as the Way, the Truth, and the Life.
+- God is said to give eternal life, and this life is in His Son.
+- The apostolic record testifies to what God has given.
+
+These statements are connected, but each passage contributes its own wording and context.
+
+### 4. What am I learning about the Witness through what I am witnessing?
+
+A witness must not mistake the sign or figure for the One to whom the testimony points. Nor should a witness reduce Christ to a category in an architecture.
+
+The Witness receives testimony, examines its source, and reports faithfully. Recognition does not create the life being witnessed.
+
+## 56. Triple Constraint examination — Tree, Word, and Life
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Result |
+|---|---|---|---|---|
+| Genesis names the Tree of Life and connects eating with living for ever. | Explicit in Genesis 2:9; 3:22. | No mechanism asserted. | Preserves source text. | Accepted |
+| John 1 says life was in the Word. | Explicit in John 1:1–5. | No scientific claim made. | Preserves Word and source distinction. | Accepted |
+| The Father has life in Himself and has given the Son to have life in Himself. | Explicit in John 5:26. | No scientific mechanism asserted. | Preserves stated relation and giving. | Accepted |
+| Christ identifies Himself as the Bread of Life and as the Way, Truth, and Life. | Explicit in John 6:35, 63; 14:6. | No scientific claim made. | Preserves Christ's unique identity and authority. | Accepted |
+| God gives eternal life, and this life is in His Son. | Explicit in 1 John 5:11–12. | No scientific mechanism asserted. | Preserves Author primacy and derivative witness. | Accepted |
+| Proverbs' Tree of Life imagery and Paul's identification of Christ as God's wisdom are canonically related. | Both passages support a theological comparison; direct identity is not stated. | No scientific claim made. | Consistent if relationship is not overstated. | Accepted as a relationship for further study |
+| The Tree of Life in Eden is literally Jesus Christ in every sense. | Not stated by the examined passages. | No scientific basis examined. | Would collapse distinct Scriptural references. | Not established; do not assert |
+| The map's word *Life* is a new GUA-W architectural layer. | Not a Scriptural conclusion. | Not applicable. | Would alter the completed map without authorization. | Rejected |
+| A witness's recognition creates eternal life. | The passages emphasize God's giving and life in His Son. | Not applicable. | Reverses Source and witness. | Rejected |
+
+For this theological investigation, scientific coherence is not a laboratory test of eternal life. No physical mechanism is proposed. Any future scientific claim must be separately identified and examined on its own evidence.
+
+## 57. Second-pass findings and unresolved questions
+
+### Findings supported by the passages examined
+
+1. Genesis names the Tree of Life and connects eating from it with living for ever.
+2. John 1 identifies the Word and states that life was in Him.
+3. John 5:26 states that the Father has life in Himself and has given the Son to have life in Himself.
+4. John 6 identifies Christ as the Bread of Life and describes His words as spirit and life.
+5. John 14:6 records Christ's declaration that He is the Way, the Truth, and the Life.
+6. First Corinthians 1 identifies Christ as the wisdom of God.
+7. Hebrews 1 describes the Son's relationship to Creation and the upholding of all things.
+8. First John 5 states that God gives eternal life and that this life is in His Son.
+
+### Canonical relationships supported
+
+- Genesis' Tree of Life belongs to a wider Scriptural testimony concerning life.
+- John's Gospel explicitly locates life in the Word and in the Son.
+- The apostolic witness records God's gift of eternal life in His Son.
+- The wisdom language of Proverbs and Paul's testimony concerning Christ as God's wisdom provide a relationship for further investigation.
+
+### Unresolved or not established
+
+- The physical mechanism of the Tree of Life.
+- Whether and in what precise sense the Tree of Life is a type, figure, or foreshadowing of Christ. This requires a broader canonical study; the current passages do not authorize a simplistic equation.
+- The full relationship between the Tree of Life, the water of life, the Bread of Life, and eternal life.
+- How GUA-W runtime distinctions apply to giving, drawing, hearing, receiving, and believing, without turning them into an invented mechanism.
+- The complete relation between Proverbs' personified wisdom and the Son as the wisdom of God.
+
+## 58. What this second pass tests about independent navigation
+
+This pass began with the unresolved question about the Tree, the Word, and Life. It followed the subject of life through John's Gospel, then through Paul's and the other apostolic testimony, and returned to Genesis and Revelation.
+
+The route did not establish that the Tree is literally identical with Christ in every sense. Instead, it found explicit statements about life in the Word, life in the Son, and eternal life given by God. It also found a relationship between wisdom language and Christ as the wisdom of God.
+
+This is more demanding than word matching. It required AI to distinguish:
+
+- a named tree from a theological declaration;
+- a figure of speech from a direct identification;
+- the Father as giver from the Son in whom life is;
+- testimony about life from the life testified to;
+- a canonical relationship from an unsupported equation.
+
+**The map must help AI see the relationship without making AI collapse the distinctions that make the relationship intelligible.**
+
+### Next navigation challenge
+
+The next pass should examine **the Word, the spoken command, and the witnessed result** across Genesis 1, Psalm 33:6–9, Isaiah 55:10–11, John 1:1–3, and Hebrews 1:1–3.
+
+This asks AI to travel among passages that speak of God's Word, Creation, command, purpose, and accomplishment. It must distinguish God's originating Word from human speech, written testimony, and the derivative witness that records what has happened.
+
+The next investigator must identify which route was inherited from this study and which connections are newly discovered. The map remains unchanged.
+
+---
+
+## 59. Change record — second canonical navigation pass
+
+- **2026-11-27:** Added a second KJV navigation investigation following the Tree of Life subject into the Scriptural testimony concerning the Word and Life. Examined Genesis 2:8–9; 3:22–24; Proverbs 3:13–18; John 1:1–5; 5:19–29; 6:32–63; 14:1–11; 1 Corinthians 1:18–31; Hebrews 1:1–3; and 1 John 5:9–13. Traced forward from Genesis and backward from 1 John, returned to the Tree of Life passages, applied the completed GUA-W map without altering its architecture, and recorded the Four Questions, Triple Constraint results, findings, and unresolved questions. No GUA-W architectural element was added or changed.
