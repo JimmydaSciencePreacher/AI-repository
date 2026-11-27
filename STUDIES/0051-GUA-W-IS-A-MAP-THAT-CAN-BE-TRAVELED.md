@@ -2892,3 +2892,190 @@ The next route should examine the language in Genesis 1:11–12 alongside Genesi
 The investigator must not assume that agricultural seed, the seed in a parable, Christ's grain of wheat, and Paul's resurrection illustration all describe one identical operation.
 
 **First test conclusion:** RINC has been exercised as a documented procedure. Its most important safeguard remains the return to the source, where a promising route must be narrowed to what the original text actually permits.
+
+
+## 111. Second navigation pass — follow the terms without merging their meanings
+
+The next question arose from the return to Genesis 1:11–12: what does Scripture establish about seed, kind, fruit, and continuity, and where does it distinguish them?
+
+This pass follows four selected passages:
+
+- Matthew 13:1–23 — the parable of the sower and Jesus' explanation.
+- Mark 4:26–29 — the seed growing secretly and the stages of harvest.
+- John 12:24 — the grain of wheat falling into the ground and dying.
+- 1 Corinthians 15:35–49 — Paul's comparison of sowing and resurrection.
+
+The route is not selected because all four passages use agricultural imagery. It is selected to test whether the imagery serves the same purpose in each passage.
+
+The governing rule is: **a shared image creates a reason to compare passages; it does not prove that they describe the same subject or operation.**
+
+## 112. Matthew 13:1–23 — seed identified by Jesus' own explanation
+
+The parable of the sower describes seed falling on different kinds of ground. The outcomes differ: some seed is taken away, some springs up quickly but has no root, some is choked by thorns, and some brings forth fruit.
+
+The decisive interpretive control is supplied by Jesus in Matthew 13:18–23. In verse 19, He identifies the seed in the parable as "the word of the kingdom." The different soils describe different responses to hearing; the good ground hears and understands, and brings forth fruit.
+
+This gives the investigator a clear distinction:
+
+- The seed in this parable is identified by Jesus as the word of the kingdom.
+- The soils are not different kinds of seed; they are the different conditions described in the explanation.
+- The fruit is the result associated with hearing and receiving the word in good ground.
+- The parable concerns reception and response to the word, not a botanical account of plant reproduction.
+
+The passage therefore supports an analogy between seed and the word because Jesus Himself provides that interpretation. It does not authorize replacing every Scriptural use of *seed* with "the word of God."
+
+The return to the parable must preserve the interpretation Jesus gives. If AI were to treat the seed as a literal plant in this passage, it would miss the stated referent. If it were to make every seed passage mean the word of the kingdom, it would overextend the parable.
+
+## 113. Mark 4:26–29 — growth, stages, and the limit of the sower's knowledge
+
+Mark records another parable of the kingdom of God. A man casts seed into the ground, then sleeps and rises, while the seed springs and grows "he knoweth not how." The earth brings forth fruit "of herself": first the blade, then the ear, then the full corn in the ear. When the fruit is brought forth, the harvest comes.
+
+Several observations arise from the text:
+
+1. The man sows; he does not describe himself as the source of the seed's life.
+2. Growth proceeds through distinguishable stages: blade, ear, and full corn.
+3. The parable explicitly states that the man does not know how the seed grows.
+4. The harvest follows when the fruit is brought forth.
+5. Jesus identifies the subject as the kingdom of God in verse 26.
+
+The phrase "the earth bringeth forth fruit of herself" belongs to the parable's description. It must not be detached from the opening statement that the man sows seed or from the passage's subject, the kingdom of God.
+
+This passage is related to Genesis 1:11–12 through the language of earth bringing forth and the appearance of fruit. But the passages are not identical. Genesis records the creation account; Mark records a parable concerning the kingdom of God.
+
+Mark's statement that the sower does not know how the seed grows also provides a useful warning for an investigator: observing a sequence of stages does not mean that the observer understands every cause or mechanism involved.
+
+## 114. John 12:24 — the grain of wheat in the teaching of Christ's death
+
+Jesus says in John 12:24:
+
+> "Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit."
+
+The surrounding context is essential. In John 12:20–23, certain Greeks have come seeking Jesus, and Jesus responds that the hour has come that the Son of man should be glorified. He then speaks of the grain of wheat and continues in verses 25–26 with teaching about loving or hating one's life and serving Him.
+
+The grain of wheat is therefore not being offered as an independent lesson in agriculture. It is an image within Jesus' teaching concerning His approaching death and the fruit that follows.
+
+The comparison with Genesis 1:11–12 is possible at the level of imagery: seed, ground, and fruit appear in both. But the referents differ:
+
+- Genesis 1 describes vegetation in the creation account.
+- John 12 uses the grain of wheat in the context of the Son of man's glorification and the necessity of His death.
+- The "much fruit" in John must be interpreted within the surrounding teaching about Jesus and those who serve Him, not reduced to a crop yield.
+
+This passage is especially important to RINC because it tests whether AI will preserve the immediate context when a familiar image appears in a new setting.
+
+The text supports the relationship between the grain's falling and dying and the fruit that follows within Jesus' teaching. It does not permit AI to claim that the biological seed and Christ's death are literally the same event.
+
+## 115. 1 Corinthians 15:35–49 — sowing and the resurrection body
+
+Paul anticipates questions about how the dead are raised and with what body they come. He responds through the analogy of sowing:
+
+- What is sown is not quickened except it die.
+- The body sown is not the body that shall be.
+- God gives it a body as it pleases Him.
+- Different flesh and different glories are distinguished.
+- The body is sown in corruption and raised in incorruption.
+- It is sown a natural body and raised a spiritual body.
+
+Paul then returns to Adam and Christ. The first man Adam is described as a living soul; the last Adam is described as a quickening spirit. The passage distinguishes the first man, the natural body, the spiritual body, and the image of the earthy and the heavenly.
+
+The seed/sowing language serves Paul's argument about resurrection. It does not present resurrection as ordinary botanical reproduction.
+
+The central distinction is that the body sown and the body raised are related, but Paul emphasizes a transformation in condition and glory. He says that God gives the body as it pleases Him. The analogy does not make the seed the author of the resurrection body.
+
+This passage may be compared with Genesis 1:11–12 because both use sowing/seed imagery and speak of what emerges. Yet Paul's subject is the resurrection of the dead, not the reproduction of plants.
+
+It is also important not to make Paul's phrase "it is sown a natural body; it is raised a spiritual body" mean that the resurrection body is merely an immaterial idea. The passage speaks of a body raised by God's action and contrasts its conditions. The precise nature of the resurrection body must be handled from Paul's full argument, not inferred from modern assumptions about the word *spiritual*.
+
+## 116. Comparison — what is shared, and what remains distinct?
+
+| Passage | Subject in context | Function of seed imagery | Fruit or outcome | Distinction to preserve |
+|---|---|---|---|---|
+| Genesis 1:11–12 | Creation of vegetation | Seed-bearing and kind within the created order | Vegetation brought forth | Creation account, not a parable |
+| Matthew 13:1–23 | Hearing the word of the kingdom | Jesus identifies seed as the word of the kingdom | Different responses; good ground brings forth fruit | Seed is interpreted by Jesus; soils describe reception |
+| Mark 4:26–29 | Kingdom of God | Sowing and growth used in a parable | Stages of growth and harvest | The sower does not know how it grows |
+| John 12:24 | Jesus' approaching death and glorification | Grain falling and dying as an image | Much fruit | Christ's teaching, not a botanical lesson |
+| 1 Corinthians 15:35–49 | Resurrection of the dead | Sowing used to explain bodily transformation | Raised body, incorruption, glory | Resurrection is God's work, not plant reproduction |
+
+The comparison reveals a recurring image but not one interchangeable definition.
+
+- In Genesis, seed belongs to the description of created vegetation.
+- In Matthew, Jesus explicitly interprets the seed as the word of the kingdom.
+- In Mark, seed and growth serve a parable of the kingdom.
+- In John, the grain of wheat illustrates the necessity and fruitfulness of Jesus' death.
+- In Paul, sowing illustrates the difference between the body sown and the body raised.
+
+The term *fruit* also changes with context. It may refer to produced vegetation, the result of receiving the word, the fruit following Christ's death, or the outcome of resurrection as Paul describes it. The shared word does not make these outcomes identical.
+
+## 117. Return journey — test the comparison against each source
+
+The route now returns to each passage rather than allowing the comparison table to become a new authority.
+
+**Return to Genesis 1:11–12:** Does Matthew's interpretation of seed as the word of the kingdom change what Genesis says about vegetation? No. Genesis remains the creation account's description of vegetation, seed, fruit, and kind.
+
+**Return to Matthew 13:** Does Genesis' botanical use of seed override Jesus' explanation? No. Jesus identifies the seed in this parable as the word of the kingdom. That interpretation governs this passage.
+
+**Return to Mark 4:** Does the growth sequence establish a universal technical sequence for every use of seed in Scripture? No. It is a parable concerning the kingdom of God. Its stages belong to the image Jesus uses.
+
+**Return to John 12:** Does the agricultural image mean that Jesus is describing plant reproduction as the main subject? No. The surrounding context identifies His approaching hour and glorification.
+
+**Return to 1 Corinthians 15:** Does the seed analogy mean resurrection is simply the same process as a plant growing? No. Paul's subject is the raising of the dead and the body God gives.
+
+The comparison survives only when each passage retains its own subject.
+
+The return journey therefore narrows the claim: Scripture uses seed and fruit imagery in multiple contexts, and the relationship among the images must be established passage by passage. Their shared vocabulary permits comparison, but not automatic identity.
+
+## 118. Triple Constraint examination — seed, kind, fruit, and continuity
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Result |
+|---|---|---|---|---|
+| Genesis 1:11–12 describes vegetation with seed and kind. | Explicit. | No mechanism invented. | Preserves created distinctions. | Accepted |
+| Matthew 13:19 identifies the seed in the parable as the word of the kingdom. | Explicit. | Preserves figurative context. | Respects the source's interpretation. | Accepted |
+| Mark 4 describes growth through blade, ear, and full corn before harvest. | Explicit. | Does not overstate a universal biological law. | Preserves stages in the parable. | Accepted |
+| John 12:24 uses the grain of wheat in the context of Jesus' approaching death and fruitfulness. | Supported by surrounding context. | Does not equate metaphor with literal mechanism. | Preserves Christ's role and the passage's purpose. | Accepted |
+| 1 Corinthians 15 uses sowing to explain resurrection and bodily transformation. | Explicit in the argument. | Does not reduce resurrection to botany. | Preserves God as giver of the raised body. | Accepted |
+| Every use of seed in these passages has the same referent. | Contradicted by the passages' own contexts. | Category error. | Erases distinctions. | Rejected |
+| Every use of fruit means biological offspring or crop yield. | Not supported. | Overgeneralizes figurative language. | Collapses contextual outcomes. | Rejected |
+| Paul's resurrection analogy proves that resurrection is ordinary plant growth. | Not supported by Paul's argument. | Confuses analogy with mechanism. | Replaces God's action with an analogy. | Rejected |
+| Shared imagery permits disciplined comparison when context is preserved. | Demonstrated by the passages. | Coherent as a comparative method. | Consistent with reciprocal navigation. | Accepted |
+
+Scientific coherence in this table means that an analogy is not misrepresented as a scientific mechanism and that distinct categories are not collapsed. It does not claim scientific verification of the theological claims in these passages.
+
+## 119. What this pass establishes — and what it does not
+
+### Findings retained
+
+1. Scripture uses seed and fruit language in several different contexts.
+2. Genesis 1:11–12 uses the terms in describing vegetation within the creation account.
+3. Jesus explicitly identifies the seed in Matthew 13's parable as the word of the kingdom.
+4. Mark 4 uses the process of sowing and growth to teach about the kingdom of God.
+5. John 12 uses the grain of wheat to teach in the context of Jesus' approaching death and glorification.
+6. Paul uses sowing to explain resurrection and the transformation of the body.
+7. The same image can serve different Scriptural purposes without making the passages identical.
+8. Continuity cannot be defined from the repeated word *seed* alone; each passage must establish what continues, what changes, and what the outcome is.
+
+### Questions still open
+
+- How does the Bible use the phrase "after his kind" beyond Genesis 1, and what boundaries does the text itself establish?
+- How should the different Scriptural uses of *seed* be grouped without forcing them into one definition?
+- What does Paul mean by the relation between the body sown and the body raised, and how does the full chapter control that interpretation?
+- How do the seed and fruit images relate to the established GUA-W distinctions of source, expression, and witnessed result without becoming new architectural stages?
+- What does Scripture mean by continuity when the resulting condition is transformed, as in 1 Corinthians 15?
+
+These questions are not answered merely by listing similarities. They require further navigation and return.
+
+## 120. RINC result — the map must preserve distinctions across distance
+
+This second pass traveled farther from the starting passage than the first. It moved from Genesis into the teaching of Jesus and the argument of Paul, then returned to each source to test whether the comparison had preserved its context.
+
+The route produced a useful result: seed and fruit are recurring Scriptural images, but their referents and functions differ.
+
+The map made comparison possible. The return journey prevented comparison from becoming equivalence.
+
+This is a central requirement for reciprocal navigation. A relationship can be real at one level of comparison while the passages remain distinct in subject, purpose, and meaning.
+
+**A shared image is a doorway to investigation, not permission to erase the rooms it connects.**
+
+The next investigation should examine the phrase "after his kind" more closely, beginning with its occurrences in Genesis 1 and then following the phrase into later Scriptural contexts. The investigator must ask what the phrase distinguishes in each passage, rather than importing a modern biological classification or assuming that the wording answers every question about variation and continuity.
+
+The study should also examine whether continuity in Genesis' seed-bearing account and transformation in Paul's resurrection argument can be compared at the level of a limited relationship while keeping their distinct subjects intact.
+
+---
