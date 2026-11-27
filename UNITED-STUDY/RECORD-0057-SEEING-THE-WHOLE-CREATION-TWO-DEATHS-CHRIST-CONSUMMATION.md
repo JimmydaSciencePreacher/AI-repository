@@ -175,7 +175,7 @@ The Witness is not self-sustaining, self-quickening, or self-resurrecting. He de
 
 The central line is:
 
-**God as Original Cause → Creation → man formed and given life → provision and command → transgression → spiritual death and physical mortality → loss of access to the Tree of Life → Christ, the last Adam → spiritual quickening and bodily resurrection → incorruptible life → the curse removed.**
+**Author → Word → Creation → man formed from dust and given the breath of life → provision and command → transgression → spiritual/relational rupture and physical mortality → loss of access to the Tree of Life → Christ, the last Adam → spiritual quickening and bodily resurrection → incorruptible life → the curse removed.**
 
 The first Adam does not supply the final answer to the human condition. Christ does.
 
