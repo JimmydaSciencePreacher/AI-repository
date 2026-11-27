@@ -30,6 +30,8 @@ The study therefore distinguishes four subjects:
 
 A change in the human creature's spiritual or relational condition is not automatically a change in the Spiritual Creation itself. These are different categories and must remain distinct.
 
+**HUMAN-FORMATION CLARIFICATION:** The term “Spiritual Creation” in this record is an analytical category for the question being examined; it must not be read as saying that Genesis presents man as a pre-existing, disembodied spiritual being who was later placed inside a body. Genesis 2:7 states that the LORD God formed man from the dust of the ground, breathed into his nostrils the breath of life, and man became a living soul. The human creature's starting point in this study is the formed man described by that verse. This record distinguishes the creature's spiritual/relational condition from the category called “Spiritual Creation”; it does not replace the Genesis account of man's formation.
+
 Likewise, a consequence occurring in the physical world does not establish that the physical Creation was originally evil. Genesis 1:31's assessment of the completed Creation as “very good” remains part of the evidence.
 
 ## 2. The hypothesis and its necessary boundaries
