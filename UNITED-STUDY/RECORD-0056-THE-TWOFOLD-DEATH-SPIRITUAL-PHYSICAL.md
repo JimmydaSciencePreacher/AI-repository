@@ -59,6 +59,10 @@ Isaiah 59:2 later uses separation language: iniquities separate people from God.
 
 **IMPORTANT DISTINCTION:** The creature's spiritual condition changes; this is not a claim that God's Spiritual Creation, God's Spirit, or God's life-giving authority becomes corrupted.
 
+**FORMATIONAL DISTINCTION:** Genesis 2:7 does not introduce man as a pre-existing, disembodied “spiritual being” who later receives a body. It describes the LORD God forming man from the dust of the ground, breathing into his nostrils the breath of life, and the man becoming a living soul. Therefore, in this study, “spiritual death” names the fallen human condition of sin and alienation; it must not be mistaken for the death of a separate spiritual person inside the man, or for the annihilation of a spiritual substance. The text's starting point is the formed, embodied man whose life comes from God.
+
+This distinction is limited to the account of humanity under examination. It does not deny that other passages describe angels as ministering spirits (Hebrews 1:14); it prevents that distinct category from being imported into Genesis 2:7 as though it were the text's description of man.
+
 ## 4. Genesis 3:22–24 — exclusion from the Tree of Life
 
 After the transgression, God says:
