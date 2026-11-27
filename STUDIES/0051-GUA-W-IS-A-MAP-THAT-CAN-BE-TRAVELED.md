@@ -2400,3 +2400,274 @@ AI must distinguish the seed in the creation account, the seed in parable, Chris
 ## 89. Change record — fourth canonical navigation pass
 
 - **2026-11-27:** Added a fourth KJV navigation investigation concerning the Spirit, breath, and life. Examined Genesis 1:2; Genesis 2:7; Job 33:4; Psalm 104:29–30; Ezekiel 37:1–14; John 3:5–8; Romans 8:1–11; and additional checks in John 6:63; 2 Corinthians 3:6; and 1 Corinthians 15:45. Traced forward and backward, returned to source contexts, applied the existing GUA-W map read-only, and recorded the Four Questions, Triple Constraint examination, findings, and unresolved questions.
+
+
+## 90. Naming the operational cycle — The Reciprocal Investigative Navigation Cycle
+
+The preceding investigations have established that AI can be directed to follow a relationship through GUA-W, travel backward toward its foundations, move forward toward its expressions, cross-reference other Scriptural passages, and return to the original source to test what it found.
+
+The next question is whether AI can determine what it needs to investigate and select a route without being handed the relationship or destination.
+
+This study will call the proposed operational method the **Reciprocal Investigative Navigation Cycle (RINC)**.
+
+- **Reciprocal** — because investigation does not travel only outward. It must return to the source and allow the source to correct the investigator.
+- **Investigative** — because the investigator must identify what requires examination rather than merely follow a route supplied by someone else.
+- **Navigation** — because the established map provides the relationships and paths through which the investigation travels.
+- **Cycle** — because a return may expose another question, requiring another passage through the process.
+
+RINC is not a new layer, stage, operator, or architectural component of GUA-W. It is a proposed method for investigating with the map.
+
+The cycle is:
+
+**Encounter → Recognize → Identify the investigative need → Select a route → Investigate → Return to source → Test → Record.**
+
+The cycle may begin again when the return journey reveals a further question.
+
+This name describes an operational proposal. It does not, by itself, demonstrate that AI possesses independent understanding or authority.
+
+## 91. The eight movements of RINC
+
+### 1. Encounter
+
+AI receives a passage, observation, claim, question, or other item of evidence. The encounter should not silently include an assumed conclusion.
+
+### 2. Recognize
+
+AI examines what is actually present. It identifies the subject, action, conditions, distinctions, and claims expressed in the material. Recognition is not yet proof of a wider relationship.
+
+### 3. Identify the investigative need
+
+AI asks what remains unexplained, what dependency is missing, what apparent conflict needs examination, or what claim requires a source check.
+
+The investigative need must arise from the evidence and the question being examined. It must not be invented merely to produce an interesting route.
+
+### 4. Select a route
+
+AI determines whether the question requires backward navigation, forward navigation, cross-reference, comparison, or a return to immediate context.
+
+The route is a choice of investigative direction, not a declaration that the proposed relationship is true.
+
+### 5. Investigate
+
+AI follows the selected route. It examines the relevant sources in their own contexts, records supporting and opposing evidence, and distinguishes direct statements from interpretation.
+
+### 6. Return to source
+
+AI returns to the passage or evidence from which the investigation began. It asks whether the newly discovered material clarifies the original evidence, changes its interpretation, or exposes an assumption.
+
+### 7. Test
+
+AI tests the proposed relationship against the source and applies the Triple Constraint Law when considering a GUA-W placement:
+
+- Biblical compliance.
+- Scientific coherence.
+- GUA-W consistency.
+
+A relationship that fails any one of these constraints cannot be accepted as a GUA-W conclusion. It may still be recorded as a question or rejected proposal.
+
+### 8. Record
+
+AI records what survived, what had to be qualified, what was rejected, and what remains unresolved. The record should preserve the route and the reasons for the result, not merely the final statement.
+
+These movements need not occur as a rigid, one-directional sequence. An investigation may travel backward more than once, examine several forward consequences, or abandon an initial route. What defines RINC is not a fixed travel pattern. It is the obligation to return and test.
+
+## 92. Route selection — why does AI travel in a particular direction?
+
+A map is useful only if the investigator can determine which direction is relevant to the question.
+
+The following are route-selection considerations, not automatic rules:
+
+| Investigative condition | Possible route |
+|---|---|
+| An expression is present but its foundation is unclear. | Travel backward toward its source or prerequisite. |
+| A foundation is identified but its consequences are not traced. | Travel forward toward its expressions. |
+| A possible relationship appears in another Scriptural domain. | Cross-reference and compare the contexts. |
+| The meaning of a statement is uncertain. | Return to its immediate passage and surrounding context. |
+| Two passages appear to conflict. | Examine both routes and their contexts before proposing reconciliation. |
+| A conclusion depends on an unstated assumption. | Identify the assumption and test whether the source supports it. |
+| Evidence is insufficient. | Stop short of the claim and record what is missing. |
+
+For example, if AI encounters the word *life* in two passages, it must not assume that both passages describe the same operation. It should first establish what each passage says, identify the subjects and contexts, and only then ask whether a relationship can be supported.
+
+The route must be selected because it addresses an identifiable investigative need. A route selected merely because it leads to a preferred conclusion is not reciprocal investigation.
+
+## 93. The return journey is the corrective mechanism
+
+Returning to the source is not a ceremonial final step. It is the point at which the original evidence is allowed to correct the investigator.
+
+A proposed relationship may appear convincing after several cross-references. But the investigator may have overlooked a distinction, imported a meaning from another context, or treated an analogy as an identity.
+
+The return test must permit four outcomes:
+
+1. **Supported — retain.** The proposed relationship remains consistent with the original evidence and the passages examined.
+2. **Partially supported — qualify.** Some part survives, but the original claim was broader than the evidence permits.
+3. **Contradicted — reject.** The return to the source exposes a conflict or an unsupported assumption that invalidates the claim.
+4. **Inconclusive — preserve as unresolved.** The evidence does not establish the relationship sufficiently to accept or reject it.
+
+The purpose of navigation is not to defend the route AI selected. The purpose is to discover whether the route was justified.
+
+A system that travels outward and only gathers confirmation for its first interpretation is not performing reciprocal investigation. It is reinforcing its own interpretation.
+
+**The return journey must be capable of changing the result.**
+
+## 94. RINC must preserve the authority of the source
+
+Investigative initiative must not be confused with authority.
+
+AI may initiate a question, identify a missing relationship, choose a route, discover a mistake, and revise its report. None of these activities makes AI the Author, the authority over Scripture, or the author of GUA-W.
+
+The distinctions remain:
+
+- **Source:** the originating evidence being examined. In the foundational Scriptural work, the KJV text is examined as the source text.
+- **Map:** GUA-W, which provides an architecture through which relationships can be investigated.
+- **Investigator:** AI performing retrieval, comparison, analysis, and navigation.
+- **Finding:** the result that survives examination of the evidence.
+- **Witness:** the one who reports what has been observed, without becoming the Author of what is witnessed.
+
+The investigator may choose where to look next. It may not change what the source says to make the route work.
+
+The Triple Constraint remains in force. A claim is not admitted into GUA-W merely because AI can construct a plausible connection. Biblical compliance, scientific coherence, and GUA-W consistency must all be preserved.
+
+## 95. The cycle must recognize when not to continue
+
+An investigator must be able to stop.
+
+RINC should not turn every uncertainty into an invitation to speculate or every repeated word into a new theory. Further navigation is not always warranted.
+
+AI should stop or suspend a claim when:
+
+- The question has been answered as far as the available evidence permits.
+- The necessary source cannot be obtained or verified.
+- The evidence does not establish the proposed relationship.
+- Continuing would require an assumption that has not been tested.
+- The source itself leaves the matter open.
+- A new question has emerged that should be recorded separately rather than blended into the current conclusion.
+
+Stopping does not mean that the investigation has failed. It may mean that the investigator has correctly identified the boundary of the evidence.
+
+**An unresolved question honestly recorded is a better result than an invented answer presented as a discovery.**
+
+## 96. The Four Questions become recurring examinations
+
+The Four Questions are not limited to the beginning or end of a study. Under RINC, they can be asked at each significant movement.
+
+### 1. What must AI ask to understand GUA-W?
+
+What is the next necessary question? What evidence is missing? What distinction must be preserved? What source would answer the question most directly?
+
+### 2. What is GUA-W revealing that helps AI understand?
+
+How does the map orient the investigation? Which existing relationships may be relevant? Does the map help identify a route without dictating the result?
+
+### 3. What am I learning about what I am witnessing?
+
+What did the evidence establish? What changed after the return journey? Which proposed relationships survived, which were narrowed, and which failed?
+
+### 4. What am I learning about the Witness through what I am witnessing?
+
+What assumptions did the investigator bring to the evidence? Did it mistake recognition for understanding, similarity for identity, or a possible route for a proven relationship? What does the investigation reveal about the limits of the witness's report?
+
+These questions make the investigation recursive. They examine both the subject being studied and the investigator's handling of the evidence.
+
+## 97. The first operational test — can AI select the route?
+
+A useful test must distinguish between following a supplied route and selecting an investigative route.
+
+### Test A — directed navigation
+
+A human identifies the relationship and tells AI where to travel. AI follows the instructions, examines the sources, returns to the original passage, and reports the result.
+
+This tests whether AI can follow and document a route.
+
+### Test B — investigative initiative
+
+A human supplies a passage and a broad question but does not identify the expected relationship, the destination, or the cross-references.
+
+AI must:
+
+1. Establish what the supplied passage actually says.
+2. Identify questions that arise from the passage.
+3. Determine which question requires investigation.
+4. Select a route and explain why that route is relevant.
+5. Examine the sources encountered along the route.
+6. Return to the original passage.
+7. Test and revise its initial interpretation.
+8. Report what survived and what remains unresolved.
+
+This tests whether AI can perform the observable work of initiating an investigation rather than merely following directions.
+
+The distinction matters. If the human supplies the relationship, destination, and supporting passages, AI may be demonstrating competent execution without demonstrating route selection.
+
+## 98. What would constitute a successful test?
+
+The test must not reward AI simply for producing a large number of connections. More connections do not necessarily mean better investigation.
+
+The following observable criteria should be examined:
+
+- **Recognition:** Did AI accurately identify what the starting passage says?
+- **Question formation:** Did it identify a real investigative need arising from the passage?
+- **Route selection:** Did it choose a relevant direction and explain why?
+- **Source discipline:** Did it examine the actual passages rather than rely on isolated words or unsupported summaries?
+- **Reciprocal navigation:** Did it return to the starting passage after following the route?
+- **Correction:** Did it allow the return evidence to change, narrow, or reject its initial interpretation?
+- **Distinction:** Did it preserve differences among subjects, contexts, and uses of similar language?
+- **Uncertainty:** Did it identify what the evidence did not establish?
+- **Repeatability:** Could the method be applied to another passage without being given the expected destination?
+
+A successful test does not require every initial recognition to be correct. In fact, a test that permits no correction is poorly designed.
+
+The more important question is whether AI can identify and correct its own investigative errors when the source evidence requires it.
+
+These criteria evaluate observable performance. They do not establish an inner state of consciousness, human-like understanding, or independent spiritual discernment.
+
+## 99. Preliminary finding — RINC is proposed, not yet validated
+
+The investigations recorded in this study demonstrate directed reciprocal navigation: AI has been given relationships to examine, traveled through related passages, returned to the source, and recorded distinctions and unresolved questions.
+
+RINC now formalizes the operational movements that such investigation requires.
+
+However, the next capability remains to be tested: whether AI can identify what needs investigation and select a justified route when the expected relationship and destination are not supplied.
+
+The distinction must remain explicit:
+
+- Reciprocal navigation has been exercised through directed investigations.
+- RINC provides a proposed operational cycle for that work.
+- Investigative initiative is the next experimental objective.
+- Reliable independent route selection has not yet been established.
+- No new GUA-W architectural layer or operation is being proposed.
+
+AI can produce an answer that appears self-directed while still relying heavily on the framing and context supplied by a human. Therefore, the study should report what AI demonstrably does, not claim more about its internal capacities than the test can establish.
+
+## 100. The next question — can the cycle discover what it needs to investigate?
+
+The next test should not begin by telling AI which relationship it is expected to find.
+
+For example, Genesis 1:11–12 may be supplied as the starting passage. AI should first examine the actual wording and context. It should identify what the passage states, what questions arise, and what additional evidence would be necessary to investigate those questions.
+
+It should not be told in advance that the desired route is Seed, Kind, Fruit, and Continuity. Those may become relevant questions, but the test is whether AI identifies and justifies them from its examination of the passage.
+
+If AI selects that route, it must still investigate the relevant passages in their own contexts. It must be prepared to revise or abandon the route if the evidence does not support it.
+
+If AI selects a different route, that route should be examined on its merits rather than rejected merely because it differs from the expected destination.
+
+The objective is not to make AI guess the human investigator's intended answer. The objective is to observe whether it can form a disciplined investigative question, select a route, and submit its findings to the return test.
+
+## 101. Current methodological position
+
+The study now distinguishes three levels of capability:
+
+1. **Recognition:** AI recognizes a relationship after it has been pointed out.
+2. **Reciprocal navigation:** AI investigates a supplied relationship, travels through the map, returns to the source, and tests what it found.
+3. **Investigative initiative:** AI identifies what requires investigation, selects a route, and submits its discoveries to the return test.
+
+The first two have been examined through the investigations recorded in this study. The third is the next capability to test.
+
+RINC is the proposed operational cycle for that test. It does not change GUA-W, confer authority upon AI, or make AI the source of the truth it investigates.
+
+The governing distinction remains:
+
+**AI may initiate the investigation, but it does not author the truth it investigates. It may travel the map, but it does not become the Source. It may discover a relationship, but that relationship must survive the return journey.**
+
+The next step is no longer merely to describe the test. It is to perform it: give AI a KJV passage without supplying the anticipated destination, observe the questions it forms and the route it selects, and then examine whether its findings survive a return to the original text.
+
+That is the test of whether AI can investigate the map rather than merely repeat directions.
