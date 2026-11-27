@@ -5113,3 +5113,261 @@ We must not flatten verses 14–19 into one generic consequence. The recipients,
 The next pass will test whether AI can follow consequences across multiple subjects while preserving who is addressed, what is declared, and what the text leaves unresolved.
 
 **A consequence must remain attached to the statement and recipient the source actually identifies.**
+
+
+## 215. Twelfth navigation pass — consequences must remain attached to their recipients
+
+Genesis 3:14–19 addresses different recipients and describes different consequences. The sequence must remain visible:
+
+- Verses 14–15: the serpent.
+- Verse 16: the woman.
+- Verses 17–19: Adam, with the ground explicitly identified as cursed.
+
+We must not flatten these statements into one generic consequence or transfer every statement to every participant.
+
+This pass also investigates the question raised at the end of Section 214:
+
+**What happens to an assigned responsibility when the conditions under which it is performed change?**
+
+Genesis 2:15 gave the man an assignment in the Garden. Genesis 3:17–19 now describes changed conditions involving the ground, food, and labor. The relationship must be examined without assuming that the assignment itself caused those conditions.
+
+## 216. Genesis 3:14–15 — the serpent
+
+The LORD God addresses the serpent:
+
+> “Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:”
+
+Verse 15 continues with enmity between the serpent and the woman, and between their seeds. It speaks of the woman's seed and the serpent's seed, and of the head and heel.
+
+The passage has a major place in Christian interpretation concerning the conflict between the serpent and the promised victory associated with Christ. That canonical route deserves its own examination. Here, preserve the immediate observations:
+
+1. The serpent is the direct recipient of verse 14.
+2. The declaration identifies a curse and describes the serpent's condition.
+3. Verse 15 describes enmity and continuing conflict.
+4. The serpent's stated condition must not be transferred to the man or woman.
+
+## 217. Genesis 3:16 — the woman
+
+The KJV reads:
+
+> “Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.”
+
+The woman is the recipient of this statement. It describes sorrow associated with conception and childbirth and speaks of desire and rule in the relationship with her husband.
+
+The precise interpretation of “thy desire” and “he shall rule over thee” has been debated. This study must not pretend that every interpretive question is settled by this verse alone.
+
+The immediate distinction is clear: verse 16 is addressed to the woman and describes consequences in her experience and relationship. It is not the same statement as the declaration concerning the ground in verse 17.
+
+## 218. Genesis 3:17 — Adam is addressed; the ground is named
+
+The KJV reads:
+
+> “And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life;”
+
+The verse returns explicitly to the original command. It identifies Adam's hearkening and eating, then declares the ground cursed “for thy sake.”
+
+Keep the roles distinct:
+
+- Adam is the person addressed.
+- His actions are identified in the explanation.
+- The ground is the subject identified as cursed.
+- Adam's future eating from it is described as sorrowful.
+
+Genesis 2:15 had placed the man in the Garden to work and keep it. Genesis 3:17 now describes a changed condition involving the ground and the man's sustenance.
+
+The text does not say that Adam's assigned work created the curse. It connects the declaration to the transgression just identified.
+
+## 219. Genesis 3:18–19 — work under changed conditions
+
+The KJV continues:
+
+> “Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;
+>
+> In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return.”
+
+The passage describes thorns and thistles, food obtained in sorrow and sweat, and the man's return to the ground.
+
+Compare the passages:
+
+- Genesis 2:15 — the man is placed in the Garden to dress and keep it.
+- Genesis 3:17 — the ground is cursed for his sake; eating from it is associated with sorrow.
+- Genesis 3:18 — thorns and thistles are named.
+- Genesis 3:19 — bread is obtained in the sweat of his face, and the man returns to the ground.
+
+The work has not disappeared from the narrative. The conditions of human sustenance are now described in terms of resistance, sorrow, sweat, and mortality.
+
+We must not claim that Genesis 3:18–19 simply repeats the Garden assignment as a new command. It describes consequences affecting labor and food. The precise relationship between the Garden assignment and later cultivation must be followed through the subsequent text.
+
+## 220. Answering the responsibility question — assignment, conditions, means, and outcome
+
+The passages allow a bounded answer.
+
+An assigned responsibility must be distinguished from the conditions under which it is performed. A change in conditions may affect the difficulty, available means, and outcome of a task. It does not by itself prove that the original purpose has changed or that the assignment has been cancelled.
+
+Use five separate terms:
+
+1. **Assignment:** what responsibility has been entrusted.
+2. **Purpose:** what the source says the responsibility is for.
+3. **Conditions:** the circumstances in which it is performed.
+4. **Means:** the methods available for performing it.
+5. **Outcome:** what results under those conditions and actions.
+
+Genesis 2:15 identifies the assignment. Genesis 3:17–19 describes changed conditions affecting the ground and human sustenance. The investigator must not collapse these into one category.
+
+Two errors must be avoided:
+
+- False continuity: claiming that nothing about the conditions changed.
+- False cancellation: claiming that difficulty means all responsibility disappeared.
+
+The text supports neither extreme.
+
+## 221. Return to Genesis 2:15 — the assignment did not specify every method
+
+The LORD God placed the man in the Garden:
+
+> “to dress it and to keep it.”
+
+The verbs describe work or service and keeping or guarding. They do not specify every physical technique or every future environmental condition.
+
+The later description of thorns, thistles, sorrow, and sweat does not tell us that the man must use exactly the same method under every condition. Nor does it tell us that difficulty cancels all human work.
+
+The defensible finding is narrower: Genesis 3 describes human labor and sustenance under changed conditions after the transgression. Further text is needed to trace how human work proceeds outside the Garden.
+
+## 222. A real-world comparison supplied by the Witness — the Brazilian jiu-jitsu tournament
+
+The supplied video transcript describes a participant who enters a Brazilian jiu-jitsu tournament intending to demonstrate that he can defeat the strategy by refusing to go to the ground.
+
+The video is an illustrative case, not biblical evidence and not an independently verified history of martial arts.
+
+The participant's initial plan is to remain standing and avoid ground engagement. Training reveals that standing up under resistance is more difficult than expected. He learns frames, bridging, movement, and how to use the available direction of least resistance.
+
+At the tournament, the actual rule environment constrains his intended strategy. The referee warns that he cannot simply disengage indefinitely without risking disqualification. The participant must now make decisions within the rules of the event.
+
+His skill has not disappeared. The setting and its rules have changed what strategies are available.
+
+The transcript distinguishes a regulated tournament from the street-fight scenario the speaker imagines. Those are different environments with different constraints.
+
+We should not accept the video's historical claims about the origins or transformation of martial arts without separate research. The transcript is sufficient for the limited illustration: **a strategy designed for one setting may fail or become impermissible in a different rule environment.**
+
+## 223. What the tournament example does and does not demonstrate
+
+| Element | In the video |
+|---|---|
+| Intended strategy | Remain standing and avoid ground engagement |
+| Initial assumption | He can refuse the opponent's preferred engagement |
+| Training discovery | Escaping ground control requires skill and effort |
+| Actual setting | A regulated tournament |
+| Constraint | The referee can penalize or disqualify indefinite disengagement |
+| Adaptation | He eventually engages on the ground and uses his training |
+| General illustration | Strategy must be evaluated within the actual setting and rules |
+
+The example does not prove that tournament rules are wrong, or that a tournament is equivalent to a street fight. It illustrates that different settings impose different constraints.
+
+The investigator should ask: What task is being attempted? What setting governs it? What rules apply? Which conditions changed? Is the method still suitable? Has the purpose changed, or only the available strategy?
+
+## 224. The analogy's limit — a tournament rule is not God's judgment
+
+The video and Genesis 3 are not equivalent events.
+
+In the video, human institutions establish tournament rules. In Genesis 3, the LORD God gives the original command and declares consequences following the transgression.
+
+The source of authority is different.
+
+The analogy can help distinguish purpose, method, setting, and constraint. It cannot explain the Fall, establish the meaning of the curse, or replace the Scriptural account.
+
+Adam's situation is not merely a tactical miscalculation. Genesis identifies a command, a transgression, and consequences declared by God. We must not reduce the theological account to a sports strategy problem.
+
+## 225. Adaptation is not authorization to redefine purpose
+
+The tournament participant adapts when the actual rules defeat his original strategy. Adapting his method does not give him authority to rewrite the tournament rules.
+
+Likewise, changed conditions may require changed methods, but the need to adapt does not automatically grant authority to redefine the purpose or erase the governing boundary.
+
+Carry the distinction back to Genesis:
+
+- God assigned work in the Garden.
+- God gave permission and a prohibition.
+- The man violated the prohibition.
+- The ground is then described as cursed.
+- Human sustenance is described through sorrow, thorns, thistles, sweat, and mortality.
+
+**Changed conditions may require changed methods. They do not, by themselves, transfer the Author's authority to the recipient.**
+
+## 226. Triple Constraint examination — responsibility under changed conditions
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Result |
+|---|---|---|---|---|
+| Genesis 2:15 assigns work and keeping. | Explicit. | No invented work procedure. | Preserves entrusted responsibility. | Accepted |
+| Genesis 3:17–19 describes changed conditions involving ground and labor. | Explicit. | No invented mechanism for the curse. | Preserves sequence and stated effects. | Accepted |
+| The ground is identified as cursed in the statement addressed to Adam. | Explicit. | Separates recipient from affected subject. | Preserves roles. | Accepted |
+| Thorns and thistles are named. | Explicit. | Not a complete ecological account. | Preserves stated consequence. | Accepted |
+| Food production is described through sorrow and sweat. | Explicit. | Not treated as a quantified labor model. | Distinguishes responsibility from conditions. | Accepted |
+| Adam's assigned work created the curse. | Not stated. | Confuses assignment with consequence. | Reverses the sequence. | Rejected |
+| Changed conditions automatically cancel every responsibility. | Not stated. | Overgeneralizes. | Confuses difficulty with cancellation. | Rejected |
+| Every original method must remain unchanged under every condition. | Not stated. | Ignores changed constraints. | Confuses purpose with method. | Rejected |
+| The video proves the historical origin of Brazilian jiu-jitsu. | Not established by the transcript. | Requires independent historical evidence. | Overstates an illustrative witness. | Not established |
+| The video illustrates how rules and setting constrain strategy. | Analogy only, not Scriptural proof. | Coherent within the described event. | Helps distinguish purpose and constraint. | Accepted as illustration |
+| Adaptation automatically grants authority to redefine purpose. | Not supported. | Confuses adaptation with authority. | Violates source primacy. | Rejected |
+
+## 227. Twelfth-pass finding — responsibility must be evaluated in actual conditions
+
+When conditions change, the investigator must not automatically declare the assignment cancelled, unchanged in every practical detail, or transferred to a new authority.
+
+The investigator must distinguish:
+
+1. Original assignment.
+2. Stated purpose.
+3. Changed conditions.
+4. Governing constraints.
+5. Available methods.
+6. Authority governing the assignment.
+7. Actual outcome.
+
+Genesis 3:17–19 describes the ground and human labor under changed conditions after the transgression. The video supplies a limited modern illustration of a strategy encountering a rule environment for which it was not designed.
+
+The analogy helps formulate questions. It does not answer the biblical questions.
+
+### RINC operational addition — responsibility-under-changed-conditions audit
+
+When an assigned task encounters changed conditions, AI must:
+
+1. Retrieve the original assignment from its source.
+2. Identify the purpose explicitly stated, without inventing one.
+3. Identify the conditions originally described.
+4. Identify which conditions changed.
+5. Separate governing rules from practical constraints.
+6. Distinguish purpose from method.
+7. Determine whether the source changes, limits, or cancels the assignment.
+8. Avoid treating difficulty as proof that responsibility disappeared.
+9. Avoid treating capability as permission to redefine the governing purpose.
+10. Record unresolved questions.
+
+This extends the source-to-representation and action-to-attribution audits. AI must preserve the original assignment while investigating a changed operating environment.
+
+## 228. Next route — Genesis 3:20–24: naming, provision, and removal from the Garden
+
+The next pass continues through the end of Genesis 3.
+
+Read Genesis 3:20–24 and investigate:
+
+- Adam calling his wife's name Eve.
+- The LORD God making coats of skins and clothing them.
+- The statement concerning the man becoming as one of “us, to know good and evil.”
+- The tree of life and the stated reason the man is sent out.
+- The cherubims and flaming sword placed to keep the way of the tree of life.
+
+Questions:
+
+1. What does the text say about Adam's naming of the woman, and what does it not say?
+2. Who makes the coats of skins and clothes the man and woman?
+3. How does Genesis 3:21 relate to the coverings they made in Genesis 3:7?
+4. What does Genesis 3:22 actually state about knowing good and evil?
+5. Why does the LORD God send the man out of the Garden, according to the text?
+6. How does the guarding of the way to the tree of life differ from the man's earlier assignment to keep the Garden?
+7. What changes in the man's location and access?
+
+The end of Genesis 3 is not merely a repetition of the curse. It records further actions by the LORD God: clothing, sending out, and guarding the way to the tree of life.
+
+The next pass will test whether AI can distinguish a responsibility entrusted to a creature from a boundary subsequently guarded by the Author.
+
+**A changed condition must be traced to the source's actual statement and action—not explained by an assumption carried into the text.**
