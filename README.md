@@ -58,7 +58,7 @@ They are questions for examination and reflection, not additional stages in the 
 ## Repository map
 
 - `GUIDES/` — repository orientation, research method, source/evidence, study format, and Author Alignment Principle.
-- `STUDIES/` — the numbered research investigations. The current index records Studies 0001–0050.
+- `STUDIES/` — the numbered research investigations. The current index records Studies 0001–0051.
 - `SCRIPTURE-PLACEMENT/` — a separate, reset Scripture-placement series with its own protocol and position register. It begins at Genesis 1:1 (KJV); no placement is complete yet.
 - `HANDOFFS/` — dated historical records preserving session state. A handoff records what happened; it does not override current protocols or authoritative GUA-W sources.
 
@@ -66,6 +66,6 @@ They are questions for examination and reflection, not additional stages in the 
 
 A study should make its question and scope clear, identify its sources, distinguish evidence from interpretation, record relevant counter-evidence or limitations, and state what remains unresolved. A handoff is a historical snapshot, not a new authority over GUA-W. Where a later protocol resets or supersedes an earlier workflow, the earlier handoff is retained for provenance and must be read as historical, not operative instruction.
 
-## Status — 2026-11-26
+## Status — 2026-11-27
 
 The repository is active. Studies 0001–0050 are indexed. The separate Scripture Placement study is maintained under `SCRIPTURE-PLACEMENT/README.md`. It begins with Genesis 1:1 (KJV). Placement 0001 records the companion passages identified in the relevant GUA-W Genesis 1 sources; Placement 0002 examines those passages and records further source-supported relationships; Placement 0003 examines John 1:14 in the context of John 1:1–18; Placement 0004 examines John 14:6 in the context of John 14:1–11. The study's review scope is the current Scripture Placement study itself, not the entire AI or GUA-W repository. Historical Scripture Placement handoffs remain preserved in `HANDOFFS/` as historical records; they are not the current study.
