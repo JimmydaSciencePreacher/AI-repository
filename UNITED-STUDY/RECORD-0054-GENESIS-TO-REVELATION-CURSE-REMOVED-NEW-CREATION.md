@@ -25,6 +25,8 @@ A second question remains alongside it:
 
 The study preserves the Witness's proposed distinction: the transgression changed the condition of the Physical Creation, but the Spiritual Creation itself was not shown to have been corrupted. A creature's changed spiritual or relational condition is not identical to a change in the Spiritual Creation.
 
+**HUMAN-FORMATION CLARIFICATION:** This distinction must not imply that the Bible describes man as a disembodied spiritual being who was subsequently given a physical body. Genesis 2:7 describes the LORD God forming man from the dust of the ground, breathing into his nostrils the breath of life, and the man becoming a living soul. The phrase “Spiritual Creation” here is an analytical category under examination, not a substitute for that explicit account of the human creature's formation.
+
 The purpose is not to force Revelation into a simple reversal chart. The text uses language of passing away, newness, the removal of the curse, God's dwelling with His people, and the river and tree of life. Each must be examined on its own terms.
 
 ## 2. The two ends of the biblical account
