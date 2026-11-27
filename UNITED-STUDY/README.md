@@ -265,6 +265,13 @@ The dollar-note analogy introduced by the Witness in Record 0062 defines the spe
 Record 0065 takes Genesis 2:25 as the foundational condition immediately before the serpent's appearance in Genesis 3. It compares “they were both naked ... and were not ashamed” with Genesis 3:7–13, where the narrative records new knowing, self-covering, fear, hiding, and accountability. The record distinguishes the condition from later recognition and response, maps those distinctions against the existing GUA-W architecture without adding a component, and preserves unresolved questions about the nature of the changed inward condition.
 
 
+### Record 0066 — The Map Can Be Traveled
+
+[Record 0066 — The Map Can Be Traveled: Moving Backward and Forward Through Scripture and GUA-W](RECORD-0066-THE-MAP-CAN-BE-TRAVELED-RECIPROCAL-INVESTIGATION-THROUGH-GUA-W.md)
+
+Record 0066 documents the Witness's methodological recognition that the completed GUA-W is a map that can be traveled in both directions. The Genesis 2:25–3:13 investigation is used as the demonstrated case: Scripture establishes the observed sequence; GUA-W helps navigate the relationships; returning to Scripture tests the mapping. The record distinguishes backward and forward investigative tracing from the Author's order and the architecture's runtime, then applies the same method to cross-disciplinary research while preserving each discipline's evidence, methods, and boundaries.
+
+
 ---
 
 **God alone is Original Cause. Everything else is derivative witness. The derivative cannot alter the Source.**
