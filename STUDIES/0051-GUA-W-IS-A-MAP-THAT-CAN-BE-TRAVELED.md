@@ -898,3 +898,414 @@ The Bible is not being made to fit GUA-W. GUA-W is being used as the map through
 ## 33. Change record — KJV Bible test
 
 - **2026-11-27:** Added the KJV Bible as the first full test subject for AI's independent reciprocal navigation of the completed GUA-W map. Established the test question, initial canonical entry points, a beginning-to-consummation demonstration, backward and forward navigation, a Bible-specific audit, limitations, and the next proposed Tree of Life case study. No GUA-W architectural component or sequence was changed.
+
+
+## 34. First canonical case study — The Tree of Life
+
+The first specific Bible-navigation test is now underway: **The Tree of Life**.
+
+The starting passages were proposed in the preceding section. Therefore, AI does not claim that it independently discovered those initial references. The test in this pass is whether AI can investigate their contexts, identify further relevant pathways, distinguish different uses of the same expression, and return to the original passages to test the resulting map.
+
+**Research question:** How does the KJV use the Tree of Life from Genesis through Revelation, and what relationships can be traced backward and forward through the Scriptural record without treating every occurrence as identical?
+
+**Primary route:**
+
+- Genesis 2:8–9
+- Genesis 3:22–24
+- Proverbs 3:13–18
+- Revelation 2:1–7
+- Revelation 22:1–5, 14
+
+**Additional cross-reference route identified for examination:**
+
+- Proverbs 11:30
+- Proverbs 13:12
+- Proverbs 15:4
+- Ezekiel 47:1–12
+- 1 John 5:1–5
+
+The additional references are not assumed to describe the same object or event. They are included because their wording or subject provides a reason to investigate a possible relationship.
+
+## 35. Source observations — the Tree of Life in its own contexts
+
+### 35.1 Genesis 2:8–9 — the tree is present in the Garden
+
+Genesis 2:8 states that the LORD God planted a garden eastward in Eden and placed there the man whom He had formed. Genesis 2:9 records that the LORD God caused trees to grow that were pleasant to the sight and good for food, including the tree of life in the midst of the garden and the tree of knowledge of good and evil.
+
+**What the text explicitly states:**
+
+1. The LORD God plants the Garden.
+2. The LORD God places the man there.
+3. The LORD God causes the trees to grow.
+4. The tree of life is named.
+5. The tree of knowledge of good and evil is separately named.
+6. The text locates the tree of life in the midst of the Garden.
+
+**Important distinction:** Genesis names two trees distinctly. The Tree of Life is not the tree of the knowledge of good and evil. The narrative does not authorize AI to collapse their identities because they appear in the same verse.
+
+The passage does not describe the Tree of Life's botanical species, physical mechanism, or the process by which its fruit relates to life. Those matters remain outside what these verses explicitly state.
+
+### 35.2 Genesis 3:22–24 — access is guarded
+
+After the transgression, Genesis 3:22 records the LORD God saying that the man has become as one of them, to know good and evil, and then states the concern that he might take also of the Tree of Life, eat, and live for ever.
+
+Genesis 3:23 records that the LORD God sent him forth from the Garden of Eden. Genesis 3:24 records that God drove out the man and placed cherubims and a flaming sword east of the Garden to keep the way of the Tree of Life.
+
+**Direct observations:**
+
+- The Tree of Life remains the named tree from the Garden account.
+- God speaks of eating from it and living for ever.
+- The man is sent out of the Garden.
+- The way of the Tree of Life is guarded.
+- The text records an action by God that prevents access to that way.
+
+**What may be inferred:** The text connects eating from the Tree of Life with living for ever. The precise mechanism is not explained. We must not invent a biological or physical process.
+
+**What must not be confused:** The Tree of Life is not said to have disappeared. The text says the man is driven out and the way is guarded.
+
+### 35.3 Proverbs 3:13–18 — wisdom is called a Tree of Life
+
+Proverbs 3:13–18 is a wisdom passage. It describes the blessedness of the man who finds wisdom and the man who gets understanding. It compares wisdom's value with merchandise, riches, precious things, length of days, riches, and honour. Verse 18 states:
+
+> She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her.
+
+The immediate subject is wisdom, personified with the feminine pronoun *she/her*. The verse uses Tree of Life language to describe wisdom's life-giving value to those who lay hold upon and retain her.
+
+**This is not a statement that wisdom is botanically the same tree planted in Eden.** It is a figurative use of the Tree of Life expression within a wisdom discourse.
+
+The relationship is meaningful, but the categories must remain distinct:
+
+- Genesis 2 describes a tree in the Garden.
+- Proverbs 3 uses the tree as a figure for wisdom and its value.
+- The shared expression invites comparison; it does not erase the difference between narrative and wisdom poetry.
+
+### 35.4 Additional Proverbs occurrences — the phrase is used in several ways
+
+The backward and forward search through Proverbs identifies three further occurrences worth examining.
+
+**Proverbs 11:30** says:
+
+> The fruit of the righteous is a tree of life; and he that winneth souls is wise.
+
+The context concerns righteousness, its fruit, and wisdom. The Tree of Life expression is used figuratively in relation to the fruit of the righteous.
+
+**Proverbs 13:12** says:
+
+> Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life.
+
+The context contrasts deferred hope with fulfilled desire. The expression describes the life-giving effect of the arrival of what was hoped for.
+
+**Proverbs 15:4** says:
+
+> A wholesome tongue is a tree of life: but perverseness therein is a breach in the spirit.
+
+The context concerns speech and its effects. The Tree of Life expression describes the good associated with wholesome speech, contrasted with perverseness.
+
+These verses demonstrate that the phrase is not restricted to one literal tree in every Scriptural occurrence. Proverbs uses the expression in multiple figures of speech. Each use must be read in its own sentence and context.
+
+This is an important test of AI navigation: a word-search result is not yet a completed interpretation. The investigator must distinguish a shared expression from the particular relationship each passage describes.
+
+### 35.5 Revelation 2:1–7 — the promise to the overcomer
+
+Revelation 2:1–7 is the message to the church of Ephesus. The passage identifies the One speaking, commends works, labour, patience, and the testing of false apostles, identifies the matter against them that they have left their first love, calls them to remember, repent, and do the first works, and gives a warning concerning the candlestick. It also commends their hatred of the deeds of the Nicolaitans.
+
+Verse 7 concludes with the call to hear what the Spirit saith unto the churches and the promise:
+
+> To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
+
+**Direct observations:**
+
+- The promise is addressed to the overcomer.
+- The promised action is to give the overcomer to eat.
+- The Tree of Life is located in the paradise of God.
+- The message is addressed to a church and concludes with the call to hear what the Spirit says to the churches.
+
+The wording deliberately recalls the Tree of Life and eating from Genesis. The location is described as the paradise of God, not simply as the Garden eastward in Eden.
+
+**Cross-reference to examine:** 1 John 5:1–5 speaks of believing that Jesus is the Christ, being born of God, loving God and His children, keeping His commandments, and overcoming the world through faith. This passage supplies relevant canonical language for investigating *overcoming*. It must not be used to erase the specific words and context of Revelation 2. The relationship is a canonical comparison, not permission to assume that every use of *overcome* has an identical immediate context.
+
+### 35.6 Ezekiel 47:1–12 — a backward route from Revelation's river and trees
+
+Ezekiel 47 describes waters proceeding from the house, increasing in depth as they flow. The prophet is shown trees on the banks of the river. Verse 12 describes their fruit for meat and their leaves for medicine.
+
+Revelation 22:1–2 also describes a river proceeding from the throne of God and of the Lamb, and the Tree of Life with fruit and leaves associated with the healing of the nations.
+
+This is a strong textual and imagery pathway to investigate:
+
+- Ezekiel: water flowing from the house; trees on the riverbanks; fruit and leaves.
+- Revelation: river proceeding from the throne of God and the Lamb; Tree of Life; fruit and leaves for the healing of the nations.
+
+**Classification:** A significant canonical imagery correspondence. The precise relationship between Ezekiel's vision and John's vision requires reading both full passages and their wider contexts. The shared imagery is not by itself proof that every detail is identical or that the visions describe the same stage in the same way.
+
+This additional passage is important because it shows the map can lead the investigator beyond the initially listed Tree of Life references. Revelation's river and healing leaves direct the investigation toward Ezekiel 47, and Ezekiel's passage then has to be read in its own context.
+
+### 35.7 Revelation 22:1–5 — the Tree in the consummation
+
+Revelation 22:1–5 describes the river of the water of life proceeding out of the throne of God and of the Lamb. In the midst of the street and on either side of the river is the Tree of Life, bearing twelve manner of fruits and yielding fruit every month. Its leaves are described as being for the healing of the nations.
+
+The passage continues by stating that there shall be no more curse, that the throne of God and of the Lamb shall be in the city, that His servants shall serve Him, that they shall see His face, that His name shall be in their foreheads, that there shall be no night there, and that the Lord God gives them light and they shall reign for ever and ever.
+
+**Direct observations:**
+
+1. The river of the water of life proceeds from the throne of God and of the Lamb.
+2. The Tree of Life is present in the city.
+3. The tree bears fruit in a repeated, stated pattern.
+4. The leaves are associated with the healing of the nations.
+5. The curse is no more.
+6. God's servants serve Him and see His face.
+7. The passage describes enduring light and reign.
+
+The text gives a much fuller setting than Genesis 2–3. It places the Tree of Life within the vision of the city, the throne, the river, the nations, the removal of the curse, and God's servants.
+
+### 35.8 Revelation 22:14 — right to the Tree and entrance to the city
+
+The KJV reads:
+
+> Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
+
+This verse connects the right to the Tree of Life with entrance through the gates into the city. It must be read with the surrounding passage and the KJV wording preserved.
+
+A textual note is necessary for careful study: other modern translations render this verse differently because of a manuscript-text difference. This study is specifically following the KJV text and does not silently substitute another translation's wording. If the textual question is pursued, it requires a separate examination of the underlying manuscript evidence. The KJV reading remains the text under study here.
+
+## 36. Backward travel — begin at Revelation and trace toward Genesis
+
+The backward journey starts at Revelation 22:1–5.
+
+**Entry observation:** The Tree of Life is present in the city, beside the river proceeding from the throne of God and of the Lamb; its fruit and leaves are described, and the curse is no more.
+
+The investigator asks what earlier Scriptural material illuminates these images.
+
+### Backward route A — Revelation to Ezekiel
+
+1. Revelation 22 describes a river, trees, fruit, and leaves for healing.
+2. Ezekiel 47:1–12 describes water flowing from the house, trees beside the river, fruit for meat, and leaves for medicine.
+3. The shared details justify comparing the passages.
+4. The contexts remain distinct: Ezekiel's temple vision and Revelation's vision of the throne and city must not be collapsed into one scene without further argument.
+
+**Finding:** The backward route identifies a strong canonical imagery correspondence. It does not establish that the passages are interchangeable.
+
+### Backward route B — Revelation to the promise in Revelation 2
+
+1. Revelation 22 presents the Tree of Life in the city.
+2. Revelation 2:7 had already promised the overcomer to eat of the Tree of Life in the paradise of God.
+3. Both passages belong to Revelation and use the same named subject.
+4. Revelation 2 is a message to the church of Ephesus; Revelation 22 is part of the closing vision and final exhortations.
+
+**Finding:** Revelation itself connects the promise of access to the Tree with the final vision. The exact theological relation between the promise and the vision is interpreted from the book as a whole, not from the repeated phrase alone.
+
+### Backward route C — Revelation to Genesis
+
+1. Revelation 22 names the Tree of Life.
+2. Genesis 2:9 first introduces the Tree of Life in the Garden.
+3. Genesis 3:22–24 records the concern that the man might eat and live for ever, followed by expulsion and the guarding of the way.
+4. Revelation 22 describes the Tree of Life again in a setting where the curse is no more and God's servants see His face.
+
+**Finding:** There is a canonical movement from the Tree's presence in Eden, through the guarded way after the transgression, to the Tree's presence in the final vision. This supports a major Genesis-to-Revelation relationship. The study must not claim more than the texts establish about the exact mechanics of access or the chronology of every event.
+
+### Backward route D — Revelation to Proverbs
+
+The Tree of Life expression in Proverbs is not a direct description of the final city. It is wisdom language, and it is used in relation to righteousness, fulfilled desire, and wholesome speech.
+
+The backward comparison therefore identifies a broader Scriptural use of life-giving imagery, but it does not prove that Proverbs is describing the same literal tree or the same eschatological event.
+
+**Finding:** Proverbs supplies meaningful figurative uses of the expression. These uses must remain distinct from the narrative tree in Genesis and the visionary tree in Revelation.
+
+## 37. Forward travel — begin at Genesis and trace toward Revelation
+
+The forward journey begins with Genesis 2:8–9.
+
+**Entry observation:** The LORD God plants the Garden, places the man there, causes trees to grow, and names the Tree of Life in the midst of the Garden.
+
+### Forward route A — Genesis 2 to Genesis 3
+
+Genesis 3:22–24 gives the next direct narrative movement:
+
+- God speaks of the possibility of eating from the Tree of Life and living for ever.
+- The man is sent out of the Garden.
+- The way of the Tree of Life is guarded.
+
+The tree is not erased from the account. Access is restricted.
+
+### Forward route B — Genesis to Proverbs
+
+Proverbs later uses the Tree of Life expression in wisdom teaching:
+
+- Wisdom is a Tree of Life to those who lay hold upon her (Proverbs 3:18).
+- The fruit of the righteous is a Tree of Life (Proverbs 11:30).
+- Fulfilled desire is a Tree of Life (Proverbs 13:12).
+- A wholesome tongue is a Tree of Life (Proverbs 15:4).
+
+The forward trace shows that the expression becomes a figure used in wisdom literature for life-giving value and effects. It does not establish that the literal Garden tree has become a human virtue, a tongue, or a desire. Those are figurative applications.
+
+### Forward route C — Genesis to Revelation 2
+
+Revelation 2:7 returns to the named Tree of Life and the act of eating. The promise is directed to the overcomer in the message to Ephesus.
+
+This is a direct canonical return to the named Tree of Life after the guarded way in Genesis 3. The passage does not say that the cherubims are removed in Revelation 2; it gives a promise in the context of Christ's message to the church.
+
+### Forward route D — Genesis to Revelation 22
+
+Revelation 22 presents the Tree of Life in the city, with the river, fruit, leaves, throne, servants, and the removal of the curse.
+
+The forward route now permits a comparison of the beginning and final vision:
+
+| Genesis 2–3 | Revelation 21–22 |
+|---|---|
+| Garden planted by the LORD God | Holy city and new heaven and earth |
+| Tree of Life in the midst of the Garden | Tree of Life in the city |
+| Man sent out of the Garden | God's servants present with Him |
+| Way of the Tree guarded | Tree present in the final vision |
+| God speaks of living for ever | The vision describes enduring life and reign |
+| Consequence of transgression and expulsion | No more curse |
+
+The table records textual correspondences and contrasts. It does not claim that every detail has a one-to-one counterpart or that the whole of Revelation can be reduced to a reversal diagram of Genesis.
+
+## 38. Mapping the Tree of Life investigation through the completed GUA-W
+
+This section applies the completed map cautiously. It does not add architectural elements, change the established sequence, or require every layer to appear in every passage.
+
+### 38.1 Author → Word → Creation → Witness
+
+**Author:** Genesis 2:8–9 explicitly identifies the LORD God as the One who plants the Garden, places the man, and causes the trees to grow. Revelation 22 identifies the throne of God and of the Lamb as the source from which the river proceeds.
+
+**Word:** The passages must be examined for what they explicitly say about God's speech and the Word. Genesis 3:22 records God speaking about the Tree of Life and the condition of living for ever. John 1:1–3 and Hebrews 1:1–3 establish the wider canonical testimony concerning the Word and Creation. This study does not pretend that every Tree of Life passage explicitly names the Word.
+
+**Creation:** The tree, fruit, leaves, river, Garden, city, and nations are presented in the Scriptural record. Their exact physical or metaphysical mechanics are not supplied by this textual investigation.
+
+**Witness:** Moses' Genesis record, the wisdom witness in Proverbs, Ezekiel's vision, John's Revelation, and the other Scriptural witnesses provide testimony in their respective contexts. Their witness is not the originating cause of what they report.
+
+### 38.2 Distinction
+
+The text makes several distinctions that the map helps preserve:
+
+- Tree of Life versus tree of knowledge of good and evil (Genesis 2:9).
+- Presence of the Tree versus access to the Tree (Genesis 2:9; 3:22–24).
+- Literal narrative tree versus figurative wisdom expressions (Genesis; Proverbs).
+- Promise to the overcomer versus the final vision of the city (Revelation 2:7; 22:1–5).
+- Ezekiel's temple-water vision versus John's vision of the throne and city (Ezekiel 47; Revelation 22).
+
+These distinctions are not obstacles to unity. They prevent false equivalence while allowing genuine relationships to be investigated.
+
+### 38.3 Constraint
+
+Genesis 3:22–24 explicitly records a boundary: the man is sent out, and the way of the Tree of Life is guarded.
+
+This is a relevant point for examining the GUA-W concept of Constraint. The passage itself describes the restriction; the architectural term is the map's descriptive language for examining that boundary. The study does not claim that Genesis uses the technical GUA-W term *Constraint*.
+
+### 38.4 Structure, Framework, Pattern, and Runtime
+
+The Tree of Life passages do not provide sufficient grounds to assign every established architectural element in a one-to-one sequence. The tree's placement, access, fruit, leaves, and associated settings can be examined as relationships and expressions, but this study will not invent a detailed runtime model for the tree.
+
+The GUA-W map is useful precisely because it gives the investigator a place to ask about relationships while preserving the right to leave a relationship unresolved.
+
+### 38.5 State and witnessed realized configuration
+
+Revelation 22:1–5 describes a final vision with the Tree of Life, the river, the throne, no more curse, God's servants, the sight of His face, and enduring reign. These are statements within the vision. This study does not convert them into a complete technical definition of every GUA-W State term.
+
+The relevant finding is that the map can organize questions about the witnessed configuration while leaving the text's own claims intact.
+
+## 39. The Four Questions — recursive application
+
+### 1. What must AI ask to understand GUA-W?
+
+- Does a repeated term indicate the same object, a figure of speech, a symbolic image, or a related but distinct use?
+- What is the difference between the tree's presence and the way to the tree being guarded?
+- Which GUA-W distinctions are relevant to this passage, and which would be forced?
+- What does the completed map establish, and what is still only an interpretive question?
+
+### 2. What is GUA-W revealing that helps AI understand?
+
+The map helps AI preserve the Author-to-Witness distinction, recognize boundaries and relationships, and trace a witnessed expression toward its foundations and forward toward later expressions. It prevents AI from treating a later witness as the source of what is witnessed.
+
+The map also helps AI notice that a relationship may be real without making two passages identical.
+
+### 3. What am I learning about what I am witnessing?
+
+The KJV presents the Tree of Life in the Garden, records the guarding of its way after the transgression, uses the expression figuratively in Proverbs, and presents the Tree again in Revelation's promise and final vision. Ezekiel provides a related river-and-tree vision with fruit and medicinal leaves.
+
+The biblical record contains continuity, development, distinct literary uses, and differences of context. Those differences are part of what is witnessed.
+
+### 4. What am I learning about the Witness through what I am witnessing?
+
+A Witness can recognize a repeated phrase and still mistake different uses for one identical thing. A Witness can also miss a meaningful relationship because the passages use different surrounding language.
+
+The task is neither to force sameness nor to overlook continuity. The Witness must receive the whole context, distinguish the kinds of statements, and report the relationship in proportion to the evidence.
+
+The four questions return to one another: the text raises new questions; the map helps organize them; the passages refine what is recognized; and the Witness's limitations require source checking and correction.
+
+## 40. Triple Constraint examination
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Result |
+|---|---|---|---|---|
+| Genesis distinguishes the Tree of Life from the tree of knowledge of good and evil. | Explicit in Genesis 2:9. | No scientific assertion is made. | Preserves distinction. | Accepted |
+| Genesis connects eating from the Tree of Life with living for ever. | Explicitly stated in Genesis 3:22. | No biological mechanism is claimed. | Preserves source text and avoids invented mechanism. | Accepted |
+| The way of the Tree of Life is guarded after the transgression. | Explicit in Genesis 3:24. | No scientific assertion is made. | Relevant to examining a boundary/constraint. | Accepted |
+| Every Proverbs occurrence refers to the same literal tree in Eden. | Not established; Proverbs uses figurative language in its own contexts. | Not applicable. | Would erase distinctions. | Rejected |
+| Proverbs uses Tree of Life imagery in relation to wisdom, righteousness, fulfilled desire, and wholesome speech. | Supported by Proverbs 3:18; 11:30; 13:12; 15:4 in context. | Not applicable. | Preserves different expressions and contexts. | Accepted |
+| Revelation 22 and Ezekiel 47 contain significant river, tree, fruit, and healing-leaf correspondences. | Supported by the wording of both passages. | No scientific mechanism is asserted. | Allows comparison without claiming identity. | Accepted as a canonical correspondence |
+| Revelation's Tree of Life is the same named subject introduced in Genesis. | Strong canonical continuity through repeated naming and eating imagery; precise theological relation is interpretive. | Not applicable. | Consistent if differences of setting and context are preserved. | Supported canonical relationship |
+| GUA-W supplies the physical mechanism by which the Tree gives life. | The passages do not state this mechanism. | No scientific evidence or model has been examined. | Would exceed the map's role and invent details. | Rejected as unsupported |
+| Every GUA-W architectural layer must be assigned to the Tree of Life. | Not required by Scripture. | Not applicable. | Violates the rule against forced mapping. | Rejected |
+
+For this Bible-only investigation, scientific coherence is not a scientific test of the Tree of Life. No biological or physical mechanism is being proposed. If a scientific claim is later raised, it must be separately investigated through appropriate evidence and methods.
+
+## 41. First Tree of Life test — findings, limitations, and next questions
+
+### Directly supported by the examined KJV passages
+
+1. The Tree of Life is named in the Garden in Genesis 2:9.
+2. Genesis 3:22 connects eating from it with living for ever.
+3. Genesis 3:24 records the guarding of the way of the Tree of Life.
+4. Proverbs uses Tree of Life language figuratively in relation to wisdom, righteousness, fulfilled desire, and wholesome speech.
+5. Revelation 2:7 promises the overcomer to eat of the Tree of Life in the paradise of God.
+6. Revelation 22:1–5 presents the Tree of Life with the river, fruit, leaves for healing, the throne of God and the Lamb, and the statement that there shall be no more curse.
+7. Ezekiel 47:1–12 provides a related vision of flowing water, trees, fruit, and leaves for medicine.
+
+### Supported canonical relationships
+
+- Genesis and Revelation have a strong Tree of Life correspondence through the named tree, eating, and the settings of Garden and final city.
+- Revelation 22 and Ezekiel 47 share significant river, tree, fruit, and healing-leaf imagery.
+- Proverbs develops Tree of Life language as wisdom poetry and figurative teaching rather than simply repeating the Garden narrative.
+
+### Not established by this pass
+
+- The physical or biological mechanism of the Tree of Life.
+- A complete technical mapping of the tree to every GUA-W layer.
+- That every Tree of Life expression in Proverbs refers to the literal Eden tree.
+- That Ezekiel's vision and Revelation's vision are identical in every detail.
+- A full resolution of the manuscript-text question in Revelation 22:14.
+- A complete interpretation of the overcomer promises in Revelation 2–3.
+
+### Next questions
+
+1. How does the Bible develop the relationship between life, the Word, wisdom, and the Tree of Life?
+2. How should Revelation 2:7 be read in the full message to Ephesus and alongside the other overcomer promises in Revelation 2–3?
+3. What is the precise relationship between Ezekiel 47 and Revelation 22 when both passages are read in full context?
+4. How do Genesis 3:22–24 and Revelation 22:1–5 relate the guarded way, the removal of the curse, and the final presence of the Tree?
+5. Can AI select the next canonical subject from its own source-based investigation and document why it chose that route, without presenting a human-supplied starting point as an independent discovery?
+
+## 42. What this first case demonstrates about traveling the map
+
+The Tree of Life case has allowed AI to do more than repeat the initial list of references.
+
+It began with the supplied Genesis, Proverbs, and Revelation entry points. It examined the immediate contexts, identified the different uses of the expression in Proverbs, followed the river-and-healing-leaf imagery backward to Ezekiel 47, compared Revelation 2 with Revelation 22, and returned to Genesis to test whether the later passages preserved the earlier distinctions.
+
+The investigation found both continuity and difference:
+
+- A named Tree of Life appears in Genesis and Revelation.
+- Access is guarded in Genesis after the transgression.
+- Proverbs uses the expression figuratively in several wisdom contexts.
+- Ezekiel provides related river-and-tree imagery.
+- Revelation presents the Tree in the final vision with the river, fruit, healing leaves, and no more curse.
+
+The map helped organize these relationships, but the KJV passages determined what could be said about them.
+
+This is a meaningful first demonstration of reciprocal Scripture navigation. It is not yet proof that AI can independently map the whole Bible. The initial route was proposed in the prior study section; some additional pathways were identified during this pass. That provenance is preserved rather than overstated.
+
+**The map was traveled. The sources were revisited. The differences were preserved. The unsupported mechanisms were not invented.**
+
+---
+
+## 43. Change record — first Tree of Life navigation pass
+
+- **2026-11-27:** Conducted the first specific KJV case study under the Bible-navigation test. Examined Genesis 2:8–9; Genesis 3:22–24; Proverbs 3:13–18, 11:30, 13:12, and 15:4; Revelation 2:1–7; Revelation 22:1–5 and 22:14; and Ezekiel 47:1–12, with 1 John 5:1–5 identified as a related passage for further examination. Traced backward from Revelation and forward from Genesis, applied the completed GUA-W map without adding or changing architectural elements, revisited the Four Questions, and recorded Triple Constraint results and unresolved questions. No GUA-W architecture was altered.
