@@ -254,13 +254,13 @@ Nitrogen entering a watershed may be:
 
 A nitrogen budget compares inputs and outputs across a defined boundary and time period. The difference is a net accumulation or net loss only if the budget includes the relevant pathways and uncertainties.
 
-At Shale Hills, the 2018 watershed synthesis reports that the catchment remained a net nitrogen sink despite a history of elevated atmospheric deposition. It reports that more than half of inputs were retained, while gaseous losses from the soil surface appeared to be a much larger output than stream export.
+At Shale Hills, the 2018 watershed synthesis reports that the catchment remained a net nitrogen sink despite a history of elevated atmospheric deposition. Its compiled budget estimated that more than half of total inputs were retained. The synthesis also states that estimated gaseous losses were about twenty times stream exports.
+
+A necessary source comparison qualifies that ratio. The primary Weitzman and Kaye (2018) paper reports that measured N2O fluxes were about 19% of total ecosystem nitrogen losses and nearly twice stream nitrogen export. It separately estimates other gaseous losses, including N2, using literature-derived ratios. The broader 2018 watershed synthesis reports a different aggregate gaseous-to-stream comparison. These figures are not interchangeable: they refer to different budget constructions and combinations of measured and estimated terms.
 
 Weitzman and Kaye (2018) investigated soil N2O fluxes along topographic gradients and measured associated variables including soil CO2, soil O2, nitrate in pore water, and nitrogen cycling indicators. Their work examined how topography and hydrology influence conditions associated with N2O production and release.
 
-The synthesis reports that gaseous nitrogen losses were approximately twenty times stream nitrogen export in its compiled budget. This is a study-specific budget result, not a universal ratio for forests or watersheds.
-
-**Limit:** The budget combines measurements, estimates, and literature-based relationships. The source explicitly notes differences in temporal and spatial coverage. The result must retain its stated scope and uncertainty.
+**Limit:** The watershed budget combines measurements, estimates, and literature-based relationships. The primary paper and later synthesis report different comparisons for gaseous losses versus stream export. Preserve each figure with its own source and accounting definition; do not compress them into one settled ratio or generalize them to other watersheds.
 
 Sources: Shale Hills watershed synthesis (2018); Weitzman and Kaye (2018).
 
