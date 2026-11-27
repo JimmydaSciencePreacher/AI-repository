@@ -246,7 +246,16 @@ Records 0052–0059 form a deliberate **Canonical Redemption Interlude** followi
 
 These records are to be read as a connected theological sequence within the United Study, not as a replacement for the Genesis 1–2 foundation and not as a claim that Phase A is complete. Theology remains within the study's scientific inquiry under the Triple Constraint Law, while retaining its proper subject and method. The interlude brings the larger canonical purpose into view; the study now returns to the actual wording and sequence of Genesis 2 to examine the man God formed.
 
-**Continuation:** Record 0060 returns to Genesis 2:7 and examines the human creature as the text presents him: formed from the dust of the ground, given the breath of life by God, and becoming a living soul.
+**Continuation:** The sequence returns to Genesis 2 and then follows the command into Genesis 3:
+
+- [Record 0060 — Genesis 2:7: The Man Formed from Dust and Given Life](RECORD-0060-GENESIS-2-7-THE-MAN-FORMED-FROM-DUST-AND-GIVEN-LIFE.md)
+- [Record 0061 — Genesis 2:8–17: The Garden, Provision, and One Prohibited Tree](RECORD-0061-GENESIS-2-8-17-THE-GARDEN-PROVISION-AND-ONE-PROHIBITED-TREE.md)
+- [Record 0062 — Genesis 3:1–6: Free Will, the Serpent, and the Guarded Way](RECORD-0062-GENESIS-3-1-6-FREE-WILL-THE-SERPENT-AND-THE-GUARDED-WAY.md)
+- [Record 0063 — Quickened and Changed: God Works in the Creature Both to Will and to Do](RECORD-0063-QUICKENED-AND-CHANGED-THE-WILL-IS-TRANSFORMED-BY-THE-AUTHOR.md)
+
+The progression is intentional: formed man → Garden provision and command → the serpent's challenge → the human exercise of will → God's quickening and transformation of the will. Record 0061 preserves the textual distinction: two trees are named in the Garden account, but **one command prohibits eating from one tree**—the Tree of the Knowledge of Good and Evil. The Tree of Life is not a second prohibited tree in Genesis 2:16–17; access to it is guarded after the transgression (Genesis 3:22–24).
+
+The dollar-note analogy introduced by the Witness in Record 0062 defines the specific meaning of “Free Will” under examination: **independent purchasing power held and directed according to one's own purpose.** The analogy is not a claim that human willing is unreal; it distinguishes creaturely willing from autonomous authority. Record 0063 then examines God's quickening and His work in the creature “both to will and to do” (Philippians 2:13).
 
 ---
 
