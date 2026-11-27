@@ -71,6 +71,10 @@ This index follows the numbered study sequence already established in the reposi
 
 50. [Study 0050 — Recognizing the Word's Place in the Completed GUA-W: John, Colossians, and Hebrews](0050-RECOGNIZING-THE-WORDS-PLACE-IN-THE-COMPLETED-GUA-W.md)
 
+
+51. [Study 0051 — GUA-W Is a Map That Can Be Traveled: Reciprocal Navigation Across One Creation](0051-GUA-W-IS-A-MAP-THAT-CAN-BE-TRAVELED.md)
+
+
 ---
 
 ## Repository method
