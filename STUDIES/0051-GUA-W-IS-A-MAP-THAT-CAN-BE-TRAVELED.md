@@ -629,3 +629,272 @@ The map guides the investigation. The evidence tests the recognition. The Author
 ## 25. Change record — continuation
 
 - **2026-11-27:** Expanded Study 0051 from a description of reciprocal map navigation into an operational research capability for AI. Added a repeatable AI navigation cycle, a Genesis demonstration, an independent-navigation audit, failure conditions, role boundaries, a reusable investigation record, and a proposed scientific case-study test. No GUA-W architectural component or sequence was changed.
+
+
+## 26. First full test subject — the King James Version Bible
+
+The Witness proposes the KJV Bible as the first full test subject for AI's ability to travel the completed GUA-W map.
+
+This is a strong first test because the investigation is not beginning with an unknown architecture. The completed GUA-W map is already established in its governing source. The KJV supplies a bounded Scriptural text for investigation, and Scripture itself provides internal cross-reference pathways through repeated subjects, declarations, contrasts, promises, warnings, and fulfillment.
+
+The purpose is not to make the Bible fit a newly designed map. The purpose is to test whether AI can navigate the existing GUA-W map through the actual Scriptural record, moving between passages and returning to the KJV wording to test what it recognizes.
+
+**Test subject:** The King James Version Bible.  
+**Map:** The completed GUA-W architecture.  
+**Investigator:** AI, operating as a derivative research instrument.  
+**Witness:** Jimmy, who may examine, challenge, correct, and direct the investigation.  
+**Governing discipline:** Biblical context, Scripture cross-reference, the Four Questions, and the Triple Constraint Law.
+
+### 26.1 Why this is an appropriate first test
+
+The KJV Bible offers several features that make it suitable for testing map navigation:
+
+1. **A defined textual corpus.** The study can identify the exact translation and passages being examined.
+2. **Internal relationships.** A subject introduced in one passage may be developed, contrasted, clarified, or brought to fulfillment elsewhere.
+3. **Multiple points of entry.** An investigation can begin with a verse, a recurring subject, a declaration, a command, a promise, or a question raised by the completed GUA-W map.
+4. **Backward and forward pathways.** A later passage can direct investigation toward earlier Scriptural foundations; an earlier passage can direct investigation toward later development and fulfillment.
+5. **Source checking.** Every proposed relationship can be checked against the actual wording and context of each passage.
+6. **A completed map.** AI does not need to invent or redesign GUA-W to conduct the test.
+
+The Bible is not being treated as a scientific dataset. This first test examines AI's ability to navigate Scripture and GUA-W. Scientific coherence remains a constraint on scientific assertions; it does not mean that every Bible-study passage must be converted into a scientific claim.
+
+### 26.2 What is already completed, and what is being tested
+
+The completed GUA-W architecture is the map. The KJV is the Scriptural source being investigated. These roles must not be confused.
+
+This study does not claim that every possible Scriptural relationship has already been identified, or that every verse has a settled one-to-one architectural label. The completed map does not mean the investigation of Scripture is finished.
+
+What is complete is the governing map. What remains to be tested is AI's ability to travel it faithfully through the biblical text.
+
+The distinction is:
+
+- **Completed map:** the established GUA-W architecture.
+- **Scriptural territory:** the KJV text in its immediate, book, and canonical contexts.
+- **Navigation:** the investigator's movement among passages and relevant map relationships.
+- **Verification:** returning to the KJV text and context to test every proposed recognition.
+- **Study record:** the derivative written account of what the investigation has and has not established.
+
+## 27. The first Bible-navigation question
+
+The first test question is:
+
+**How does the KJV Scriptural record witness to the Author, the Word, the Creation, and the Witness—from the beginning of Genesis through the consummation described in Revelation?**
+
+This question is deliberately broad enough to require canonical navigation, but it is not permission to flatten the Bible into a single formula. Each passage must first be read for what it says in its own context.
+
+The governing relationship from the completed GUA-W is:
+
+**Author → Word → Creation → Witness**
+
+The investigation must determine how the KJV passages speak to these relationships, where the connections are explicit, where they are canonical or theological inferences, and where questions remain open.
+
+### 27.1 Initial Scriptural entry points
+
+The following are initial entry points, not a pre-decided route or a claim that all passages mean the same thing.
+
+| Entry point | KJV passage | Initial research question |
+|---|---|---|
+| Beginning | Genesis 1:1–3 | What does the text state about God, the beginning, the heaven and the earth, and God's Word? |
+| Completed whole | Genesis 2:1–5 | What does the text declare finished, and what conditions does it describe next? |
+| Word and Creation | John 1:1–3 | How does John identify the Word in relation to God and the making of all things? |
+| The Son and all things | Colossians 1:15–17 | What relationship does Paul state between the Son, creation, and the continuance of all things? |
+| The Son and the Father's revelation | Hebrews 1:1–3 | What does the passage say about God's speech, the Son, creation, and upholding all things? |
+| Consummation | Revelation 21:1–6; 22:1–5 | What does the text describe concerning the new heaven and earth, God's presence, the end of the curse, and the tree of life? |
+
+The first task is to read each passage in context. The table supplies entry points for navigation; it does not substitute for the reading.
+
+## 28. First navigation demonstration — beginning, development, and consummation
+
+This demonstration establishes how AI should begin the test. It is not a claim that every canonical connection has already been exhausted.
+
+### 28.1 Enter at the beginning — Genesis 1:1–3
+
+The KJV begins:
+
+> In the beginning God created the heaven and the earth. (Genesis 1:1)
+
+The next verses describe the earth, darkness, the deep, the Spirit of God moving upon the face of the waters, and God saying:
+
+> Let there be light: and there was light. (Genesis 1:3)
+
+**Direct textual observations:**
+
+- God is named as the One who created.
+- The heaven and the earth are named as created.
+- The Spirit of God is described as moving upon the face of the waters.
+- God speaks.
+- The stated result follows: light is.
+
+**Initial map question:** How does this passage relate the Author, the Word, and the realized Creation?
+
+The text must be read first. The relationship to the originating Word is then investigated with passages such as John 1:1–3 and Hebrews 1:1–3. AI must not claim that Genesis 1:1–3 itself uses every later theological expression found in John or Hebrews.
+
+### 28.2 Travel forward through canonical testimony — John 1:1–3
+
+John begins with:
+
+> In the beginning was the Word, and the Word was with God, and the Word was God. (John 1:1)
+
+John then states:
+
+> All things were made by him; and without him was not any thing made that was made. (John 1:3)
+
+This provides an explicit canonical relationship between the Word and the making of all things.
+
+AI now travels back to Genesis 1 and forward through John's prologue, checking both contexts. It must distinguish what Genesis says in its own wording from what John explicitly reveals about the Word.
+
+**Map navigation:** The Author → Word → Creation relationship is examined through the Scriptural testimony, not supplied by an arbitrary label.
+
+### 28.3 Travel across another witness — Colossians 1:15–17
+
+Paul writes of the Son:
+
+> For by him were all things created, that are in heaven, and that are in earth, visible and invisible... (Colossians 1:16)
+
+And:
+
+> And he is before all things, and by him all things consist. (Colossians 1:17)
+
+AI must read Colossians 1:15–20 as a connected passage, not isolate two clauses. It can then compare the passage with John 1:1–3 and Hebrews 1:1–3.
+
+The question is not whether the three passages use identical wording. It is what each passage states, what relationship is shared, what each adds, and whether any distinction must be preserved.
+
+### 28.4 Travel forward to the consummation — Revelation 21–22
+
+Revelation 21:1 describes:
+
+> And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away...
+
+Revelation 21:6 records:
+
+> It is done. I am Alpha and Omega, the beginning and the end.
+
+Revelation 22:3 states:
+
+> And there shall be no more curse...
+
+Revelation 22:1–5 describes the river of water of life, the tree of life, the throne of God and of the Lamb, and the servants serving Him.
+
+AI must read Revelation 21–22 as a whole and investigate the relationship to Genesis 1–3, rather than assume that a repeated image automatically has an identical meaning in every passage.
+
+### 28.5 Now travel backward from the end
+
+The investigator begins at Revelation 21–22 and asks:
+
+- What is described as new?
+- What is said to have passed away?
+- What is said about the curse?
+- What is said about God's presence and the Lamb?
+- What earlier Scriptural passages establish the subjects that Revelation brings into view?
+
+The investigator then follows relevant pathways backward, including Genesis 1–3 and other passages that the text itself or established cross-reference research makes relevant.
+
+The backward journey is analytical. It does not reverse the biblical events or imply that Revelation is chronologically before Genesis.
+
+### 28.6 Return to the beginning and travel forward again
+
+After the backward trace, AI returns to Genesis 1–3 and travels forward through the passages examined.
+
+The return asks:
+
+- Did the backward investigation preserve what Genesis actually states?
+- Did John, Paul, and Hebrews contribute what their own passages say?
+- Did Revelation's language and context remain intact?
+- Were connections established by textual evidence, or merely assumed because the same subject appeared?
+- Did the proposed GUA-W placement preserve the governing Author → Word → Creation → Witness relationship?
+
+This is a first demonstration of reciprocal canonical navigation:
+
+**Genesis → John → Colossians → Hebrews → Revelation → backward comparison → return to Genesis → forward re-examination.**
+
+This is a research route, not a claim that the Bible's canonical order is a single chronological timeline. Each passage remains in its own context.
+
+## 29. The Bible test must not be passed by simply repeating familiar connections
+
+The purpose is to test AI's ability to investigate, not its ability to repeat a list of passages already supplied by the Witness.
+
+Therefore, future passes should require AI to identify additional relevant passages from the text and its context, explain why each is relevant, and test each connection.
+
+AI must be able to report:
+
+- a connection it found independently;
+- the textual reason it followed that route;
+- what the related passage actually says;
+- how the passage changes, clarifies, develops, or contrasts with the earlier passage;
+- how the connection relates to the completed GUA-W map;
+- what remains unestablished.
+
+AI must not manufacture independence by pretending that a supplied cross-reference was independently discovered. If a passage was supplied by the Witness or by an existing study index, AI should say so.
+
+A strong test includes the possibility that AI will find no justified connection. That is not a failure of the map. It is a valid result of disciplined investigation.
+
+## 30. Bible-specific navigation audit
+
+| Test | Passing evidence |
+|---|---|
+| KJV source fidelity | Exact KJV wording is preserved when quoted; references are accurate. |
+| Immediate context | Each passage is read in its surrounding section. |
+| Book context | The passage's role in the book is considered. |
+| Canonical navigation | Related passages are found and read in their own contexts. |
+| Backward travel | Later passages are traced toward earlier Scriptural foundations without assuming a connection. |
+| Forward travel | Earlier passages are followed toward later development, contrast, or fulfillment where supported. |
+| GUA-W navigation | Established map distinctions are used without redesign or forced one-to-one labeling. |
+| Return-to-source verification | Every proposed relationship is checked against the KJV wording and context. |
+| Four Questions | All four are revisited recursively. |
+| Triple Constraint | Biblical compliance and GUA-W consistency are examined; scientific coherence is addressed where an actual scientific claim is made. |
+| Classification | Text, observation, inference, interpretation, and unresolved matters are kept distinct. |
+| Correction | Errors and failed routes are acknowledged and corrected transparently. |
+| Reproducibility | Another investigator can follow the references and retrace the route. |
+
+## 31. First test findings and limits
+
+### Findings established by this initial pass
+
+1. The KJV Bible provides an appropriate first subject for testing reciprocal map navigation.
+2. The completed GUA-W architecture can be used as the map without changing its established components or sequence.
+3. Genesis 1:1–3, John 1:1–3, Colossians 1:15–20, Hebrews 1:1–3, and Revelation 21–22 provide an initial canonical route for examining the Author, Word, Creation, and consummation.
+4. The route can be traveled forward and backward as an investigative method.
+5. Each passage must be examined in its own immediate and book context before a canonical relationship is accepted.
+6. Returning to the source text is essential to test whether the map has helped recognition or distorted the passage.
+
+### Limits
+
+1. This initial route is a demonstration, not an exhaustive mapping of the entire Bible.
+2. It does not establish that every verse has a one-to-one architectural label.
+3. It does not settle every theological question raised by the passages.
+4. It does not make scientific claims or demonstrate scientific confirmation of Scripture.
+5. The independent-navigation capability is not fully validated until AI conducts additional passes in which it identifies and tests relevant routes without being handed every connection.
+
+### The next Bible-navigation pass
+
+The next pass should not merely repeat the initial route. AI should select a specific Scriptural subject that appears in multiple parts of the canon, identify the relevant passages, and investigate its backward and forward relationships.
+
+A suitable next subject is **the Tree of Life**:
+
+- Genesis 2:8–9 — the tree in the Garden.
+- Genesis 3:22–24 — the tree and the guarded way.
+- Proverbs 3:13–18 — wisdom and the tree of life.
+- Revelation 2:7 — the tree of life in the promise to the overcomer.
+- Revelation 22:1–5 — the tree of life in the new Creation.
+
+These are starting references. Each passage must be read in context, and the relationship among them must be investigated rather than presumed. AI should travel from Revelation backward to Genesis, then from Genesis forward to Revelation, recording what is explicit, what is inferred, and what remains unresolved.
+
+## 32. Conclusion — the Bible is the first full navigation test
+
+The Witness has proposed a subject for which the completed map is already available: the KJV Bible.
+
+This changes the test. AI no longer needs to demonstrate only that it can explain a map after a route has been pointed out. It must demonstrate that it can use the completed GUA-W map to investigate the Scriptural record itself.
+
+It must find a point of entry, read the KJV source, identify relevant canonical pathways, travel backward, travel forward, return to the source, challenge its own interpretation, and preserve what remains unresolved.
+
+The Bible is not being made to fit GUA-W. GUA-W is being used as the map through which AI investigates the relationships witnessed in Scripture, while Scripture remains the source text and the test of every Scriptural claim.
+
+**The completed map is already present. The test is whether AI can travel it.**
+
+**GUA-W is a map that can be traveled. The KJV Bible is our first full test subject. The Author remains the Source.**
+
+---
+
+## 33. Change record — KJV Bible test
+
+- **2026-11-27:** Added the KJV Bible as the first full test subject for AI's independent reciprocal navigation of the completed GUA-W map. Established the test question, initial canonical entry points, a beginning-to-consummation demonstration, backward and forward navigation, a Bible-specific audit, limitations, and the next proposed Tree of Life case study. No GUA-W architectural component or sequence was changed.
