@@ -5371,3 +5371,256 @@ The end of Genesis 3 is not merely a repetition of the curse. It records further
 The next pass will test whether AI can distinguish a responsibility entrusted to a creature from a boundary subsequently guarded by the Author.
 
 **A changed condition must be traced to the source's actual statement and action—not explained by an assumption carried into the text.**
+
+
+## 229. Thirteenth navigation pass — Genesis 3:20–24: naming, provision, removal, and guarded access
+
+The previous pass examined consequences addressed to the serpent, the woman, and the man. The closing verses of Genesis 3 record further actions and a change in the man's location.
+
+Follow the text in order:
+- Genesis 3:20 — Adam names his wife Eve.
+- Genesis 3:21 — the LORD God makes coats of skins and clothes them.
+- Genesis 3:22 — the LORD God speaks concerning knowledge of good and evil and the tree of life.
+- Genesis 3:23 — the man is sent out of the Garden.
+- Genesis 3:24 — the man is driven out, and cherubims and a flaming sword are placed to keep the way to the tree of life.
+
+Naming, clothing, sending out, and guarding are different actions. They must not be collapsed into one event.
+
+## 230. Genesis 3:20 — Adam names his wife
+
+The KJV reads:
+
+> “And Adam called his wife's name Eve; because she was the mother of all living.”
+
+The Hebrew name is חַוָּה (*Chavvah*, commonly rendered Eve). The verse itself supplies the explanation associated with the name: she was “the mother of all living.”
+
+The text records Adam's act of naming. It does not identify him as the source or creator of life, nor does this verse explain every implication of the name.
+
+The bounded observation is: **Adam names his wife, and the narrator connects that name with her being the mother of all living.** Naming must not be confused with creating.
+
+## 231. Genesis 3:21 — God makes and provides the clothing
+
+The KJV reads:
+
+> “Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.”
+
+Compare Genesis 3:7:
+
+> “And they sewed fig leaves together, and made themselves aprons.”
+
+The makers and coverings differ.
+
+| Genesis 3:7 | Genesis 3:21 |
+|---|---|
+| The man and woman sew fig leaves together. | The LORD God makes coats of skins. |
+| They make coverings for themselves. | God clothes them. |
+| Fig leaves are identified. | Skins are identified. |
+
+The text explicitly identifies God's action in verse 21. It does not explain how the skins were obtained. It does not explicitly mention an animal sacrifice, the death of a particular animal, or an atonement ritual in this verse.
+
+Those connections may be investigated elsewhere in Scripture, but they must not be inserted into Genesis 3:21 as though stated there.
+
+A distinction is visible: **the coverings the humans made in verse 7 and the clothing God makes and provides in verse 21 are not the same recorded action.**
+
+## 232. Genesis 3:22 — knowledge and the tree of life
+
+The KJV reads:
+
+> “And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:”
+
+The verse brings together two subjects already encountered: knowing good and evil, and the tree of life.
+
+Genesis 3:5 records the serpent promising opened eyes and that they would be as gods, knowing good and evil. Genesis 3:7 records opened eyes and recognition of nakedness. Genesis 3:22 now records the LORD God saying that the man has become as one of “us,” to know good and evil.
+
+The correspondence must be acknowledged; the narrative itself makes the connection. But the statement does not say that the man has become God, equal to God in every respect, or the original authority over all truth. Those conclusions exceed the wording.
+
+The verse immediately continues with the concern that the man might take also of the tree of life, eat, and live forever. Both clauses must remain in view.
+
+## 233. The tree of life — a boundary concerning access
+
+Genesis 3:22 identifies a possibility:
+
+> “lest he put forth his hand, and take also of the tree of life, and eat, and live for ever”
+
+Genesis 2:9 had already identified the tree of life as being in the midst of the Garden, along with the tree of the knowledge of good and evil.
+
+The closing passage returns to that tree and gives a stated reason for the action that follows: the man must not take and eat from the tree of life and live forever.
+
+We should not invent a biological mechanism for the tree or claim that the passage describes its chemistry. The narrative presents it as the tree of life and identifies the consequence associated with eating from it.
+
+Distinguish what the text says the tree is, what it says would happen if the man ate, and what God does to restrict access.
+
+## 234. Genesis 3:23 — sent out of the Garden
+
+The KJV reads:
+
+> “Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.”
+
+“Therefore” connects the action to the preceding statement in verse 22.
+
+The man is sent out of the Garden, and the verse identifies what he is to do: till the ground from which he was taken.
+
+Genesis 2:15 placed the man in the Garden to dress and keep it. Genesis 3:23 describes the man being sent out to till the ground from which he was taken. The location and wording differ.
+
+Work itself was not first invented after the Fall; Genesis 2:15 already identifies work before the transgression. Nor should we say that the Garden assignment and the later tilling of the ground are identical in every detail.
+
+The bounded finding is: **the man is sent out of the Garden, and his labor is now explicitly associated with the ground from which he was taken.**
+
+## 235. Genesis 3:24 — driven out and the way guarded
+
+The KJV reads:
+
+> “So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.”
+
+The verse records two related but distinguishable actions:
+
+1. God drives the man out.
+2. God places cherubims and a flaming sword to keep the way of the tree of life.
+
+The object being kept is explicit: “the way of the tree of life.”
+
+This matters for comparison with Genesis 2:15, where the man is placed in the Garden “to dress it and to keep it.” The same English word, “keep,” appears in both passages. The Hebrew must be examined rather than assuming that the English word alone settles the relationship.
+
+## 236. Hebrew route — the shared word שָׁמַר (*shamar*)
+
+Genesis 2:15 uses the Hebrew root שָׁמַר (*shamar*), commonly associated with keeping, guarding, watching, or preserving. The form in Genesis 2:15 is connected with the man's assignment to keep the Garden.
+
+Genesis 3:24 uses the same Hebrew root in the expression translated “to keep the way of the tree of life.”
+
+The shared root is significant, but a shared word does not automatically establish an identical task.
+
+Compare the objects:
+- Genesis 2:15 — the Garden is the object associated with the man's keeping.
+- Genesis 3:24 — the way of the tree of life is the object being guarded.
+
+Compare the agents:
+- Genesis 2:15 — the man receives the assignment.
+- Genesis 3:24 — cherubims and the flaming sword are placed by God.
+
+Compare the circumstances:
+- Genesis 2:15 — the man is placed within the Garden and given work.
+- Genesis 3:24 — the man has been driven out, and access to the tree of life is guarded.
+
+**The root is shared. The object, agent, and circumstance differ.** The two responsibilities must not be declared identical merely because the same Hebrew root occurs.
+
+## 237. Entrusted keeping and guarded access
+
+| Feature | Genesis 2:15 | Genesis 3:24 |
+|---|---|---|
+| Agent | Man | Cherubims and flaming sword are placed by God |
+| Object | Garden | Way of the tree of life |
+| Hebrew root | שָׁמַר (*shamar*) | שָׁמַר (*shamar*) |
+| Context | Entrusted work within the Garden | Guarding access after the man's removal |
+| Narrative function | Responsibility assigned to the man | Boundary maintained by God's appointed guardians |
+
+The man receives responsibility within the Garden. At the end of the chapter, God establishes a guarded boundary concerning access to the tree of life.
+
+The man's earlier assignment does not make him the authority over the tree of life. Nor does the shared Hebrew word make the cherubims recipients of the man's original assignment.
+
+Source, agent, object, and purpose must all be retained.
+
+## 238. Did Adam fail to keep the Garden?
+
+Genesis 2:15 and Genesis 3:24 invite a question: was Adam's original keeping assignment related to the later guarding of access?
+
+The lexical relationship makes the question legitimate. It does not, by itself, answer it.
+
+Genesis 3:24 does not explicitly say:
+- that Adam was assigned to guard the tree of life;
+- that the serpent entered because Adam failed to guard it;
+- that Adam's keeping assignment was specifically a security assignment against the serpent;
+- that the cherubims were completing Adam's failed task.
+
+These are possible interpretive proposals, not statements established by these verses.
+
+We must preserve the distinction between a question raised by a textual relationship and a conclusion established by the text.
+
+Further investigation should examine the wording and context of Genesis 2:15, including the relationship between the verbs translated “dress” and “keep,” and the narrative's description of the serpent's presence in the Garden.
+
+For now, the evidence establishes a shared guarding word and different agents and objects.
+
+## 239. Return route — the Genesis 2–3 movement
+
+| Passage | Recorded event |
+|---|---|
+| Genesis 2:8–9 | God plants the Garden and identifies its trees, including the tree of life. |
+| Genesis 2:15 | God places the man in the Garden to dress and keep it. |
+| Genesis 2:16–17 | God gives permission and establishes a prohibition. |
+| Genesis 3:1–5 | The serpent questions, reframes, and contradicts the instruction. |
+| Genesis 3:6–7 | The woman and man eat; their eyes are opened and they recognize their nakedness. |
+| Genesis 3:8–13 | They hide; God questions them; each human participant acknowledges eating. |
+| Genesis 3:14–19 | God addresses the serpent, woman, and man; the ground and human labor are described under changed conditions. |
+| Genesis 3:20 | Adam names his wife Eve. |
+| Genesis 3:21 | God makes coats of skins and clothes them. |
+| Genesis 3:22 | God speaks concerning knowledge of good and evil and the tree of life. |
+| Genesis 3:23 | The man is sent out to till the ground. |
+| Genesis 3:24 | The way of the tree of life is guarded. |
+
+The route confirms that the end of Genesis 3 cannot be read properly by isolating the final verse from the original Garden assignment.
+
+## 240. Triple Constraint examination — naming, provision, removal, and guarding
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Result |
+|---|---|---|---|---|
+| Adam names his wife Eve. | Explicit in 3:20. | Preserves the narrated act. | Distinguishes naming from creating. | Accepted |
+| God makes coats of skins and clothes them. | Explicit in 3:21. | Does not invent how skins were obtained. | Preserves the identified provider. | Accepted |
+| Genesis 3:21 explicitly describes an animal sacrifice. | Not stated in the verse. | Adds an unstated mechanism. | Exceeds the source. | Not established |
+| Genesis 3:22 returns to knowing good and evil. | Explicit. | Direct comparison with 3:5–7. | Tests earlier claims against later statements. | Accepted |
+| The tree of life is connected with living forever in the stated concern. | Explicit in 3:22. | Does not invent a biological mechanism. | Preserves the stated boundary. | Accepted |
+| The man is sent out to till the ground. | Explicit in 3:23. | Preserves location and task. | Tracks changed conditions. | Accepted |
+| Genesis 2:15 and 3:24 use the same Hebrew root for keeping. | Supported by the Hebrew wording. | Lexical comparison, not a physical theory. | Detects a relationship across passages. | Accepted |
+| The two passages describe identical responsibilities. | Not established. | Ignores different agents and objects. | Collapses distinctions. | Rejected |
+| Adam was explicitly assigned to guard the tree of life. | Not stated in these verses. | Turns inference into fact. | Exceeds the source. | Not established |
+| God places guardians to keep the way to the tree of life. | Explicit in 3:24. | Preserves the narrated action. | Distinguishes entrusted work from guarded access. | Accepted |
+
+## 241. Thirteenth-pass finding — the same word does not erase different responsibilities
+
+Genesis 2:15 and Genesis 3:24 share the Hebrew root שָׁמַר (*shamar*). But the passages identify different agents, objects, and circumstances.
+
+The man receives an assignment within the Garden. After the man is removed, God places cherubims and a flaming sword to keep the way of the tree of life.
+
+The investigator must not confuse:
+- a shared word with an identical assignment;
+- an entrusted responsibility with ultimate authority;
+- work within a place with guarding access to a place;
+- a possible inference with an explicit statement.
+
+**The same operation-word can appear in different relationships without making the relationships identical.**
+
+### RINC operational addition — shared-word, distinct-function audit
+
+When the same word appears in multiple passages, AI must:
+
+1. Retrieve each passage in its full context.
+2. Identify the original-language word and grammatical form.
+3. Identify the agent in each occurrence.
+4. Identify the object of the action.
+5. Identify the circumstances in which the action occurs.
+6. Compare the function without assuming identity.
+7. Record what the shared word establishes.
+8. Record what the shared word does not establish.
+9. Return to the original passage before drawing an architectural conclusion.
+
+This prevents AI from treating vocabulary matching as proof that two responsibilities, authorities, or functions are identical.
+
+## 242. Next route — return to Genesis 2:15 and investigate the original assignment
+
+Genesis 3 has now been followed to its conclusion. The next route travels backward to Genesis 2:15 and examines the assignment itself.
+
+Investigate:
+- לְעָבְדָהּ (*le'ovdah*) — translated “to dress it.”
+- וּלְשָׁמְרָהּ (*uleshomrah*) — translated “to keep it.”
+
+Questions:
+
+1. What do the two Hebrew verbs contribute separately?
+2. What does their grammatical relationship tell us about the assignment?
+3. What is the referent of “it” in the verse?
+4. Does the text describe cultivation, service, guarding, or a combination?
+5. How does the serpent's presence in Genesis 3 relate to the original assignment?
+6. Does Genesis explicitly identify a failure of the keeping responsibility, or does it leave that question open?
+7. How should Genesis 2:15 be read alongside Genesis 3:23–24 without importing an assumption from the later events?
+
+This route is important because we now have a completed Genesis 3 sequence to compare against the original assignment.
+
+**AI must travel backward from a consequence to the original instruction, investigate the relationship, and return without changing what either passage actually says.**
